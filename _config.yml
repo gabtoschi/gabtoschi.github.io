@@ -1,1 +1,45 @@
-theme: jekyll-theme-minimal
+# Site/SEO settings
+email: gabriel.toschi@hotmail.com
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+title: Gabriel Toschi
+description: Textos sobre coisas que você talvez não se importe, mas que eu espero que goste de qualquer forma.
+url: "https://gabtoschi.github.io"
+baseurl: ""
+twitter_username: gabtoschi
+default_img:
+
+# Profile settings
+name: Gabriel Toschi
+profile_img:
+profile: Teste
+social:
+  twitter: https://twitter.com/gabtoschi
+  github: https://github.com/gabtoschi
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - octopress-autoprefixer
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - _screenshots
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page-:num"
+
+# Sass
+sass:
+  style: compressed
