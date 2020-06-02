@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: gabriel.toschi@hotmail.com
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:title/
 google_analytics:
 
 title: Gabriel Toschi
@@ -12,8 +12,8 @@ default_img:
 
 # Profile settings
 name: Gabriel Toschi
-profile_img:
-profile: Teste
+profile_img: ../../assets/img/blog/profileimage.jpg
+profile_txt: <b>Gabriel Toschi</b> é desenvolvedor web, game designer e gosta de escrever. Tudo que você lê aqui provavelmente veio de um banho que demorou um pouco mais do que devia, tudo por causa dessa ideia que você acabou de ler. Ele acha estranho falar de si mesmo na terceira pessoa.
 social:
   twitter: https://twitter.com/gabtoschi
   github: https://github.com/gabtoschi

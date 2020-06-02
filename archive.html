@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Archive
-description: 
-permalink: /archive/
+title: Arquivo
+description:
+permalink: /arquivo/
 ---
 <section class="archives" itemscope itemtype="http://schema.org/Blog">
   <a class="nav nav--black" href="{{ site.baseurl }}/">
     <i class="fa fa-lg fa-arrow-left"></i>
-    <span>Back to Posts</span>
+    <span>Voltar aos posts</span>
   </a>
   <header class="archives__header">
-    <span>Archive</span>
+    <span>Arquivo</span>
   </header>
   <div class="section-padding archives__container">
     {% for post in site.posts %}
@@ -26,12 +26,12 @@ permalink: /archive/
           <div class="card__container">
             <h2 class="card__header" itemprop="name">{{ post.title }}</h2>
             <p class="card__count" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">
-              {{ post.date | date: "%b %-d, %Y" }}
+              {{ post.date | date: "%d/%m/%Y" }}
               {% if post.categories.size > 0 %}
                 in {{ post.categories | join: ', ' }}
               {% endif %}
             </p>
-            <span class="card__more">Read Post</span>
+            <span class="card__more">Ler Post</span>
           </div>
         </a>
       </article>
