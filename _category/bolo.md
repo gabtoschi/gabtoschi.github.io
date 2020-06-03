@@ -1,4 +1,4 @@
 ---
 tag: bolo
-permalink: "/category/bolo"
+permalink: "/category/bolo/index.html"
 ---

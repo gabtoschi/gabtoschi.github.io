@@ -1,4 +1,4 @@
 ---
 tag: uma
-permalink: "/category/uma"
+permalink: "/category/uma/index.html"
 ---
