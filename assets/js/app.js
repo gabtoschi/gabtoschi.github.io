@@ -16,7 +16,7 @@ var Tabs = (function() {
     display: function() {
       if (s.tab.length) {
         [].forEach.call(s.tab, function(tab, idx) {
-          if (idx > 0) tab.style.display = 'none';          
+          if (idx > 0) tab.style.display = 'none';
         });
         s.tab[0].classList.add('active');
         s.tabs[0].classList.add('active');
@@ -55,7 +55,8 @@ var Preview = (function() {
   return {
     settings: {
       img: document.getElementsByClassName('preview__img'),
-      post: document.getElementsByClassName('preview')
+      post: document.getElementsByClassName('preview'),
+      default: document.getElementsByClassName('preview__default'),
     },
 
     init: function() {
@@ -67,14 +68,14 @@ var Preview = (function() {
     display: function() {
       if (s.img.length) {
         [].forEach.call(s.img, function(img, idx) {
-          if (idx > 0) img.style.display = 'none';
+          if (idx >= 0) img.style.display = 'none';
         });
       }
     },
 
     mouseenter: function() {
       if (s.post.length) {
-        var currentIdx = 0,
+        var currentIdx = -1,
             prevIdx = currentIdx;
 
         [].forEach.call(s.post, function(preview, idx) {
@@ -82,8 +83,9 @@ var Preview = (function() {
             prevIdx = currentIdx;
             currentIdx = idx;
 
-            if (prevIdx !== currentIdx) {
-              s.img[prevIdx].style.display = 'none';
+            if (prevIdx === -1 || prevIdx !== currentIdx) {
+              if (prevIdx !== -1) s.img[prevIdx].style.display = 'none';
+              else s.default[0].style.display = 'none';
               s.img[currentIdx].style.display = 'block';
             }
           });

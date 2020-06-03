@@ -24,7 +24,7 @@
   ul {
     list-style-type: none;
   }
-  
+
   &__item {
     cursor: pointer;
 
@@ -34,6 +34,10 @@
 
     &.active {
       border-bottom: 3px solid $color-alpha;
+    }
+
+    @media (max-width: $mq-sm) {
+      font-size: 80%;
     }
   }
 }
@@ -85,7 +89,7 @@
 
 .preview {
   transition: background-color 0.2s ease-in-out;
-  
+
   &:nth-child(even) {
     background-color: $color-white;
   }
@@ -100,6 +104,11 @@
   }
 
   &__img {
+    will-change: opacity;
+    animation: fade-in 1s both;
+  }
+
+  &__default {
     will-change: opacity;
     animation: fade-in 1s both;
   }
@@ -188,7 +197,7 @@
       &:after {
         opacity: 1;
       }
-      
+
       .card__more {
         box-shadow: inset 175px 0 0 0 $color-alpha;
         color: $color-white;
@@ -286,7 +295,7 @@
 
     & > *:not(:last-child) {
       margin-right: 1em;
-    }    
+    }
   }
 }
 
@@ -406,7 +415,7 @@
     margin-bottom: 0;
   }
 
-  h1, 
+  h1,
   h2 {
     line-height: 1.2;
   }
@@ -433,7 +442,7 @@
     list-style-type: none;
     counter-reset: li;
 
-    & > li:before { 
+    & > li:before {
       content: counter(li) ".";
 
       counter-increment: li;
