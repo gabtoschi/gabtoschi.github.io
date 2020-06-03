@@ -11,7 +11,7 @@
 
   list-style-type: none;
 
-  @media (min-width: $mq-md) {
+  @media (min-width: $mq-xl) {
     padding-left: 8em;
     padding-right: 8em;
   }
@@ -36,9 +36,10 @@
       border-bottom: 3px solid $color-alpha;
     }
 
-    @media (max-width: $mq-sm) {
+    @media (max-width: $mq-md) {
       font-size: 80%;
     }
+
   }
 }
 
