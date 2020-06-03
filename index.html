@@ -35,7 +35,11 @@ layout: default
               <a class="preview__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
                 <span class="preview__date" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</span>
                 <h2 class="preview__header" itemprop="name">{{ post.title }}</h2>
-                <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
+                {% if post.description %}
+                  <p class="preview__excerpt" itemprop="description">{{ post.description }}</p>
+                {% else %}
+                  <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
+                {% endif %}
                 <span class="preview__more">Leia Mais</span>
               </a>
             </article>
