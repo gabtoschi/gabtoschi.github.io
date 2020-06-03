@@ -3,7 +3,7 @@ layout: post
 title: "Nome grande de post pra eu poder testar"
 date: 2016-02-20
 categories:
-  - Teste2
+  - Bolo
 description:
 image: https://picsum.photos/2000/1200?image=423
 image-sm: https://picsum.photos/500/300?image=423

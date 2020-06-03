@@ -8,7 +8,7 @@ description: Textos sobre coisas que você talvez não se importe, mas que eu es
 url: "https://gabtoschi.github.io"
 baseurl: ""
 twitter_username: gabtoschi
-default_img:
+default_img: https://gabtoschi.github.io/assets/img/blog/profileimage.jpg
 
 # Profile settings
 name: Gabriel Toschi
@@ -17,6 +17,19 @@ profile_txt: <b>Gabriel Toschi</b> é desenvolvedor web, game designer e gosta d
 social:
   twitter: https://twitter.com/gabtoschi
   github: https://github.com/gabtoschi
+
+# Collection settings
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category_index"
 
 # Build settings
 markdown: kramdown
