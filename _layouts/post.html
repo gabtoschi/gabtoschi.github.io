@@ -37,7 +37,11 @@ layout: default
         <figure class="absolute-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
       </div>
       <div class="profile__container">
-        <p>{{ site.profile_txt }}</p>
+        {% if page.profile_txt %}
+          <p>{{ page.profile_txt }}</p>
+        {% else %}
+          <p>{{ site.profile_txt }}</p>
+        {% endif %}
         {% if site.email or site.social %}
           <ul class="profile__social">
             {% if site.email %}

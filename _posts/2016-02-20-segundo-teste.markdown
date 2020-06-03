@@ -5,6 +5,7 @@ date: 2016-02-20
 categories:
   - Bolo
 description: Esse é um teste de resumo!
+profile_txt: <b>Gabriel Toschi</b> deveria estar dormindo porque trabalha amanhã. Mas melhor fazer agora que ele tá animado do que nunca.
 image: https://picsum.photos/2000/1200?image=423
 image-sm: https://picsum.photos/500/300?image=423
 ---
