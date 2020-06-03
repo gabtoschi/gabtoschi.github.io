@@ -17,6 +17,7 @@ profile_txt: <b>Gabriel Toschi</b> é desenvolvedor web, game designer e gosta d
 social:
   twitter: https://twitter.com/gabtoschi
   github: https://github.com/gabtoschi
+  rss-square: https://gabtoschi.github.io/feed.xml
 
 # Collection settings
 collections:
