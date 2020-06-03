@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: gabriel.toschi@hotmail.com
-permalink: /:year/:title/
+permalink: /:title/
 google_analytics:
 
 title: Gabriel Toschi

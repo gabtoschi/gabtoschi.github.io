@@ -154,6 +154,15 @@ ol, ul {
   padding: 0;
 }
 
+hr {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  border: none;
+  color: $color-alpha;
+  background-color: $color-alpha;
+  height: 0.1em;
+}
+
 /**
  * Text Selection
  */

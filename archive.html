@@ -28,7 +28,7 @@ permalink: /arquivo/
             <p class="card__count" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">
               {{ post.date | date: "%d/%m/%Y" }}
               {% if post.categories.size > 0 %}
-                in {{ post.categories | join: ', ' }}
+                | {{ post.categories | join: ', ' }}
               {% endif %}
             </p>
             <span class="card__more">Ler Post</span>
