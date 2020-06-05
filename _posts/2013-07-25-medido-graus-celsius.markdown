@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Medido em graus Celsius"
-date: 2020-06-02
+date: 2013-07-25
 categories:
   - Vida
 description: Já ouviu falar em "termômetro biológico"? Eu já, e foi em um sonho.
