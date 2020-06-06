@@ -12,7 +12,7 @@ image-sm: ../../assets/img/posts/medido-graus-celsius/cover-sm.jpg
 
 São poucos os sonhos que tenho e consigo me lembrar depois, principalmente se faz tempo que isso aconteceu. Mas esse ficou na minha cabeça como um grande WTF. Na verdade, eu ainda não entendi como eu consegui sonhar nisso.
 
-Na realidade, eu nem lembro se a história foi exatamente assim — ou **se eu sonhei que tive um sonho**. De toda forma, se encaixa aqui.
+Na realidade, eu nem lembro se a história foi exatamente assim — ou **se eu sonhei que tive um sonho**. De toda forma, se encaixa aqui.
 
 ---
 
