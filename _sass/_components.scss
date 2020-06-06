@@ -77,7 +77,7 @@
     padding: 2em;
 
     color: $color-white;
-    text-shadow: 3px 2px 10px $color-alpha;
+    text-shadow: 2px 2px 3px $color-alpha;
 
     span {
       @extend %letter-spacing;
@@ -331,7 +331,7 @@
     height: 100%;
     width: 90%;
     margin: 0 auto;
-    text-shadow: 3px 2px 10px $color-alpha;
+    text-shadow: 2px 2px 3px $color-alpha;
   }
 
   h1 {
@@ -461,7 +461,7 @@
   }
 
   img {
-    margin: 2em 0;
+    margin: 2em auto;
   }
 
   figure {
