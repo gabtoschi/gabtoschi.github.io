@@ -6,8 +6,8 @@ categories:
   - Vida
 description: Já ouviu falar em "termômetro biológico"? Eu já, e foi em um sonho.
 profile_txt: <b>Gabriel Toschi</b> escreveu originalmente esse texto em 2013, no auge dos seus 15 aninhos. Por mais que o sonho nunca tenha saído de sua memória e configure um dos momentos mais estranhos de sua infância, o real motivo dele estar aqui era ter algo para testar o layout do blog.
-image: ../../assets/img/posts/medido-graus-celsius.jpg
-image-sm: ../../assets/img/posts/medido-graus-celsius-sm.jpg
+image: ../../assets/img/posts/medido-graus-celsius/cover.jpg
+image-sm: ../../assets/img/posts/medido-graus-celsius/cover-sm.jpg
 ---
 
 São poucos os sonhos que tenho e consigo me lembrar depois, principalmente se faz tempo que isso aconteceu. Mas esse ficou na minha cabeça como um grande WTF. Na verdade, eu ainda não entendi como eu consegui sonhar nisso.
