@@ -3,7 +3,7 @@ layout: post
 title: "Medido em graus Celsius"
 date: 2013-07-25
 categories:
-  - Vida
+  - Devaneios
 description: Já ouviu falar em "termômetro biológico"? Eu já, e foi em um sonho.
 profile_txt: <b>Gabriel Toschi</b> escreveu originalmente esse texto em 2013, no auge dos seus 15 aninhos. Por mais que o sonho nunca tenha saído de sua memória e configure um dos momentos mais estranhos de sua infância, o real motivo dele estar aqui era ter algo para testar o layout do blog.
 image: ../../assets/img/posts/medido-graus-celsius/cover.jpg
