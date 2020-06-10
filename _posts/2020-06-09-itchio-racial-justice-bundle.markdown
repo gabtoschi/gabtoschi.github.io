@@ -151,7 +151,7 @@ Se você é desenvolvedor de jogos (profissionalmente ou por hobby), também tem
 - [Heroic Asset Series: Creature Pack](https://iknowkingrabbit.itch.io/heroic-creature-pack)
 - [Deep Forest - 16 Colour Tileset](https://aamatniekss.itch.io/deep-forest-pixel-tileset)
 - [8bit Overworld Tileset](https://itchabop.itch.io/8bit-overworld-adventure)
-- [BearFX Explosions | Pixel VFX Pack](https://like100bears.itch.io/bearfx-explosions)
+- [BearFX Explosions Pixel VFX Pack](https://like100bears.itch.io/bearfx-explosions)
 - [Hitboxes and Hurtboxes](https://ratcasket.itch.io/hitboxes-and-hurtboxes)
 - [Low Poly Auto Racing Car Pack - Devils Work.shop](https://devilsworkshop.itch.io/low-poly-auto-racing-car-pack)
 - [PIXEL FANTASY RPG ICONS](https://cazwolf.itch.io/caz-pixel-1)
