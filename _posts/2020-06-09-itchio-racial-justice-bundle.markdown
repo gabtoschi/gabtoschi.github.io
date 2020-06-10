@@ -117,6 +117,7 @@ Aqui ficam alguns jogos que eu pessoalmente ainda não joguei, mas que pareceram
 - [Tiny Dangerous Dungeons](https://adventureislands.itch.io/tiny-dangerous-dungeons)
 - [Neversong](https://serenity-forge.itch.io/neversong)
 - [Cinco Paus](https://smestorp.itch.io/cinco-paus)
+- [Heavy Bullets](https://devolverdigital.itch.io/heavybullets)
 
 # Desenvolvimento de Jogos
 Se você é desenvolvedor de jogos (profissionalmente ou por hobby), também tem muita coisa interessante no bundle. Nesse caso, eu separei todos que se encaixavam, independente da qualidade ou da temática.
