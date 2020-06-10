@@ -34,7 +34,11 @@ layout: default
   <section class="profile">
     <div class="profile__card">
       <div class="profile__img">
-        <figure class="absolute-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
+        {% if page.profile_img %}
+          <figure class="absolute-bg" style="background-image: url('{{ page.profile_img }}');"></figure>
+        {% else %}
+          <figure class="absolute-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
+        {% endif %}
       </div>
       <div class="profile__container">
         {% if page.profile_txt %}
