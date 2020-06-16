@@ -13,6 +13,8 @@ profile_img: ../../assets/img/posts/itchio-racial-justice-bundle/cover.jpg
 
 O [itch.io](https://itch.io) lançou, nos últimos dias, um bundle chamado [**Bundle for Racial Justice and Equality**](https://itch.io/b/520/bundle-for-racial-justice-and-equality) de forma a arrecadar fundos para apoiar iniciativas que apoiam pessoas negras, que estão sofrendo ataques físicos e morais nos últimos dias em todo o mundo. São mais de 1000 trabalhos entre jogos, assets, livros e soundtracks por apenas 5 dólares, aproximadamente 27 reais (o preço original dos itens combinados já ultrapassa 7 MIL DÓLARES).
 
+*ATUALIZADO (15/06/2020): acabei de repassar pelo bundle e colocar novos conteúdos que foram adicionados desde a criação do texto. Se você já olhou a lista antes e quer ver os novos, eu deixei eles separados na lista ao fim de cada seção.*
+
 ![Bundle Cover](../../assets/img/posts/itchio-racial-justice-bundle/bundle.png)
 
 De forma a incentivar você a também apoiar a iniciativa, eu decidi passar um pente fino pelo bundle, procurando conteúdos que possam ser interessantes pra você e que possam te convencer a adquirir o bundle (ou descobrir novas coisas se já tiver comprado). Se você tiver alguma sugestão, [entre em contato pelo Twitter](https://twitter.com/gabtoschi).
@@ -49,11 +51,20 @@ Como o itch.io é uma loja aberta, muitos jogos que ficam disponíveis lá são 
 - [Octodad: Dadliest Catch](https://younghorses.itch.io/octodad-dadliest-catch)
 - [Runner3](https://choice-provisions.itch.io/runner3)
 - [Oxenfree](https://night-school-studio.itch.io/oxenfree)
+- [Semblance](https://nyamakop.itch.io/semblance)
+
+
+- [Anodyne](https://han-tani.itch.io/anodyne)
+- [Pikuniku](https://devolverdigital.itch.io/pikuniku)
+- [Old Man's Journey](https://brokenrules.itch.io/old-mans-journey)
+- [Pyre](https://supergiant-games.itch.io/pyre)
+- [And Yet It Moves](https://brokenrules.itch.io/and-yet-it-moves)
 
 ### Jogos indicados (ou que pareceram interessantes)
 Aqui ficam alguns jogos que eu pessoalmente ainda não joguei, mas que pareceram bem interessantes ou foram indicados por outras pessoas.
 
-- [ART SQOOL](https://glander.itch.io/art-sqool)
+- [El Tango de la Muerte](https://smokitop.itch.io/el-tango-de-la-muerte) - joguei e recomendo!
+- [J.U.L.I.A.: Among the Stars](https://cbesoftware.itch.io/julia-among-the-stars) - joguei e recomendo!
 - [A Mortician's Tale](https://laundrybear.itch.io/morticians-tale)
 - [No Delivery](https://horror-n-oates.itch.io/no-delivery)
 - [Catlateral Damage](https://manekoware.itch.io/catlateral-damage)
@@ -72,22 +83,17 @@ Aqui ficam alguns jogos que eu pessoalmente ainda não joguei, mas que pareceram
 - [BIT RAT : Singularity](https://bucketdrumgames.itch.io/bitrat)
 - [Headspun: Dazed Edition](https://svperstring.itch.io/headspun-dazed-edition)
 - [Polymute](https://linker.itch.io/polymute)
-- [The Search](https://jasongodbey.itch.io/the-search)
 - [The Floor is Jelly](https://iansnyder.itch.io/the-floor-is-jelly)
 - [ETHEREAL](https://nonsensearts.itch.io/ethereal)
 - [Last Word](https://merlandese.itch.io/last-word)
 - [Lingotopia](https://tristan-dahl.itch.io/lingotopia)
-- [Mobius](https://papercookies.itch.io/mobius)
 - [Ruya](https://miracle-tea.itch.io/ruya)
 - [NEXT JUMP: Shmup Tactics](https://postmortempixels.itch.io/nextjump)
 - [The King's Bird](https://graffiti-games.itch.io/the-kings-bird)
 - [Parallax](https://toastygames.itch.io/parallax)
 - [Spooky Station](https://bakudas.itch.io/spooky-station)
-- [BRKÖUT](https://smugames.itch.io/brkout)
-- [Semblance](https://nyamakop.itch.io/semblance)
 - [Football Drama](https://open-lab-games.itch.io/football-drama)
 - [Blitz Breaker](https://boncho-games.itch.io/blitz-breaker)
-- [Luna](https://funomena.itch.io/luna)
 - [HEADLINER](https://unboundcreations.itch.io/headliner)
 - [Headliner: NoviNews](https://unboundcreations.itch.io/headliner-novinews)
 - [Rising Dusk](https://studiostobie.itch.io/risingdusk)
@@ -100,8 +106,6 @@ Aqui ficam alguns jogos que eu pessoalmente ainda não joguei, mas que pareceram
 - [Dawn of a Soul](https://waldemar-umaniz.itch.io/dawn-of-a-soul/download)
 - [Word Forward](https://rocketshippark.itch.io/word-forward)
 - [inSynch](https://themgames.itch.io/insynch)
-- [Fugue](https://jimjastajay.itch.io/fugue)
-- [J.U.L.I.A.: Among the Stars](https://cbesoftware.itch.io/julia-among-the-stars)
 - [Feud](https://bearwaves.itch.io/feud)
 - [The Supper](https://pixelshuh.itch.io/the-supper)
 - [Danger Crew](https://dangercrewgame.itch.io/dangercrew)
@@ -111,13 +115,48 @@ Aqui ficam alguns jogos que eu pessoalmente ainda não joguei, mas que pareceram
 - [Karambola](https://holypangolin.itch.io/karambola)
 - [Concentric](https://zerofiftyone.itch.io/concentric)
 - [Soundodger+](https://onemrbean.itch.io/soundodger)
-- [El Tango de la Muerte](https://smokitop.itch.io/el-tango-de-la-muerte)
 - [Campfire Cooking](https://hawkes.itch.io/campfire)
 - [Plunge](https://spookybunsgames.itch.io/plunge)
 - [Tiny Dangerous Dungeons](https://adventureislands.itch.io/tiny-dangerous-dungeons)
 - [Neversong](https://serenity-forge.itch.io/neversong)
 - [Cinco Paus](https://smestorp.itch.io/cinco-paus)
 - [Heavy Bullets](https://devolverdigital.itch.io/heavybullets)
+
+
+- [WitchWay](https://gleeson.itch.io/witchway)
+- [Micro Mages](https://morphcatgames.itch.io/micromages)
+- [Hidden Folks](https://adriaan.itch.io/hidden-folks)
+- [TANGLEWOOD®](https://bigevilcorporation.itch.io/tanglewood)
+- [Ganbare! Super Strikers](https://rese.itch.io/ganbare-super-strikers)
+- [Clam Man](https://marafrass.itch.io/clam-man)
+- [Super Slime Arena](https://jellyteam.itch.io/super-slime-arena)
+- [LYNE](https://thomasbowker.itch.io/lyne)
+- [Ollie & Bollie: Outdoor Estate](https://sokpop.itch.io/ollie-bollie)
+- [The Wolf's Bite](https://ericmbernier.itch.io/the-wolfs-bite)
+- [BFF or Die](https://asa-studio.itch.io/bff-or-die)
+- [FutureGrind](https://milkbaggames.itch.io/futuregrind)
+- [ALL-STARS DUNGEONS AND DIAMONDS](https://giantenemylabs.itch.io/asdad)
+- [Go Morse Go! Arcade Edition](https://kyatt7.itch.io/go-morse-go-arcade-edition)
+- [RYB](https://fleb.itch.io/ryb)
+- [Warden: Melody of the Undergrowth](https://cardboardkeep.itch.io/warden)
+- [Flat Kingdom](https://gamesstarter.itch.io/flatkingdom)
+- [Octodad](https://younghorses.itch.io/octodad) - a versão original do Dedliest Catch
+- [Chimpology](https://themorfeus.itch.io/chimpology)
+- [Insufficient Adjectives](https://razburygames.itch.io/insufficient-adjectives)
+- [Magic Trick](https://magictrick.itch.io/magic-trick)
+- [DYO](https://josia-roncancio.itch.io/dyo)
+- [TorqueL](https://nanmo.itch.io/torquelgame)
+- [Fossil Echo](https://awaceb.itch.io/fossilecho)
+- [Signs of the Sojourner](https://echodog-games.itch.io/signs-of-the-sojourner)
+- [FLAMBERGE](https://hydezeke.itch.io/flamberge)
+- [Gun Rounds](https://blabberf.itch.io/gunrounds)
+- [JUMPGRID](https://ianmaclarty.itch.io/jumpgrid)
+- [Knights of the Card Table](https://ponywolf.itch.io/kotct)
+- [Far from Noise](https://georgebatch.itch.io/far-from-noise)
+- [Death and Taxes](https://placeholdergameworks.itch.io/death-and-taxes)
+- [The World Begins With You](https://fabiandenter.itch.io/the-world-begins-with-you)
+- [Wide Ocean Big Jacket](https://turnfollow.itch.io/wide-ocean-big-jacket)
+- [Spring Falls](https://sparsegamedev.itch.io/spring-falls)
 
 # Desenvolvimento de Jogos
 Se você é desenvolvedor de jogos (profissionalmente ou por hobby), também tem muita coisa interessante no bundle. Nesse caso, eu separei todos que se encaixavam, independente da qualidade ou da temática.
@@ -175,6 +214,52 @@ Se você é desenvolvedor de jogos (profissionalmente ou por hobby), também tem
 - [Flappy AirShip GF/X Asset Pack](https://pixelbitsnbytes.itch.io/flappy-airship-gfx-asset-pack)
 - [Mini Loops](https://yadu.itch.io/mini-loops)
 
+
+- [HUGE pixelart asset pack](https://s4m-ur4i.itch.io/huge-pixelart-asset-pack)
+- [RPG Monsters & Minions HUGE Pack](https://beowulf.itch.io/rpg-boss-monsters-minions-huge-pack)
+- [Pixel Button Prompts! (Keyboard/Gamepad)](https://retrocademedia.itch.io/buttonprompts4)
+- [Extended monster pack](https://sorceressgamelab.itch.io/extended-monster-pack)
+- [PIXEL ART PLATFORM/METROIDVANIA ASSET PACK](https://o-lobster.itch.io/platformmetroidvania-pixel-art-asset-pack)
+- [Photoshop Real Pencils](https://arcade.itch.io/photoshop-pencils)
+- [Lifter -8bit Cyber Platformer Pack](https://shoehead.itch.io/lifter-8bit-cyber-platformer-pack)
+- [Summer Garden Set](https://thedicegoddess.itch.io/summer-garden-set)
+- [Relaxing Ocean SFX - Audio Asset Pack](https://squishisprite.itch.io/ocean-sfx)
+- [Kawaii Game Icons](https://roboxel.itch.io/kawaii-game-icons)
+- [THE OLD WINDMILL - GAME TILESET](https://ludicarts.itch.io/the-old-windmill-game-tileset)
+- [Candy Platformer Tileset](https://sorceressgamelab.itch.io/candy-platformer-tileset)
+- [\[Music Assets\] Three Red Hearts - Prepare to Dev Edition](https://tallbeard.itch.io/three-red-hearts-prepare-to-dev)
+- [Pixel art Forest](https://edermunizz.itch.io/pixel-art-forest)
+- [Japanese City Game Assets](https://guttykreum.itch.io/japanese-town)
+- [Glitch Brushes: Maze & Organic Textures](https://dataerase.itch.io/glitch-brushes-maze-organic-textures)
+- [Glitch Pixel Brushes II](https://dataerase.itch.io/glitch-pixel-brushes-ii)
+- [Medieval Town and Country + Interiors Bundle](https://pvgames.itch.io/medieval-town-and-country-interiors-bundle)
+- [FunkyQuadZ - 3D for Construct 3](https://kindeyegames.itch.io/funkyquadz-for-construct)
+- [SC: Monster Pack 1 - DELUXE EDITION](https://josephseraph.itch.io/sc-monster-pack-1)
+- [Construct 2/3 Pseudo 3D (with playable example)](https://italbone.itch.io/c2-c3-pseudo3d)
+- [Kings and Pigs - Source Godot Code](https://in3mo.itch.io/source-code-kings-and-pigs)
+- [PIXEL SPACESHIPS (Shoot'em Ups) - HD](https://medimongames.itch.io/pixel-spaceships-hd)
+- [City - Game Tileset](https://ludicarts.itch.io/city-game-tileset)
+- [MM's Twitch.tv IRC Interface for GameMaker](https://maddestudios.itch.io/mms-twitchtv-irc-interface-for-gamemaker)
+- [SNES Original Soundtrack Small Collection](https://ozukamusic.itch.io/snes-original-soundtrack-small-collection)
+- [Vaporwave Wallpaper Pack](https://shorkie.itch.io/vaporwavebackgroundpack)
+- [Old Man Character Sound Effects](https://writingduels.itch.io/old-man-character-sound-effects)
+- [Swords Pack x6](https://georgec.itch.io/sword)
+- [Game Maker Studio 2 Top Down Engine](https://hendracle-interactive.itch.io/game-maker-studio-2-top-down-engine)
+- [Sprite Pack - Fantasy Male Mage](https://red-baby.itch.io/sprite-pack-fantasy-male-mage)
+- [Sprite Pack - Fantasy Female Mage](https://red-baby.itch.io/sprite-pack-fantasy-female-mage)
+- [PS1 Dachshund Process Videos + Blender 3D Model](https://splitpainter.itch.io/ps1-blender-dachshund)
+- [Swords and Daggers Pack](https://georgec.itch.io/swords-and-daggers-pack-x6)
+- [Platformer SFX](https://outspacer.itch.io/platformer-sfx)
+- [Global Games Industry Guide](https://liamtwose.itch.io/global-games-industry-guide)
+- [Outdoor Adventurer Tileset](https://reshmush.itch.io/outdoor-adventurer-tileset)
+- [forest zone bitsy tile pack](https://ledoux.itch.io/forest-zone-bitsy-tile-pack)
+- [Cassette SFX](https://shapeforms.itch.io/cassette)
+- [Halloween Game Icons](https://roboxel.itch.io/halloween-game-icons)
+- [Easy Coppa](https://patolistudio.itch.io/easy-coppa)
+- [Modular Walls Asset Pack](https://skwiggs1983.itch.io/modular-walls-asset-pack)
+- [DungeonGameAssetPack](https://sorceressgamelab.itch.io/dungeon-game-asset-pack)
+- [mMcFabs's Texture to SkyBox Converter](https://maddestudios.itch.io/mms-skybox-generator)
+
 # Jogos de cartas/RPGs de mesa
 - [Hex Kit](https://cone.itch.io/hex-kit)
 - [ECH0](https://roleoverplaydead.itch.io/ech0)
@@ -193,6 +278,10 @@ Se você é desenvolvedor de jogos (profissionalmente ou por hobby), também tem
 - [Freelancers](https://swords-and-flowers.itch.io/freelancers)
 - [Pizza Heroes](https://acsherman.itch.io/pizza-heroes)
 - [La Mancha - print and play edition](https://totter87.itch.io/la-mancha)
+
+
+- [Bandit Hideout Paper Miniatures Set](https://bracnolion.itch.io/bandit-hideout)
+- [The Missing Locksmith](https://elleosiliwood.itch.io/the-missing-locksmith)
 
 # Outras coisas
 Não faz tanto sentido uma categoria pra essas coisas, mas acho que valiam um espaço na lista de toda forma.
