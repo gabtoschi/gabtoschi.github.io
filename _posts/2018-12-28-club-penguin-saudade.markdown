@@ -1,13 +1,14 @@
 ---
 layout: post
+
 title: O Clube do Pingüim
 date: 2018-12-28
-categories:
-  - Jogos
-description: Pingüins, pizzas, peixes e chapéus. Desde 2008.
-profile_txt: <b>Gabriel Toschi</b>, desde 2018, quando o texto foi originalmente escrito, ainda não conseguiu todos os selos do Pizzatron 3000 porque apenas pessoas que tem capacidades sobrehumanas são capazes disso.
-image: ../../assets/img/posts/club-penguin-saudade/cover.jpg
-image-sm: ../../assets/img/posts/club-penguin-saudade/cover-sm.jpg
+tags: [Videogames]
+
+excerpt: Pingüins, pizzas, peixes e chapéus. Desde 2008.
+
+feature-img: assets/img/posts/club-penguin-saudade/cover.jpg
+thumbnail: assets/img/posts/club-penguin-saudade/cover.jpg
 ---
 
 Eu era uma criança meio estranha. Era 2008 e eu estava com meu Outlook Express aberto quando chegou um newsletter da Disney falando sobre um novo jogo que eles tinham lançado em Português. Tá, eu era uma criança três quartos estranha.
@@ -16,7 +17,7 @@ Fui aí que conheci o tal Clube do Pingüim. Parecia ser interessante e cliquei 
 
 *(em tempo, para os que ficaram incomodados com o uso do trema, é importante dizer que o atual Acordo Ortográfico, que inutilizou o diacrítico, só entrou em vigor obrigatoriamente depois que eu tinha parado de jogar isso — e quando eu fiz um blog sobre o jogo quando criança, tinha que colocar a droga do trema a cada minuto, então vai ter trema sim)*
 
-![Tela de cadastro do Club Penguin](../../assets/img/posts/club-penguin-saudade/clubpenguin-cadastro.png)
+![Tela de cadastro do Club Penguin](/assets/img/posts/club-penguin-saudade/clubpenguin-cadastro.png)
 
 Eu juro que essa foi a melhor foto que eu consegui encontrar da tela de cadastro de 2008. Eu amo muito o destaque feito no Paint ali no cantinho, é quase um argumento de autoridade pra velhice do negócio.
 
@@ -24,7 +25,7 @@ Enfim, eu precisava criar o meu “pingüim” no jogo, ou seja, a minha persona
 
 Ótimo! Agora eu finalmente podia fazer parte do Clube do Pingüim, cuja a primeira regra era… Na real, eu não entendi muito bem de começo, mas acho que era a lerdeza natural. Basicamente, você podia andar pela ilha, encontrar joguinhos, ai você jogava os joguinhos e ganhava moedas pra ir na Loja de Presentes (onde, ironicamente, você só podia comprar as coisas pra você mesmo e nunca pra presente) e descobrir que você tinha que pagar uma taxa X de dinheiro real pra poder realmente comprar coisas. Essa aí foi a minha primeira visão do Centro da Ilha, na Festa de Natal de 2008.
 
-![Festa de Natal 2008 do Club Penguin](../../assets/img/posts/club-penguin-saudade/clubpenguin-natal2008.png)
+![Festa de Natal 2008 do Club Penguin](/assets/img/posts/club-penguin-saudade/clubpenguin-natal2008.png)
 
 Eu fiquei muito puto com esse negócio de “assinatura” — até então, acho que tinha sido o primeiro jogo que tinha visto com isso e fiquei realmente triste. Mas, bom, os joguinhos ainda eram grátis (até eles mudarem isso cinco anos depois, mas aí eu já não ligava tanto mais) e eram divertidos!
 
@@ -32,13 +33,13 @@ O meu preferido era o da Pescaria no Gelo, que era, bom, basicamente um jogo de 
 
 Em tempo, tinha uns bem idiotas também, como uma máquina desgramada de fazer pizza que não era nada prática para fazer pizzas então sempre você errava na hora de fazer pizzas e entregava pizzas ruins porque né nem tinha como pensar em fazer pizzas normalmente. Os pingüins faziam a droga de umas máquinas do tempo mas não pensaram em fazer um FORNO DE PIZZA. E ainda tinha o ~radical~ nome de PIZZATRON.
 
-![Pizzatron 3000](../../assets/img/posts/club-penguin-saudade/pizzatron.png)
+![Pizzatron 3000](/assets/img/posts/club-penguin-saudade/pizzatron.png)
 
 Pra eu que não tinha dinheiro pra assinar o negócio, eu gostava também dos eventos (que eles chamavam de festas, porque pra criança colocou uns balão na parede já chama de festa), que era quando tudo ficava enfeitado e davam itens grátis novos.
 
 Parecia besteira, mas eu comecei a jogar na festa de Natal de 2008 e fiquei felizão de ganhar um chapéuzinho de marinheiro vermelho. Tipo, na hora, era só legal porque eu tinha algo pra vestir, mas depois de oito anos jogando, sair desfilando com um item que nunca mais ficou disponível era realmente legal.
 
-![Chapéu de Marinheiro Vermelho](../../assets/img/posts/club-penguin-saudade/chapeu.png){:style="width: 50%"}
+![Chapéu de Marinheiro Vermelho](/assets/img/posts/club-penguin-saudade/chapeu.png){:style="width: 50%"}
 
 Os anos foram passando e eu entrava cada vez menos, mas sempre que lembrava tava lá, olhando uma festa ou outra, jogando um joguinho novo — quando tinha, já que ainda cada vez mais as novas coisas eram só para os que pagavam. De toda forma, Cauê Geloc, assim como o resto da Ilha do Clube do Pingüim, foram cruelmente destruídos da existência, ou melhor, ficaram apenas na minha memória com o cancelamento do jogo pela Disney…
 
@@ -50,6 +51,6 @@ Há 1 ano, eu descobri o [CP Rewritten](https://play.cprewritten.net/), uma vers
 
 De toda forma, é muito legal lembrar da criança que eu era e como eu ainda me divirto com essas coisas bobas. “Bobas”, já que aquela droga de dificuldade extrema no jogo de dança não é pra qualquer um. Não é mais tão divertido como antes, mas eu me sinto bem em, mesmo depois de tudo, **estar sempre pinguinando**.
 
-![Festa de Natal 2018 do Club Penguin Rewritten](../../assets/img/posts/club-penguin-saudade/natal2018.png)
+![Festa de Natal 2018 do Club Penguin Rewritten](/assets/img/posts/club-penguin-saudade/natal2018.png)
 
 *(meu novo pingüim, com um nome menos ridículo, no Club Penguin Rewritten, na Festa de Natal de 2018)*

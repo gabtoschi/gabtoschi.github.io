@@ -1,21 +1,21 @@
 ---
 layout: post
+
 title: Uma curadoria pro Bundle for Racial Justice and Equality
 date: 2020-06-09
-categories:
-  - Jogos
-description: 1000+ jogos por $5 pra arrecadar dinheiro para apoiar pessoas afetadas pelos recentes casos de preconceito, violência e abuso de poder contra pessoas negras. Essa é a minha lista de curadoria do bundle.
-profile_txt: Fica a mensagem pra que você apoie as pessoas que precisam nesse momento, seja aprendendo sobre o racismo que funda a sociedade, dando voz àqueles que precisam e sempre precisaram falar e, se possível, ajudando financeiramente iniciativas que apoiem estes grupos.
-image: ../../assets/img/posts/itchio-racial-justice-bundle/cover.jpg
-image-sm: ../../assets/img/posts/itchio-racial-justice-bundle/cover-sm.jpg
-profile_img: ../../assets/img/posts/itchio-racial-justice-bundle/cover.jpg
+tags: [Videogames, Curadoria]
+
+excerpt: 1000+ jogos por $5 pra arrecadar dinheiro para apoiar pessoas afetadas pelos recentes casos de preconceito, violência e abuso de poder contra pessoas negras. Essa é a minha lista de curadoria do bundle.
+
+feature-img: assets/img/posts/itchio-racial-justice-bundle/cover.jpg
+thumbnail: assets/img/posts/itchio-racial-justice-bundle/cover.jpg
 ---
 
 O [itch.io](https://itch.io) lançou, nos últimos dias, um bundle chamado [**Bundle for Racial Justice and Equality**](https://itch.io/b/520/bundle-for-racial-justice-and-equality) de forma a arrecadar fundos para apoiar iniciativas que apoiam pessoas negras, que estão sofrendo ataques físicos e morais nos últimos dias em todo o mundo. São mais de 1000 trabalhos entre jogos, assets, livros e soundtracks por apenas 5 dólares, aproximadamente 27 reais (o preço original dos itens combinados já ultrapassa 7 MIL DÓLARES).
 
 *ATUALIZADO (15/06/2020): acabei de repassar pelo bundle e colocar novos conteúdos que foram adicionados desde a criação do texto. Se você já olhou a lista antes e quer ver os novos, eu deixei eles separados na lista ao fim de cada seção.*
 
-![Bundle Cover](../../assets/img/posts/itchio-racial-justice-bundle/bundle.png)
+![Bundle Cover](/assets/img/posts/itchio-racial-justice-bundle/bundle.png)
 
 De forma a incentivar você a também apoiar a iniciativa, eu decidi passar um pente fino pelo bundle, procurando conteúdos que possam ser interessantes pra você e que possam te convencer a adquirir o bundle (ou descobrir novas coisas se já tiver comprado). Se você tiver alguma sugestão, [entre em contato pelo Twitter](https://twitter.com/gabtoschi).
 
@@ -293,3 +293,5 @@ Não faz tanto sentido uma categoria pra essas coisas, mas acho que valiam um es
 - [Desktop Goose](https://samperson.itch.io/desktop-goose), um ganso irritante pro seu desktop
 - [SuperShot - Screenshot Tool](https://yusufisik.itch.io/super-shot), software de tirar screenshot
 - [Mnemonic™](https://pablolavin.itch.io/mnemonic), software de resumo mnemônico de texto
+
+Fica a mensagem pra que você apoie as pessoas que precisam nesse momento, seja aprendendo sobre o racismo que funda a sociedade, dando voz àqueles que precisam e sempre precisaram falar e, se possível, ajudando financeiramente iniciativas que apoiem estes grupos.

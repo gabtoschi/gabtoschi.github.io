@@ -1,13 +1,14 @@
 ---
 layout: post
+
 title: "Uma pedra no meio do caminho"
 date: 2014-03-28
-categories:
-  - Devaneios
-description: Um texto sobre pedras, rochas e cascalhos.
-profile_txt: <b>Gabriel Toschi</b> escreveu esse texto em 2014 quando achou que poderia ser um poeta que demorava 5 minutos pra fazer uma única rima. Por fins de eficiẽncia, ele só acabou desistindo e deixou rolar.
-image: ../../assets/img/posts/pedra-meio-caminho/cover.jpg
-image-sm: ../../assets/img/posts/pedra-meio-caminho/cover-sm.jpg
+tags: [Devaneios]
+
+excerpt: Um texto sobre pedras, rochas e cascalhos.
+
+feature-img: assets/img/posts/pedra-meio-caminho/cover.jpg
+thumbnail: assets/img/posts/pedra-meio-caminho/cover.jpg
 ---
 
 Tinha uma pedra no meio do caminho. No meio do caminho tinha uma pedra.

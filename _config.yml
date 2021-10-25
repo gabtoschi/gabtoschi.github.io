@@ -1,59 +1,63 @@
-# Site/SEO settings
-email: gabriel.toschi@hotmail.com
-permalink: /:title/
-google_analytics:
-
-title: Gabriel Toschi
-description: Textos sobre coisas que você talvez não se importe, mas que eu espero que goste de qualquer forma.
-url: "https://gabtoschi.github.io"
+# SITE CONFIGURATION
 baseurl: ""
-twitter_username: gabtoschi
-default_img: https://gabtoschi.github.io/assets/img/blog/profileimage.jpg
+url: "https://gabtoschi.github.io"
 
-# Profile settings
-name: Gabriel Toschi
-profile_img: ../../assets/img/blog/profileimage.jpg
-profile_txt: <b>Gabriel Toschi</b> é desenvolvedor web, game designer e gosta de escrever. Mas nem tanto porque ele esqueceu de escrever algo para esse espaço. Ainda bem que o Gabriel do passado é prevenido e deixou isso aqui preparado. Sorte a dele.
-social:
-  twitter: https://twitter.com/gabtoschi
-  github: https://github.com/gabtoschi
-  rss-square: https://gabtoschi.github.io/feed.xml
+# THEME-SPECIFIC CONFIGURATION
+title: Gabriel Toschi                                   # site's title
+description: "game designer, web dev"                   # used by search engines
+avatar: assets/img/profile.jpg                          # Empty for no avatar in navbar
+favicon: assets/favicon.ico                             # Icon displayed in the tab
 
-# Collection settings
-collections:
-  category:
-    output: true
+# Header and footer text
+header_text: oi! eu sou o Toschi                        # Change Blog header text
+header_subtext: eu faço jogos e escrevo coisinhas por aqui
+header_feature_image: assets/img/sobre-splash.jpg
+footer_text: >
+  Espero que tenha gostado! Powered by <a href="https://pages.github.com/">Github Pages</a>, <a href="https://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: category
-    values:
-      layout: "category_index"
+# Blog
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - octopress-autoprefixer
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
-exclude:
-  - _screenshots
-  - .DS_Store
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.txt
-  - README.md
+# Features
+# More in the _data folder for share buttons, author and language
+# For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
+katex: true                                             # Enable if using math markup
+mermaid: true                                           # Enable mermaid-js for sequence and diagrams
+google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
+cookie_consent: false                                   # To respect the usage of cookies
+color_theme: auto                                       # auto, dark or light
 
-# Pagination
+# Comments
+comments:
+  disqus_shortname:                                     # Your discus shortname for comments
+  cusdis_app_id:                                        # Your cusdis data-app-id
+  utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
+    repo:                                               # your public comments repository (e.g. owner/repo)
+    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+
+# PAGINATION
 paginate: 5
-paginate_path: "/blog/page-:num"
+paginate_path: "/blog/page:num"
 
-# Sass
+# PORTFOLIO
+collections:
+  jogos:
+    output: true
+    permalink: /:collection/:name
+    order:
+      - reveillon.md
+      - timeheist.md
+      - plotfromthestars.md
+      - perpetualmotion.md
+      - cheapchips.md
+
+# BUILD SETTINGS
 sass:
   style: compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules/*"]
+
+theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+remote_theme: sylhare/Type-on-Strap                   # If using as a remote_theme in github
