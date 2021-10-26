@@ -11,6 +11,8 @@ feature-img: assets/img/posts/medido-graus-celsius/cover.jpg
 thumbnail: assets/img/posts/medido-graus-celsius/cover.jpg
 ---
 
+*(esse texto, originalmente, foi postado no meu Medium em 2013, no auge do meu Ensino Médio. Com o blog novo, decidi trazê-lo para cá. Alguns outros textos no blog também estão nessa situação de re-post, mas espero que aprecie!)*
+
 São poucos os sonhos que tenho e consigo me lembrar depois, principalmente se faz tempo que isso aconteceu. Mas esse ficou na minha cabeça como um grande WTF. Na verdade, eu ainda não entendi como eu consegui sonhar nisso.
 
 Na realidade, eu nem lembro se a história foi exatamente assim — ou **se eu sonhei que tive um sonho**. De toda forma, se encaixa aqui.

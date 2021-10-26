@@ -15,7 +15,6 @@ Por mais que agora eu tenha esse espacinho na internet para colocar meus textos,
 - [Abstrair e conquistar: a chave da computação](http://www.deviante.com.br/noticias/ciencia/abstrair-e-conquistar-chave-da-computacao/)
 - [Algoritmos de ordenação: colocar as coisas em ordem nem sempre é fácil](https://www.deviante.com.br/noticias/algoritmos-de-ordenacao-colocar-as-coisas-em-ordem-nem-sempre-e-facil/)
 - [Sonic, um ouriço criado sob medida](https://playreplay.com.br/criacao-sonic-sega/)
-- [Mortal Kombat: um clássico da pancadaria nos jogos](http://www.playreplay.com.br/mortal-kombat-retro/)
 - [Doctor Who: uma viagem pelos 50 anos de jogos da série](http://www.gameblast.com.br/2013/11/allons-y-vamos-comemorar-os-50-anos-de.html)
 - [Máquinas do tempo: as 10 melhores segundo os videogames](http://www.gameblast.com.br/2014/06/maquina-tempo-videogame.html)
 

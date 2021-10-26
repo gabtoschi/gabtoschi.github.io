@@ -11,6 +11,8 @@ feature-img: assets/img/posts/pedra-meio-caminho/cover.jpg
 thumbnail: assets/img/posts/pedra-meio-caminho/cover.jpg
 ---
 
+*(esse texto, originalmente, foi postado no meu Medium em 2014, no auge do meu Ensino Médio. Com o blog novo, decidi trazê-lo para cá. Alguns outros textos no blog também estão nessa situação de re-post, mas espero que aprecie!)*
+
 Tinha uma pedra no meio do caminho. No meio do caminho tinha uma pedra.
 
 Sim, Drummond já nos cansou de dizer isto. Na verdade, a cada vez que alguém lê esse poema, conta novamente ao mundo seis vezes que “tinha uma pedra no meio do caminho”. Afinal, já não estava na hora de alguém ter tirado essa maldita pedra?

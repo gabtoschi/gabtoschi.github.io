@@ -11,6 +11,8 @@ feature-img: assets/img/posts/club-penguin-saudade/cover.jpg
 thumbnail: assets/img/posts/club-penguin-saudade/cover.jpg
 ---
 
+*(esse texto, originalmente, foi postado no meu Medium em 2018. Com o blog novo, decidi trazê-lo para cá. Alguns outros textos no blog também estão nessa situação de re-post, mas espero que aprecie!)*
+
 Eu era uma criança meio estranha. Era 2008 e eu estava com meu Outlook Express aberto quando chegou um newsletter da Disney falando sobre um novo jogo que eles tinham lançado em Português. Tá, eu era uma criança três quartos estranha.
 
 Fui aí que conheci o tal Clube do Pingüim. Parecia ser interessante e cliquei no link. Era necessário fazer um cadastro, colocando o e-mail dos pais e a data de nascimento: foi nesse momento que causei um paradoxo temporal nascendo 10 anos mais cedo do que eu realmente nasci e me tornando meu próprio pai.
