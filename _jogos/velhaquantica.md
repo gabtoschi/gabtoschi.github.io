@@ -5,8 +5,6 @@ title: Velha Quântica
 
 feature-img: "assets/img/jogos/velhaquantica/header.png"
 img: "assets/img/jogos/velhaquantica/thumb.png"
-
-tags: [Meus Jogos]
 ---
 
 ### Nada é melhor que do que a melhor idade, meu pudinzinho… Depois que você se aposenta, você só quer ficar em casa aprendendo mais sobre assuntos como… física quântica!

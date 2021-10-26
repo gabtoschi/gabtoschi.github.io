@@ -5,8 +5,6 @@ title: CartoGráfico
 
 feature-img: "assets/img/jogos/cartografico/header.jpg"
 img: "assets/img/jogos/cartografico/thumb.png"
-
-tags: [Meus Jogos]
 ---
 
 ### Está pronto para viajar pelo Brasil e conhecer mais sobre sua cultura? Escolha o seu personagem preferido, a cidade que quer visitar e vamos começar nossa viagem!

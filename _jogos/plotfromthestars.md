@@ -5,8 +5,6 @@ title: A Plot from the Stars
 
 feature-img: "assets/img/jogos/plotfromthestars/header.jpeg"
 img: "assets/img/jogos/plotfromthestars/thumb.png"
-
-tags: [Meus Jogos]
 ---
 
 ### Naves alienígenas estão invadindo a Terra e você precisa impedir uma invasão iminente usando... o poder da matemática!

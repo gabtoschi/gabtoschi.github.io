@@ -4,9 +4,7 @@ layout: page
 title: Time Heist
 
 feature-img: "assets/img/jogos/timeheist/header.png"
-img: "assets/img/jogos/timeheist/thumb.jpg"
-
-tags: [Meus Jogos]
+img: "assets/img/jogos/timeheist/thumb.png"
 ---
 
 ### Os Guardiões do Tempo estão tentando restaurar a linha do tempo, mas os Ladrões do Paradoxo estão tentando roubar os tesouros mais valiosos da história! Qual time vai conseguir encontrar seu alvos no tempo mais rápido?

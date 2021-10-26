@@ -5,8 +5,6 @@ title: Réveillon
 
 feature-img: "assets/img/jogos/reveillon/header.jpg"
 img: "assets/img/jogos/reveillon/thumb.jpg"
-
-tags: [Meus Jogos]
 ---
 
 ### Amanhã é o começo de um novo ano, todos estão esperando uma grande queima de fogos de artifício e você é a pessoa responsável por montar a apresentação – inclusive, você ainda nem começou!

@@ -5,8 +5,6 @@ title: Cheap Chips
 
 feature-img: "assets/img/jogos/cheapchips/header.png"
 img: "assets/img/jogos/cheapchips/thumb.jpg"
-
-tags: [Meus Jogos]
 ---
 
 ### Sua tarefa é arranjar as Cartas de Chip até criar um caminho que passe por todas as cartas de uma só vez. Quem conseguir formar mais conexões, vence!

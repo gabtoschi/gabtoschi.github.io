@@ -5,8 +5,6 @@ title: Plante Se Puder
 
 feature-img: "assets/img/jogos/plantesepuder/header.png"
 img: "assets/img/jogos/plantesepuder/thumb.png"
-
-tags: [Meus Jogos]
 ---
 
 ### Plantações parecem fáceis de ser feitas… Mas quando você deve lutar contra o clima, infestações e até a própria seleção, vencer esse desafio não é fácil. Você pode até tentar, mas plante, se puder!

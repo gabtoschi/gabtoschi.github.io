@@ -4,9 +4,7 @@ layout: page
 title: Suit Express
 
 feature-img: "assets/img/jogos/suitexpress/header.png"
-img: "assets/img/jogos/suitexpress/thumb.jpg"
-
-tags: [Meus Jogos]
+img: "assets/img/jogos/suitexpress/thumb.png"
 ---
 
 ### Tripulações dos quatro naipes, avante! Em Suit Express, a sua missão é coletar cartas de baralho e entregá-las nas estações de cada naipe.

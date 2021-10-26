@@ -5,8 +5,6 @@ title: Armadilla
 
 feature-img: "assets/img/jogos/armadilla/header.png"
 img: "assets/img/jogos/armadilla/thumb.jpg"
-
-tags: [Meus Jogos]
 ---
 
 ### Desde quando o mundo viu o dia pela primeira vez, as tribos de Xihuca e Yonaji viviam em harmonia no mundo antigo. Em um dia em que nem a Lua, nem o Sol poderiam imaginar, a guerra começou ― e nem mesmo os deuses sabiam direito o que se passava no Templo do Tatu…

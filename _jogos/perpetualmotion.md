@@ -5,8 +5,6 @@ title: Perpetual Motion
 
 feature-img: "assets/img/jogos/perpetualmotion/header.png"
 img: "assets/img/jogos/perpetualmotion/thumb.jpg"
-
-tags: [Meus Jogos]
 ---
 
 ### Cientistas classificam as máquinas de moto-contínuo de acordo com a lei da termodinâmica que elas violam. Mas você, um aspirante a revolucionar a engenharia mecânica, não concorda com esse tipo de gente.
