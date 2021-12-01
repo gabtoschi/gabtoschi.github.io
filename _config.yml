@@ -10,7 +10,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: oi! eu sou o Toschi                        # Change Blog header text
-header_subtext: eu faço jogos e escrevo coisinhas por aqui
+header_subtext: eu escrevo umas coisas que talvez você goste!
 header_feature_image: assets/img/sobre-splash.jpg
 footer_text: >
   Espero que tenha gostado! Powered by <a href="https://pages.github.com/">Github Pages</a>, <a href="https://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
