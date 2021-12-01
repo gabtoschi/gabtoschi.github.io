@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Conteúdos
+title : Mais textos
 permalink: /conteudos/
 subtitle: "textos, vídeos e podcasts que estão em outros lugares"
 feature-img: "assets/img/textos-splash.jpg"
