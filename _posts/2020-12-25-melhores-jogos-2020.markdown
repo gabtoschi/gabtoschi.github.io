@@ -3,7 +3,7 @@ layout: post
 
 title: Os melhores jogos que joguei em 2020
 date: 2020-12-25
-tags: [Videogames]
+tags: [Videogames, Rankings Anuais]
 
 excerpt: Nunca fui de jogar coisas lançadas no ano, mas definitivamente eu joguei MUITO em 2020. Essa é a lista dos melhores jogos que passaram por mim esse ano (independente de quando foram lançados).
 
