@@ -1,3 +1,12 @@
+PATH
+  remote: .
+  specs:
+    type-on-strap (2.3.9)
+      jekyll (>= 3.8, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-paginate (~> 1.1)
+      jekyll-seo-tag (~> 2.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -60,18 +69,13 @@ GEM
       ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    type-on-strap (2.3.9)
-      jekyll (>= 3.8, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-paginate (~> 1.1)
-      jekyll-seo-tag (~> 2.6)
     unicode-display_width (1.8.0)
 
 PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  type-on-strap
+  type-on-strap!
 
 BUNDLED WITH
    2.2.29
