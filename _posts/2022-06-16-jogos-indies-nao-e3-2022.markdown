@@ -25,7 +25,7 @@ Construído como um jogo cooperativo, os jogadores tem que constantemente abrir 
 
 # 09. Naiad
 
-Chamando a atenção pelo lindo visual desde os primeiros segundos do seu trailer de anúncio, **[Naiad](https://www.hiwarp.com/naiad/) **fica ainda mais lindo a cada nova imagem ou vídeo mostrado. A proposta é seguir a jornada de uma náiade, uma figura mitológica semelhante a uma ninfa da água, viajando por um rio e conhecendo o choque entre a natureza e a cidade conforme cada capítulo do jogo se passa.
+Chamando a atenção pelo lindo visual desde os primeiros segundos do seu trailer de anúncio, **[Naiad](https://www.hiwarp.com/naiad/)** fica ainda mais lindo a cada nova imagem ou vídeo mostrado. A proposta é seguir a jornada de uma náiade, uma figura mitológica semelhante a uma ninfa da água, viajando por um rio e conhecendo o choque entre a natureza e a cidade conforme cada capítulo do jogo se passa.
 
 {% include youtube.html id="193ySdvcRK8" %}
 
@@ -57,7 +57,7 @@ Eu não sei bem se o jogo vai seguir pela linha de pequenos desafios rápidos co
 
 # 05. Escape Academy
 
-OK, eu gosto muito de escape rooms para um jogo como **[Escape Academy](https://escapeacademygame.com/en) **não estar na minha lista bem perto do topo. Aqui você vai ser a nova pessoa a integrar o corpo de estudantes de uma escola focada na arte da escapada - encontrando professores, participando de aulas e, claro, enfrentando escape rooms desafiadoras (e muito bonitas, por sinal).
+OK, eu gosto muito de escape rooms para um jogo como **[Escape Academy](https://escapeacademygame.com/en)** não estar na minha lista bem perto do topo. Aqui você vai ser a nova pessoa a integrar o corpo de estudantes de uma escola focada na arte da escapada - encontrando professores, participando de aulas e, claro, enfrentando escape rooms desafiadoras (e muito bonitas, por sinal).
 
 {% include youtube.html id="MlCud9-gM_s" %}
 
@@ -81,7 +81,7 @@ Ele tem cara de que vai ser bem relaxante e divertido de jogar, me lembrando bas
 
 # 02. Melatonin
 
-De todos os grandes clássicos da história do videogame que desenvolvedores indies gostam de reinventar e reinterpretar, sempre me deixou muito intrigado (e triste) que Rhythm Heaven não tenha tido o mesmo tratamento… até agora! **[Melatonin](https://www.halfasleep.games/melatonin/) **é um jogo de ritmo focado em entender a batida e as melodias de cada fase e seguir o fluxo ao invés de prestar atenção nas setas coloridas que sobem a sua tela.
+De todos os grandes clássicos da história do videogame que desenvolvedores indies gostam de reinventar e reinterpretar, sempre me deixou muito intrigado (e triste) que Rhythm Heaven não tenha tido o mesmo tratamento… até agora! **[Melatonin](https://www.halfasleep.games/melatonin/)** é um jogo de ritmo focado em entender a batida e as melodias de cada fase e seguir o fluxo ao invés de prestar atenção nas setas coloridas que sobem a sua tela.
 
 {% include youtube.html id="pTks5ptQEX0" %}
 
