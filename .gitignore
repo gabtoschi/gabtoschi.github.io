@@ -1,36 +1,25 @@
-# Idea
-.idea/*
+# Generated files
+package/generated*
 
-# Mac OS
-.DS_Store
+# Ignore installed npm modules
+node_modules/
 
-# Byte-compiled / optimized / DLL files
-*.manifest
-*.spec
+# Ignore build tool output, e.g. code coverage
+.nyc_output/
+coverage/
 
-# Jekyll dev or build
-_site/*
-_development_tool/*
-.sass-cache/*
-*.css.map
-*.scssc
-.bundle/*
-/vendor/
-.jekyll-cache/*
-*/.jekyll-cache/*
+# Ignore API documentation
+api-docs/
 
-# Theme Gem
-Gemfile.lock
-*.gem
-.gems
-jekyll-theme-type-on-strap.gemspec
+# Ignore folders from source code editors
+.vscode
+.idea
 
-# Node.js
-**/node_modules/*
-**/package-lock.json
+# Ignore eleventy output when doing manual tests
+_site/
 
-# Misc
-*-test.md
-*copy.md
-test/*
-/type-on-strap*/*
+package-lock.json
+
+# Ignore test files
+.cache
+test/stubs-layout-cache/_includes/*.js
