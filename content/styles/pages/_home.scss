@@ -1,0 +1,52 @@
+@use 'utilities/breakpoints' as breakpoint;
+@use 'utilities/colors' as color;
+
+.home-page {
+  .welcome {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    @media (max-width: breakpoint.$lg) {
+      flex-direction: column;
+    }
+
+    .welcome-text {
+      h1 {
+        margin-top: 0;
+        margin-bottom: 12px;
+      }
+
+      h2 {
+        margin: 0;
+      }
+
+      @media (max-width: breakpoint.$lg) {
+        margin-bottom: 24px;
+        text-align: center;
+      }
+    }
+
+    .social-icons {
+      margin-top: 40px;
+
+      display: flex;
+      flex-direction: column;
+
+      span {
+        margin-top: 8px;
+      }
+
+      a {
+        &:not(:last-of-type) {
+          margin-right: 8px;
+        }
+      }
+
+      svg {
+        width: 30px;
+        color: color.$purple2;
+      }
+    }
+  }
+}

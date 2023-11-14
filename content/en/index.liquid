@@ -1,0 +1,26 @@
+---
+layout: layouts/base
+---
+
+<div class="home-page">
+  <div class="welcome">
+    <div class="welcome-text">
+      <h1>hi! i'm Gabriel Toschi</h1>
+      <h2>welcome to my web place!</h2>
+
+      <div class="social-icons">
+        <div class="social-list">
+          {% for social in socials %}
+            <a target="_blank" href={{ social.link }}>{% svg social.icon %}</a>
+          {% endfor %}
+        </div>
+        <span>those are the others, get in touch :)</span>
+      </div>
+    </div>
+
+    {% render "components/image-card.liquid"
+     , image: "https://placehold.co/600x250"
+     , text: "More about me"
+     , url: "about" %}
+  </div>
+</div>

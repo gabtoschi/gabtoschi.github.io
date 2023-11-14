@@ -1,10 +1,11 @@
-.site-header {
-  background-color: rgb(234, 192, 255);
+@use 'utilities/colors' as color;
 
-  padding-left: 5%;
-  padding-right: 5%;
-  padding-top: 14px;
-  padding-bottom: 14px;
+.site-header {
+  background-color: color.$purple1;
+
+  padding: 14px 5%;
+
+  margin-bottom: 42px;
 
   display: flex;
   justify-content: space-between;

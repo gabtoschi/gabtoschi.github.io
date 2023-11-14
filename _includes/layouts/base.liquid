@@ -11,8 +11,10 @@
   </head>
 
   <body>
-    {% include "components/header.njk" %}
+    {% render "components/header" %}
 
-    {{ content | safe }}
+    <div class="container">
+      {{ content }}
+    </div>
   </body>
 </html>

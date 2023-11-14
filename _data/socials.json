@@ -1,0 +1,37 @@
+[
+  {
+    "name": "email",
+    "icon": "social-icons/email",
+    "link": "mailto:eu@gabtoschi.com"
+  },
+  {
+    "name": "mastodon",
+    "icon": "social-icons/mastodon",
+    "link": "https://peoplemaking.games/@gabtoschi"
+  },
+  {
+    "name": "bluesky",
+    "icon": "social-icons/bluesky",
+    "link": "https://bsky.app/profile/gabtoschi.com"
+  },
+  {
+    "name": "twitter",
+    "icon": "social-icons/twitter",
+    "link": "https://twitter.com/gabtoschi"
+  },
+  {
+    "name": "github",
+    "icon": "social-icons/github",
+    "link": "https://github.com/gabtoschi"
+  },
+  {
+    "name": "backloggd",
+    "icon": "social-icons/backloggd",
+    "link": "https://backloggd.com/u/gabtoschi"
+  },
+  {
+    "name": "letterboxd",
+    "icon": "social-icons/letterboxd",
+    "link": "https://letterboxd.com/gabtoschi"
+  }
+]
