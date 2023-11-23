@@ -1,5 +1,9 @@
 let selectedFilter = 'project';
+
 const filterButtons = [...document.getElementsByClassName('filter-button')];
+const projectCards = [...document.getElementsByClassName('card-wrapper')];
+
+console.log(projectCards)
 
 const updateFilterButtons = () => {
   filterButtons.forEach(button => {
@@ -12,11 +16,25 @@ const updateFilterButtons = () => {
 }
 updateFilterButtons();
 
+const updateCardList = (newFilter) => {
+  projectCards.forEach(card => {
+    const classes = [...card.classList]
+
+    if (classes.includes(newFilter)) {
+      card.classList.remove('filtered');
+    } else {
+      card.classList.add('filtered');
+    }
+  })
+}
+
 const clickFilter = (e) => {
   const newFilter = e.target.id;
 
   if (newFilter !== selectedFilter) {
     selectedFilter = newFilter;
+
+    updateCardList(newFilter);
     updateFilterButtons();
   }
 }

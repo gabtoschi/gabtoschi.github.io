@@ -129,10 +129,10 @@
 
         @media (max-width: breakpoint.$lg) {
           width: 100%;
+        }
 
-          &:not(:last-child) {
-            margin-bottom: 36px;
-          }
+        &.filtered {
+          display: none;
         }
       }
     }
