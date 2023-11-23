@@ -1,0 +1,18 @@
+<a
+  class="full-card-link"
+  target="_blank"
+  href={{ url }}>
+  <div class="full-card">
+    <div class="image" style="background-image: url({{ image }})"></div>
+    <div class="card-content">
+      <div class="card-tags">
+        {% for tag in tags %}
+          <span>{{ tag }}</span>
+        {% endfor %}
+      </div>
+
+      <h2>{{ title }}</h2>
+      {{ text }}
+    </div>
+  </div>
+</a>

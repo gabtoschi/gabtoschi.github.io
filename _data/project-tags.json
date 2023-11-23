@@ -1,0 +1,30 @@
+[
+  {
+    "key": "project",
+    "value": "ALL"
+  },
+  {
+    "key": "project-digital",
+    "value": "DIGITAL GAMES"
+  },
+  {
+    "key": "project-tabletop",
+    "value": "TABLETOP"
+  },
+  {
+    "key": "project-text",
+    "value": "TEXTS"
+  },
+  {
+    "key": "project-audio",
+    "value": "AUDIO"
+  },
+  {
+    "key": "project-video",
+    "value": "VIDEO"
+  },
+  {
+    "key": "project-code",
+    "value": "CODE"
+  }
+]

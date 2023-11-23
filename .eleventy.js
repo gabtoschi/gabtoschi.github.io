@@ -6,14 +6,24 @@ const fs = require('fs');
 
 const DEFAULT_LANG = 'en-US'
 
+function eleventyComputedPermalink() {
+	return (data) => {
+		if (data.noRender) return false;
+
+		return data.permalink;
+	}
+};
+
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(EleventyI18nPlugin, {
     defaultLanguage: DEFAULT_LANG
   });
 
   eleventyConfig.addGlobalData('lang', DEFAULT_LANG);
+  eleventyConfig.addGlobalData("eleventyComputed.permalink", eleventyComputedPermalink);
 
   eleventyConfig.addPassthroughCopy('content/img');
+  eleventyConfig.addPassthroughCopy('content/scripts');
 
   eleventyConfig.addTemplateFormats('scss');
   eleventyConfig.addExtension('scss', {
@@ -46,6 +56,22 @@ module.exports = function(eleventyConfig) {
     });
 
     return data.toString('utf8');
+  });
+
+  eleventyConfig.addFilter('remove_intersec', function(array, toRemove) {
+    if (!Array.isArray(array) || !Array.isArray(toRemove)) return array;
+
+    return array.filter(el => !toRemove.includes(el));
+  });
+
+  eleventyConfig.addFilter('map_key_value', function(array, keyValues) {
+    if (!Array.isArray(array) || !Array.isArray(keyValues)) return array;
+
+    return array.map(el => {
+      const found = keyValues.find(({ key }) => el === key);
+      if (found) return found.value;
+      return el;
+    });
   });
 
   return {

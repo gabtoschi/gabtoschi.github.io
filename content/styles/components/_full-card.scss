@@ -1,0 +1,58 @@
+@use 'utilities/colors' as color;
+@use 'utilities/breakpoints' as breakpoint;
+
+$image-height: 180px;
+$content-height: 200px;
+$content-padding: 30px;
+
+.full-card-link {
+  text-decoration: none;
+  color: black;
+
+  display: inline;
+}
+
+.full-card {
+  width: 100%;
+  height: calc($image-height + $content-height);
+
+  color: black;
+
+  .image {
+    width: 100%;
+    height: $image-height;
+
+    background-position: center;
+    background-size: cover;
+  }
+
+  .card-content {
+    background-color: color.$purple3;
+    padding: $content-padding;
+    height: calc($content-height - ($content-padding * 2));
+
+    .card-tags {
+      margin-bottom: 20px;
+
+      span {
+        background-color: color.$purple2;
+        color: white;
+        border-radius: 30px;
+
+        padding: 7px 16px;
+
+        &:not(:last-child) {
+          margin-right: 6px;
+        }
+      }
+    }
+
+    h2, p {
+      margin: 0;
+    }
+
+    h2 {
+      margin-bottom: 14px;
+    }
+  }
+}

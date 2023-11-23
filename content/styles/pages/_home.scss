@@ -14,11 +14,12 @@
     .welcome-text {
       h1 {
         margin-top: 0;
-        margin-bottom: 12px;
+        margin-bottom: 8px;
       }
 
       h2 {
         margin: 0;
+        font-weight: 200;
       }
 
       @media (max-width: breakpoint.$lg) {
@@ -46,6 +47,98 @@
       svg {
         width: 30px;
         color: color.$purple2;
+      }
+    }
+  }
+
+  .projects {
+    margin-top: 64px;
+
+    .header {
+      text-align: center;
+
+      h1 {
+        margin-bottom: 0;
+      }
+
+      h3 {
+        font-weight: 200;
+
+        margin-top: 12px;
+        margin-bottom: 0;
+      }
+    }
+
+    .filter {
+      margin-top: 40px;
+
+      display: flex;
+      justify-content: space-around;
+
+      @media (max-width: breakpoint.$lg) {
+        display: flex;
+        flex-wrap: wrap;
+
+        margin-bottom: 20px;
+      }
+
+      .filter-button {
+        padding: 15px;
+        min-width: 120px;
+
+        cursor: pointer;
+
+        background-color: color.$background;
+        border: none;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+
+        @media (max-width: breakpoint.$lg) {
+          min-width: 0px;
+
+          border-bottom-left-radius: 20px;
+          border-bottom-right-radius: 20px;
+        }
+
+        &.selected {
+          background-color: color.$purple0;
+        }
+      }
+    }
+  }
+
+  .project-list {
+    background-color: color.$purple0;
+    width: 100%;
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    .list-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+
+      @media (max-width: breakpoint.$lg) {
+        flex-direction: column;
+      }
+
+      .card-wrapper {
+        width: 475px;
+
+        &:nth-child(n+3) {
+          margin-top: 36px;
+        }
+
+        @media (max-width: breakpoint.$lg) {
+          width: 100%;
+          margin-top: 0px !important;
+
+          &:not(:last-child) {
+            margin-bottom: 36px;
+          }
+        }
       }
     }
   }
