@@ -46,7 +46,7 @@ not-show-tags: ['project']
   <div class="project-list">
     <div class="list-content container">
       {% for project in collections.project reversed %}
-        <div class="card-wrapper">
+        <div class="card-wrapper {{ project.data.tags | join: " " }}">
           {% assign filteredTags = project.data.tags
            | remove_intersec: not-show-tags
            | map_key_value: project-tags %}

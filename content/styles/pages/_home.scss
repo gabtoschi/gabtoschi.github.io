@@ -111,7 +111,6 @@
     background-color: color.$purple0;
     width: 100%;
 
-    padding-top: 50px;
     padding-bottom: 50px;
 
     .list-content {
@@ -126,14 +125,10 @@
 
       .card-wrapper {
         width: 475px;
-
-        &:nth-child(n+3) {
-          margin-top: 36px;
-        }
+        margin-top: 36px;
 
         @media (max-width: breakpoint.$lg) {
           width: 100%;
-          margin-top: 0px !important;
 
           &:not(:last-child) {
             margin-bottom: 36px;
