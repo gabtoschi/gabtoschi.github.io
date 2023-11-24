@@ -51,9 +51,57 @@
     }
   }
 
-  .projects {
+  .latest-blog {
     margin-top: 64px;
 
+    .header {
+      text-align: center;
+
+      a {
+        color: black;
+      }
+
+      h1 {
+        margin-bottom: 0;
+      }
+
+      h3 {
+        font-weight: 200;
+
+        margin-top: 12px;
+        margin-bottom: 0;
+      }
+    }
+
+    .post-list {
+      width: 100%;
+      padding-bottom: 50px;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+
+      @media (max-width: breakpoint.$lg) {
+        flex-direction: column;
+      }
+
+      .card-wrapper {
+        width: 475px;
+        margin-top: 36px;
+
+        @media (max-width: breakpoint.$lg) {
+          width: 100%;
+        }
+
+        &.filtered {
+          display: none;
+        }
+      }
+    }
+  }
+
+  .projects {
     .header {
       text-align: center;
 

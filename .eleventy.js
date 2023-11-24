@@ -1,10 +1,9 @@
-const { EleventyI18nPlugin } = require('@11ty/eleventy');
-
 const sass = require('sass');
 const path = require('path');
 const fs = require('fs');
 
-const DEFAULT_LANG = 'en-US'
+const DEFAULT_LANG = 'en-US';
+const TAGS_WITHOUT_PAGES = ['blog', 'article'];
 
 function eleventyComputedPermalink() {
 	return (data) => {
@@ -14,13 +13,17 @@ function eleventyComputedPermalink() {
 	}
 };
 
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(EleventyI18nPlugin, {
-    defaultLanguage: DEFAULT_LANG
-  });
+function eleventyComputedTagsWithPages() {
+  return (data) => {
+    const tagsWithPages = data['blog-tags'].filter(tag => !TAGS_WITHOUT_PAGES.includes(tag.key)).map(tag => tag.key);
+    return tagsWithPages
+  }
+}
 
+module.exports = function(eleventyConfig) {
   eleventyConfig.addGlobalData('lang', DEFAULT_LANG);
   eleventyConfig.addGlobalData("eleventyComputed.permalink", eleventyComputedPermalink);
+  eleventyConfig.addGlobalData("eleventyComputed.tagsWithPages", eleventyComputedTagsWithPages);
 
   eleventyConfig.addPassthroughCopy('content/img');
   eleventyConfig.addPassthroughCopy('content/scripts');
@@ -72,6 +75,12 @@ module.exports = function(eleventyConfig) {
       if (found) return found.value;
       return el;
     });
+  });
+
+  eleventyConfig.addFilter('first_nth', function(array, nth) {
+    if (!Array.isArray(array)) return array;
+
+    return array.slice(0, nth);
   });
 
   return {

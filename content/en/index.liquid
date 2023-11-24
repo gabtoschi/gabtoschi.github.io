@@ -1,7 +1,5 @@
 ---
 layout: layouts/base
-
-not-show-tags: ['project']
 ---
 
 <div class="home-page">
@@ -27,7 +25,39 @@ not-show-tags: ['project']
        , url: "about" %}
     </div>
 
-    <div class="projects">
+    <div class="latest-blog">
+      <div class="header">
+        <h1>
+          <a href="/blog">latest from the blog</a>
+        </h1>
+        <h3>fresh articles and reviews from me!
+          <a href="/blog">click here to see all the posts</a>
+        </h3>
+      </div>
+
+      {% assign home-posts = collections.blog | reverse | first_nth: 4 %}
+
+      <div class="post-list">
+        {% for post in home-posts %}
+          <div class="card-wrapper {{ post.data.tags | join: " " }}">
+            {% assign filteredTags = post.data.tags
+             | remove_intersec: not-show-tags.blog
+             | map_key_value: blog-tags %}
+
+            {% render "components/full-card.liquid"
+             , samePage: true
+             , image: post.data.thumbnail
+             , title: post.data.title
+             , url: post.data.permalink
+             , text: post.data.description
+             , score: post.data.score
+             , tags: filteredTags %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div id="projects" class="projects">
       <div class="header">
         <h1>my projects</h1>
         <h3>curiosity to learn, creativity to make, chaos to have fun</h3>
@@ -48,7 +78,7 @@ not-show-tags: ['project']
       {% for project in collections.project reversed %}
         <div class="card-wrapper {{ project.data.tags | join: " " }}">
           {% assign filteredTags = project.data.tags
-           | remove_intersec: not-show-tags
+           | remove_intersec: not-show-tags.projects
            | map_key_value: project-tags %}
 
           {% render "components/full-card.liquid"

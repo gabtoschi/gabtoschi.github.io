@@ -7,7 +7,16 @@
 
     <link rel="stylesheet" href="/styles/bundle.css">
 
-    <title>Gabriel Toschi</title>
+    <title>{{ title | default: default-meta.title }}</title>
+
+    <meta property="og:title" content="{{ title | default: default-meta.title }}">
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="{{ thumbnail | default: default-meta.thumbnail | prepend: default-meta.baseUrl  }}">
+    <meta property="og:url" content="{{ permalink | prepend: default-meta.baseUrl }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:description" content="{{ description | default: default-meta.description }}">
+    <meta property="og:site_name" content="Gabriel Toschi">
+    <meta name="twitter:image:alt" content="Alt text for image">
   </head>
 
   <body>
@@ -16,5 +25,7 @@
     <div>
       {{ content }}
     </div>
+
+    {% render "components/footer" %}
   </body>
 </html>

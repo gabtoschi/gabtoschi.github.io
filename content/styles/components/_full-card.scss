@@ -2,7 +2,8 @@
 @use 'utilities/breakpoints' as breakpoint;
 
 $image-height: 180px;
-$content-height: 200px;
+$score-height: calc($image-height * 0.4);
+$content-height: 210px;
 $content-padding: 30px;
 
 .full-card-link {
@@ -24,6 +25,27 @@ $content-padding: 30px;
 
     background-position: center;
     background-size: cover;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+
+    .score {
+      width: $score-height;
+      height: $score-height;
+
+      background-color: color.$purple3;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      span {
+        font-size: 50px;
+        font-weight: bold;
+      }
+    }
   }
 
   .card-content {

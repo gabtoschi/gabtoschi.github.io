@@ -1,0 +1,7 @@
+@use 'utilities/colors' as color;
+
+.site-footer {
+  background-color: color.$purple2;
+  width: 100%;
+  height: 30px;
+}

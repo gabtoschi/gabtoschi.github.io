@@ -1,7 +1,7 @@
 let selectedFilter = 'project';
 
 const filterButtons = [...document.getElementsByClassName('filter-button')];
-const projectCards = [...document.getElementsByClassName('card-wrapper')];
+const projectCards = [...document.getElementsByClassName('card-wrapper project')];
 
 console.log(projectCards)
 

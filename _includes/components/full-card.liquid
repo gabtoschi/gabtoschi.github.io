@@ -1,9 +1,17 @@
 <a
   class="full-card-link"
+  {% unless samePage %}
   target="_blank"
+  {% endunless %}
   href={{ url }}>
   <div class="full-card">
-    <div class="image" style="background-image: url({{ image }})"></div>
+    <div class="image" style="background-image: url({{ image }})">
+      {% if score %}
+        <div class="score">
+          <span>{{ score }}</span>
+        </div>
+      {% endif %}
+    </div>
     <div class="card-content">
       <div class="card-tags">
         {% for tag in tags %}
