@@ -1,12 +1,13 @@
 @use 'utilities/colors' as color;
 
 .site-header {
-  background-color: color.$purple1;
+  background-color: color.$purple-gray;
+  color: color.$purple-dark;
 
   padding: 14px 5%;
 
   margin-bottom: 30px;
 
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }

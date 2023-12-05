@@ -1,3 +1,3 @@
 module.exports = {
-  lang: 'pt-BR',
+  lang: 'pt',
 }

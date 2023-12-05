@@ -15,6 +15,9 @@ $image-card-link-padding-x: 12px;
     height: 200px;
 
     background-position: center;
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
   }
 
   a {
@@ -22,8 +25,11 @@ $image-card-link-padding-x: 12px;
     width: calc(100% - $image-card-link-padding-x * 2);
     padding: 8px 12px;
 
-    color: black;
-    background-color: color.$purple1;
+    color: color.$purple-dark;
+    background-color: color.$purple-gray;
+
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 
     @media (max-width: breakpoint.$lg) {
       text-align: center;

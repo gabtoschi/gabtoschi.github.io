@@ -2,7 +2,7 @@ const sass = require('sass');
 const path = require('path');
 const fs = require('fs');
 
-const DEFAULT_LANG = 'en-US';
+const DEFAULT_LANG = 'en';
 const TAGS_WITHOUT_PAGES = ['blog', 'article'];
 
 function eleventyComputedPermalink() {

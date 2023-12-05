@@ -13,10 +13,10 @@
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ thumbnail | default: default-meta.thumbnail | prepend: default-meta.baseUrl  }}">
     <meta property="og:url" content="{{ permalink | prepend: default-meta.baseUrl }}">
-    <meta name="twitter:card" content="summary_large_image">
     <meta property="og:description" content="{{ description | default: default-meta.description }}">
     <meta property="og:site_name" content="Gabriel Toschi">
-    <meta name="twitter:image:alt" content="Alt text for image">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:alt" content="{{ title | default: default-meta.title }}">
   </head>
 
   <body>

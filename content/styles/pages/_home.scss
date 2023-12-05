@@ -29,10 +29,16 @@
     }
 
     .social-icons {
-      margin-top: 40px;
+      margin-top: 20px;
 
       display: flex;
       flex-direction: column;
+
+      background-color: color.$blue-dark;
+      color: color.$background;
+
+      padding: 20px;
+      border-radius: 8px;;
 
       span {
         margin-top: 8px;
@@ -46,7 +52,7 @@
 
       svg {
         width: 30px;
-        color: color.$purple2;
+        color: color.$background;
       }
     }
   }
@@ -58,7 +64,7 @@
       text-align: center;
 
       a {
-        color: black;
+        color: color.$text;
       }
 
       h1 {
@@ -149,17 +155,21 @@
         }
 
         &.selected {
-          background-color: color.$purple0;
+          background-color: color.$purple-gray;
+          filter: drop-shadow(-2px -2px 8px #d9d0e3);
         }
       }
     }
   }
 
   .project-list {
-    background-color: color.$purple0;
+    background-color: color.$purple-gray;
     width: 100%;
 
     padding-bottom: 50px;
+
+    position: relative;
+    z-index: 40;
 
     .list-content {
       display: flex;

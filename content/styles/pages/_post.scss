@@ -12,7 +12,7 @@ $cover-width: calc($cover-height / 4 * 3);
       background-color: color.$purple3;
       border-radius: 30px;
       text-decoration: none;
-      color: black;
+      color: color.$text;
 
       padding: 7px 16px;
     }
@@ -37,8 +37,8 @@ $cover-width: calc($cover-height / 4 * 3);
         background-color: color.$purple3;
 
         border: none;
-        border-top-left-radius: 20px;
-        border-top-right-radius: 20px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
 
         font-weight: bold;
 
@@ -90,6 +90,13 @@ $cover-width: calc($cover-height / 4 * 3);
 
     img {
       width: 100%;
+    }
+
+    h1 {
+      color: color.$purple2;
+
+      border-bottom: 2px solid color.$purple2;
+      padding-bottom: 8px;
     }
   }
 
@@ -210,7 +217,7 @@ $cover-width: calc($cover-height / 4 * 3);
     }
 
     a {
-      color: black;
+      color: color.$text;
     }
 
     .previous-post {

@@ -8,7 +8,7 @@ $content-padding: 30px;
 
 .full-card-link {
   text-decoration: none;
-  color: black;
+  color: color.$text;
 
   display: inline;
 }
@@ -17,7 +17,8 @@ $content-padding: 30px;
   width: 100%;
   height: calc($image-height + $content-height);
 
-  color: black;
+  color: color.$text;
+  filter: color.$drop-shadow;
 
   .image {
     width: 100%;
@@ -31,15 +32,20 @@ $content-padding: 30px;
     align-items: flex-end;
     flex-direction: row-reverse;
 
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
     .score {
       width: $score-height;
       height: $score-height;
 
-      background-color: color.$purple3;
+      background-color: color.$purple-white;
 
       display: flex;
       align-items: center;
       justify-content: center;
+
+      border-top-left-radius: 20px;
 
       span {
         font-size: 50px;
@@ -49,19 +55,23 @@ $content-padding: 30px;
   }
 
   .card-content {
-    background-color: color.$purple3;
+    background-color: color.$purple-white;
     padding: $content-padding;
     height: calc($content-height - ($content-padding * 2));
+
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 
     .card-tags {
       margin-bottom: 20px;
 
       span {
-        background-color: color.$purple2;
+        background-color: color.$purple-dark;
         color: white;
         border-radius: 30px;
 
-        padding: 7px 16px;
+        padding: 4px 8px;
+        font-size: 12px;
 
         &:not(:last-child) {
           margin-right: 6px;

@@ -1,5 +1,5 @@
 module.exports = {
-  lang: 'en-US',
+  lang: 'en',
   eleventyComputed: {
     permalink: (data) => {
       if (data.noRender) return false;

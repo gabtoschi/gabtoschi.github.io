@@ -1,37 +1,37 @@
 [
   {
     "name": "email",
-    "icon": "social-icons/email",
+    "icon": "icons/email",
     "link": "mailto:eu@gabtoschi.com"
   },
   {
     "name": "mastodon",
-    "icon": "social-icons/mastodon",
+    "icon": "icons/mastodon",
     "link": "https://peoplemaking.games/@gabtoschi"
   },
   {
     "name": "bluesky",
-    "icon": "social-icons/bluesky",
+    "icon": "icons/bluesky",
     "link": "https://bsky.app/profile/gabtoschi.com"
   },
   {
     "name": "twitter",
-    "icon": "social-icons/twitter",
+    "icon": "icons/twitter",
     "link": "https://twitter.com/gabtoschi"
   },
   {
     "name": "github",
-    "icon": "social-icons/github",
+    "icon": "icons/github",
     "link": "https://github.com/gabtoschi"
   },
   {
-    "name": "backloggd",
-    "icon": "social-icons/backloggd",
-    "link": "https://backloggd.com/u/gabtoschi"
+    "name": "steam",
+    "icon": "icons/steam",
+    "link": "https://store.steampowered.com/curator/44763507/"
   },
   {
     "name": "letterboxd",
-    "icon": "social-icons/letterboxd",
+    "icon": "icons/letterboxd",
     "link": "https://letterboxd.com/gabtoschi"
   }
 ]
