@@ -8,7 +8,7 @@ title: Not every game story needs to be about “saving the world”
 date: 2021-11-30
 
 subtitle: Sometimes, I just want a personal and sincere little adventure
-description: When the world seems to be falling apart in front of you, what you expect in a video game story can change. Sometimes, I just want a personal and sincere little adventure to warm my heart.
+description: When the world seems to be falling apart in front of you, what you expect in a game story can change. Sometimes, I just want a personal and sincere little adventure to warm my heart.
 thumbnail: "/img/posts/different-stories-in-games/thumbnail.jpg"
 ---
 

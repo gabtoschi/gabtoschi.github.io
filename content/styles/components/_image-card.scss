@@ -3,8 +3,14 @@
 
 $image-card-link-padding-x: 12px;
 
+.image-card-link {
+  text-decoration: none;
+}
+
 .image-card {
   width: 500px;
+
+  filter: color.$drop-shadow;
 
   @media (max-width: breakpoint.$lg) {
     width: 100%;
@@ -15,18 +21,21 @@ $image-card-link-padding-x: 12px;
     height: 200px;
 
     background-position: center;
+    background-size: cover;
 
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
   }
 
-  a {
+  span {
     display: block;
     width: calc(100% - $image-card-link-padding-x * 2);
     padding: 8px 12px;
 
     color: color.$purple-dark;
     background-color: color.$purple-gray;
+
+    text-decoration: none;
 
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;

@@ -1,0 +1,15 @@
+---
+layout: layouts/base
+---
+
+<div class="container showcase">
+  <img alt="GameBlast" src="/img/projects/gameblast.jpg" />
+
+  <ul>
+    {% for article in gameblast %}
+      <li>
+        <a target="_blank" href={{ article.link}}>{{ article.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

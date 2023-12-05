@@ -9,7 +9,7 @@ date: 2023-11-23
 
 score: 8
 cover: "/img/reviews/el-tango-de-la-muerte/cover.jpg"
-played: Windows PC
+played: played on Windows PC (itch.io)
 links:
   - ["Steam", "https://store.steampowered.com/app/701380/El_Tango_de_la_Muerte/"]
   - ["itch.io", "https://smokitop.itch.io/el-tango-de-la-muerte"]

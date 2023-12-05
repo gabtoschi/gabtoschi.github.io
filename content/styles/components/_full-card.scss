@@ -3,7 +3,7 @@
 
 $image-height: 180px;
 $score-height: calc($image-height * 0.4);
-$content-height: 210px;
+$content-height: 220px;
 $content-padding: 30px;
 
 .full-card-link {
@@ -57,7 +57,7 @@ $content-padding: 30px;
   .card-content {
     background-color: color.$purple-white;
     padding: $content-padding;
-    height: calc($content-height - ($content-padding * 2));
+    min-height: calc($content-height - ($content-padding * 2));
 
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;

@@ -5,6 +5,11 @@
     "link": "mailto:eu@gabtoschi.com"
   },
   {
+    "name": "telegram",
+    "icon": "icons/telegram",
+    "link": "https://t.me/gabtoschi"
+  },
+  {
     "name": "mastodon",
     "icon": "icons/mastodon",
     "link": "https://peoplemaking.games/@gabtoschi"
