@@ -72,10 +72,12 @@ $cover-width: calc($cover-height / 4 * 3);
 
       h1 {
         margin-bottom: 12px;
+        font-size: 40px;
       }
 
       h4 {
         font-weight: 100;
+        font-size: 24px;
       }
     }
   }
@@ -97,6 +99,11 @@ $cover-width: calc($cover-height / 4 * 3);
 
       border-bottom: 2px solid color.$purple2;
       padding-bottom: 8px;
+    }
+
+    .youtube {
+      display: flex;
+      justify-content: center;
     }
   }
 
