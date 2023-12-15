@@ -14,7 +14,7 @@ links:
   - ["Nintendo Switch", "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-switch/"]
 song: ["Welcome to the New World! (Full)", "https://www.youtube.com/watch?v=HUAy4LBjdHU"]
 
-subtitle: "A new dimension for a puffball, a new world full of personality (AND CAR KIRBY YES)"
+subtitle: "A new dimension for a puffball, a new world full of personality, and Car Kirby"
 description: A new dimension for a puffball, a new world full of personality! The first Kirby's 3D adventure is full of surprises that I didn't expect for a Kirby game. And Car Kirby.
 thumbnail: "/img/reviews/kirby-forgotten-land/thumbnail.jpg"
 ---
