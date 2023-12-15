@@ -2,6 +2,8 @@ const sass = require('sass');
 const path = require('path');
 const fs = require('fs');
 
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+
 const DEFAULT_LANG = 'en';
 const TAGS_WITHOUT_PAGES = ['blog', 'article'];
 
@@ -21,6 +23,8 @@ function eleventyComputedTagsWithPages() {
 }
 
 module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(pluginRss);
+
   eleventyConfig.addGlobalData('lang', DEFAULT_LANG);
   eleventyConfig.addGlobalData("eleventyComputed.permalink", eleventyComputedPermalink);
   eleventyConfig.addGlobalData("eleventyComputed.tagsWithPages", eleventyComputedTagsWithPages);

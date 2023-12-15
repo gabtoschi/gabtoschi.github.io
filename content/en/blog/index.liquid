@@ -11,9 +11,14 @@ permalink: "blog/{% if pagination.pageNumber != 0 %}{{ pagination.pageNumber | p
 
 <div class="blog-list container">
   <div class="header">
-    <h1>my name is
-      <a href="/">Gabriel Toschi</a>
-      and this is my blog!</h1>
+    <div class="header-title">
+      <h1>my name is
+        <a href="/">Gabriel Toschi</a>
+        and this is my blog!
+      </h1>
+
+      <a target="_blank" href="/feed.xml">{% svg "icons/rss" %}</a>
+    </div>
     <h3>you can also see
       <a href="/#projects">my projects and games here</a>
     </h3>
