@@ -1,7 +1,7 @@
 @use 'utilities/colors' as color;
 @use 'utilities/breakpoints' as breakpoint;
 
-.spoiler {
+.spoiler, .thanks {
   border-radius: 8px;
   padding: 16px;
   background-color: color.$purple-gray;

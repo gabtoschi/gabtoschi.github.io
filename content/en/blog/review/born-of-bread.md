@@ -77,4 +77,4 @@ Why I would bother to write that amount of text just to say the game is kinda OK
 
 You want a pretty, funny and easy Paperverse RPG? Born of Bread is ready for you to eat and can be served in any digital store of your preference. But the strong flavor that only well-made and focused mechanics can give isn't in the menu, unfortunately.
 
-*This article was made using a review copy sent by the development team when I was writing for the CosmoNerd portal. Thanks for the trust, devs!*
+{% render "components/thanks" message:"This article was made using a review copy sent by the development team to CosmoNerd, where I wrote my original review about it. Thanks for the trust, devs!" %}
