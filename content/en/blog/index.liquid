@@ -3,7 +3,7 @@ layout: layouts/base
 
 pagination:
   data: collections.blog
-  size: 4
+  size: 6
   reverse: true
 
 permalink: "blog/{% if pagination.pageNumber != 0 %}{{ pagination.pageNumber | plus: 1 }}/{% endif %}"

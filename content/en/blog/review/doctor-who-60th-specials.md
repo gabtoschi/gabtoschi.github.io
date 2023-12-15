@@ -17,11 +17,11 @@ links:
 song: ["Doctor Who Theme (2023 version)", "https://www.youtube.com/watch?v=X_1bgdz7vig"]
 
 subtitle: The Doctor's personal journey gets a new page in this look into the future
-description: A TV show from the 60s turned 60! But in this Doctor Who celebration, elements from the past come back to show what to expect for the future of our favorite Time Lord.
+description: A TV show from the 60s turned 60! Let's talk about how The Doctor's personal journey gets a new page in this look into the future of my favorite show.
 thumbnail: "/img/reviews/doctor-who-60th-specials/thumbnail.jpg"
 ---
 
-How many people can say casually that their favorite TV series is going to its **60th anniversary** and still strong as ever? I'm one of them, because **Doctor Who** is one of the most special shows in the world's (and my) history. Since the first TARDIS materialization in November 23th 1983, our favorite Time Lord visited galaxies, met personalities and saved the day way more times than everyone can count.
+How many people can say casually that their favorite TV series is going to its **60th anniversary** and still strong as ever? I'm one of them, because **Doctor Who** is one of the most special shows in the world's (and my) history. Since the first TARDIS materialization in November 23th 1963, our favorite Time Lord visited galaxies, met personalities and saved the day way more times than everyone can count.
 
 Talking personally, **I didn't really know what to expect for those 60th Anniversary Specials**. The only "modern celebration" we had was 10 years ago, in the marvelous, intricate and already-a-classic [The Day of the Doctor](https://www.youtube.com/watch?v=7hRy2N2CMhQ). This special was not only incredible as a multi-Doctor episode and a major retcon for the "revival series", but paid homage to so many characters, stories and themes of the past of the show. It was a concept that made sense at the time too, with a well established production team and a veteran face already in the role of The Doctor.
 
@@ -53,7 +53,7 @@ Like, really, I think that every special on this run has **at least** one scene 
 
 # Special 2: Wild Blue Yonder
 
-I'm not the biggest fan of horror or suspense movies, so you can imagine that those episodes on Doctor Who weren't in my top lists (yes, I'm talking to all Blink fans right there). **Wild Blue Yonder** is a weird turn in the middle of those anniversary specials: it's definitel9thy a great episode that even I could enjoy, but doesn't really add a lot to the overarching plot of the 14th Doctor.
+I'm not the biggest fan of horror or suspense movies, so you can imagine that those episodes on Doctor Who weren't in my top lists (yes, I'm talking to all Blink fans right there). **Wild Blue Yonder** is a weird turn in the middle of those anniversary specials: it's definitely a great episode that even I could enjoy, but doesn't really add a lot to the overarching plot of the 14th Doctor.
 
 With all that said, it was a really interesting mystery from start to finish: those "not-things" were terrifying, using the appearance of The Doctor and Donna to be deformed and scary. I think that the episode wouldn't have worked so well with original faces being copied instead of familiar ones. The tension of not having the TARDIS or the sonic screwdriver (after the materialized walls in Special 1) and having to find a way to get out of the situation was one of RTD best stories to date on the show.
 
@@ -61,7 +61,7 @@ With all that said, it was a really interesting mystery from start to finish: th
 
 But once more, 14th's overflowing emotions break through again, not only in his now-traditional rage scene, but in the dialog with "not-Donna". As a person that liked the Timeless Child concept from the beginning, it's cool to see that the revelation of past lives is still in The Doctor's mind, as it should be. More than ever and with an unexpected face, The Doctor needs to understand who they are and what's happening.
 
-And there is it for me, nothing a lot to say. Not my favorite, although one of the best "horror episodes" in the series. A special recognition for Bernard Cribbins' last scene ever, with one last and [**emotional appearance of Wilfred Mott**](https://www.youtube.com/watch?v=RpqvCT3nJSU), our loved grandpa. And [that pun with Isaac Newton](https://www.youtube.com/watch?v=CDzqz2TpxHU) was gold, to be fair, I was so proud of those two.
+And there is it for me, not a lot more to say. Not my favorite, although one of the best "horror episodes" in the series. A special recognition for Bernard Cribbins' last scene ever, with one last and [**emotional appearance of Wilfred Mott**](https://www.youtube.com/watch?v=RpqvCT3nJSU), our loved grandpa. And [that pun with Isaac Newton](https://www.youtube.com/watch?v=CDzqz2TpxHU) was gold, to be fair, I was so proud of those two.
 
 # (a digression about The Doctor's personal journeys)
 
@@ -73,7 +73,7 @@ Christopher Eccleston's 9th Doctor was the first to face this question, being th
 
 ![9th Doctor, Rose Tyler and 10th Doctor in front of the TARDIS](/img/reviews/doctor-who-60th-specials/9-10.jpg)
 
-David Tennant's 10th Doctor continued that to extreme levels. There wasn't a Doctor in the revival series that needed the companions to stop him more than 10. There wasn't an enemy that he can defeat with menacing eyes and so much fury, he was THE ONE that destroyed Gallifrey to stop a war. There was only him, powerful than ever, so powerful that he thinks the Laws of Time were his, the [**Time Lord Victorious**](https://www.youtube.com/watch?v=gchry9XuolA). At the same time, it's the Doctor that lost so much, in the same proportion that his power. **10th was the Doctor that learned how to be powerful, but couldn't stop the losses with his power.**
+David Tennant's 10th Doctor continued that to extreme levels. There wasn't a Doctor in the revival series that needed the companions to stop him more than 10. There wasn't an enemy that he can't defeat with menacing eyes and so much fury, he was THE ONE that destroyed Gallifrey to stop a war. There was only him, powerful than ever, so powerful that he thinks the Laws of Time were his, the [**Time Lord Victorious**](https://www.youtube.com/watch?v=gchry9XuolA). He is also the Doctor that realized how much he lost friends, civilizations and worlds during all his lives. **10th was the Doctor that learned how to be powerful, but couldn't stop the losses with his power.**
 
 The debut episode of Matt Smith's 11th Doctor shows exactly who he is. [*"Hello, I'm the Doctor. Basically, run."*](https://www.youtube.com/watch?v=arAjbSkKF-Q) is such a powerful line. He knows he's powerful and now feared through the galaxy. [The Pandorica Speech](https://www.youtube.com/watch?v=Pa74e8oAvIM), having every one of their enemies just fleeing in fear... The Doctor isn't just "a Time Lord" anymore, he is **The Oncoming Storm**, a good man going to war. It's even more easy to see when 11th is the most goofy Doctor in the revival series by the pure contrast of those two personas.
 
@@ -85,7 +85,7 @@ I think that Peter Capaldi's 12th Doctor had the **most explicit personal journe
 
 ![12th Doctor and 1st Doctor](/img/reviews/doctor-who-60th-specials/12.jpg)
 
-But I said there were TWO keywords for this journey and we talked about how 12th reacted to the loss (and isn't very well). That [speech on *The Zygon Inversion*](https://www.youtube.com/watch?v=BJP9o4BEziI) shows exactly how much traumatized the Time War still is for The Doctor. When he loses Clara for the raven, he goes to the extreme of rescuing her on her last breath because he can't face losing one more friend. For God's sake, [Heaven Sent](https://www.youtube.com/watch?v=suUv4slpr3I) isn't just a cinematic masterpiece, but the most intimate episode of Doctor Who even made. **12th was the Doctor that found their essence again, but accumulate so much trauma and memories.**
+But I said there were TWO keywords for this journey and we talked about how 12th reacted to the loss (and isn't very well). That [speech on *The Zygon Inversion*](https://www.youtube.com/watch?v=BJP9o4BEziI) shows exactly how much traumatized the Time War still is for The Doctor. When he loses Clara for the raven, he goes to the extreme of rescuing her on her last breath because he can't face losing one more friend. For God's sake, [Heaven Sent](https://www.youtube.com/watch?v=suUv4slpr3I) isn't just a cinematic masterpiece, but the most intimate episode of Doctor Who ever made. **12th was the Doctor that found their essence again, but accumulate so much trauma and memories.**
 
 Jodie Whittaker's 13th Doctor was born in those Capaldi's last words. She was always running, laughing with her fam and being the kindest Doctor in decades. **Her personal journey, to me, was more of a test.** Imagine finally finding your essence again and then discovering that you had ANOTHER LIVES, way before you imagined. When 13th looks to all the emotional charge of the Timeless Child and her Division's past lives and just buried it inside the TARDIS... she just confirmed who she is. She is The Doctor, the creature they always wanted to be, and it will continue to try. As they said once, [*"The name you choose is like a promise you make"*](https://youtu.be/3Xx4NbPkHGM&t=160) and she doubled down on it. **13th was the Doctor that confirmed her essence and chose again to be in her promise.**
 
@@ -101,7 +101,7 @@ OK, it's the end of the recap and we're back to the present to talk about **The 
 
 ![Neil Patrick Harris as the Toymaker](/img/reviews/doctor-who-60th-specials/toymaker.jpg)
 
-There's a lot of other characters really well presented too, what is a contrast of oh-my-God-this-is-one-more-thing-in-this-convoluted-story style of Chibnall during the 13th era. Kate Stewart is always badass (with an amazing, vulnerable performance by Jemma Redgrave), Melanie Bush is back and I already wanted more of companions in UNIT's paycheck and I'm really curious by the new scientific advisor Shirley Anne Bingham and what new she can bring to the show.
+There's a lot of other characters really well presented too, what is a contrast of oh-my-God-this-is-one-more-thing-in-this-convoluted-story style of Chibnall during the 13th era. Kate Stewart is always badass (with an amazing, vulnerable performance by Jemma Redgrave), Melanie Bush is back and I already wanted more of companions in UNIT's paycheck and I'm really curious by the new scientific advisor Shirley Anne Bingham and what more she can bring to the show.
 
 Yeah, The Giggle would be a great episode already, but we get it. A myth becoming reality by the Toymaker, we have the first (and probably only one) **bi-generation in the history of Doctor Who**! Instead of just a new face, The Doctor divided in two, granting us the first peek (and what a peek!) at Ncuti Gatwa's 15th Doctor. He's frantic, he's ready to take on the universe and he's strangely confident. Facing the Toymaker or talking with his past self, he seems to know more than we generally expect from a post-regeneration Doctor.
 

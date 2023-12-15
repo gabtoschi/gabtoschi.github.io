@@ -120,6 +120,10 @@ $cover-width: calc($cover-height / 4 * 3);
 
       background-position: center;
       background-size: cover;
+
+      border: 2px color.$purple2 solid;
+      border-top-left-radius: 20px;
+      border-bottom-left-radius: 20px;
     }
 
     .info {
