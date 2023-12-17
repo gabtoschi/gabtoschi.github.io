@@ -38,5 +38,9 @@ module.exports = [
   {
     key: "dw",
     value: "DOCTOR WHO"
+  },
+  {
+    key: "personal",
+    value: "PERSONAL"
   }
 ];
