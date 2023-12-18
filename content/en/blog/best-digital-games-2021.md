@@ -7,6 +7,7 @@ tags:
 
 title: The best digital games I played in 2021
 date: 2021-12-26
+translate: /pt/blog/melhores-jogos-digitais-2021
 
 subtitle: "My 2nd Played of the Year — how to be happy with a Wii U"
 description: One more Played of the Year! 2021 was really a time vortex, so I bought a Wii U and decided to live as the GameCube and the Wii were the new thing in the market. You can't judge me.

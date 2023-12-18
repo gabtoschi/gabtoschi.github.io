@@ -7,6 +7,7 @@ tags:
 
 title: The best digital games I played in 2020
 date: 2020-12-25
+translate: /pt/blog/melhores-jogos-digitais-2020
 
 subtitle: "My 1st Played of the Year — the pandemic made me (even more) gamer"
 description: "The pandemic made me (even more) gamer, so I invented my own award, the Played of the Year. Because no one have that much money to play only new games, right? ...Right?"

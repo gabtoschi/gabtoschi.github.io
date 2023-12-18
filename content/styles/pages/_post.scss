@@ -9,10 +9,11 @@ $cover-width: calc($cover-height / 4 * 3);
     margin-bottom: 24px;
 
     a {
-      background-color: color.$purple-gray;
+      background-color: transparent;
+      border: 2px solid color.$purple-dark;
       border-radius: 30px;
       text-decoration: none;
-      color: color.$text;
+      color: color.$purple-dark;
       filter: color.$drop-shadow;
 
       padding: 7px 16px;
@@ -102,8 +103,17 @@ $cover-width: calc($cover-height / 4 * 3);
       padding-bottom: 8px;
     }
 
+    h2 {
+      color: color.$purple-dark;
+    }
+
     a {
       color: color.$purple-dark;
+    }
+
+    hr {
+      background-color: color.$purple-dark;
+      height: 2px;
     }
 
     .youtube {

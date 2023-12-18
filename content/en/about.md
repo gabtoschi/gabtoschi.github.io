@@ -1,5 +1,6 @@
 ---
 layout: layouts/about
+translate: "/pt/about"
 
 title: "Gabriel Toschi | About me"
 thumbnail: "/img/about.jpg"

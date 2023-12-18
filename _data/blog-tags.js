@@ -42,5 +42,9 @@ module.exports = [
   {
     key: "personal",
     value: "PERSONAL"
+  },
+  {
+    key: "gamedev",
+    value: "GAMEDEV"
   }
 ];

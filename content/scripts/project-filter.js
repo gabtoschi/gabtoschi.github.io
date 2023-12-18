@@ -1,9 +1,8 @@
 let selectedFilter = 'project';
+if (window.location.href.includes('pt')) selectedFilter = 'project-pt';
 
 const filterButtons = [...document.getElementsByClassName('filter-button')];
-const projectCards = [...document.getElementsByClassName('card-wrapper project')];
-
-console.log(projectCards)
+const projectCards = [...document.getElementsByClassName(`card-wrapper ${selectedFilter}`)];
 
 const updateFilterButtons = () => {
   filterButtons.forEach(button => {

@@ -5,7 +5,7 @@ const fs = require('fs');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const DEFAULT_LANG = 'en';
-const TAGS_WITHOUT_PAGES = ['blog', 'article'];
+const TAGS_WITHOUT_PAGES = ['blog', 'blogpt', 'article'];
 
 function eleventyComputedPermalink() {
 	return (data) => {

@@ -1,4 +1,4 @@
 module.exports = {
-  projects: ['project'],
-  blog: ['blog', 'article', 'review'],
+  projects: ['project', 'project-pt'],
+  blog: ['blog', 'blogpt', 'article', 'review'],
 }

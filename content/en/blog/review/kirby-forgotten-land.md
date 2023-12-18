@@ -6,6 +6,7 @@ tags:
 
 title: Kirby and the Forgotten Land
 date: 2023-12-13
+translate: /pt/blog/review/kirby-forgotten-land
 
 score: 10
 cover: "/img/reviews/kirby-forgotten-land/cover.jpg"
@@ -49,7 +50,7 @@ The finishing touch for the "new world" for me is **Waddle Dee Town**. I always 
 
 # No one can hold you back. New fields full of mystery.
 
-It's really nice to have an amazing scenario, but this is still a game! A lot of those cool set pieces I talked about before are always interactive. Some of them is just good level design, but a lot of them have a great mechanic behind it: **if the thing is too big, Kirby doesn't copy its ability, but instead became part of it in the Mouthful Mode!** For gamers, it's like Cappy's capture power in Super Mario Odyssey. For 2000s cartoon kids, it's like [the alien Upgrade from Ben 10](https://ben10.fandom.com/wiki/Upgrade_(Classic)).
+It's really nice to have an amazing scenario, but this is still a game! Those cool set pieces I talked about before are always interactive. Some of them is just good level design, but a lot of them have a great mechanic behind it: **if the thing is too big, Kirby doesn't copy its ability, but instead became part of it in the Mouthful Mode!** For gamers, it's like Cappy's capture power in Super Mario Odyssey. For 2000s cartoon kids, it's like [the alien Upgrade from Ben 10](https://ben10.fandom.com/wiki/Upgrade_(Classic)).
 
 So, if you find a cone, Kirby can swallow it and use its pointed side to attack enemies or breaking walls when ground pounding. Or if Kirby swallows a vending machine, he becomes a soda machine gun. OR IF KIRBY SWALLOWS A CAR, KIRBY CAR IS BORN. Car-Mouth Kirby is one of the cutest images ever imagined by humanity since the first person opened their eyes. My son will be called Carby because of him. **I will protect Kirby Car forever.**
 
@@ -57,13 +58,13 @@ So, if you find a cone, Kirby can swallow it and use its pointed side to attack 
 
 Those small moments of gameplay change are really cool. Not only to allow more amazing set pieces, but to break the monotony of "barefoot Kirby" that can happen sometimes. There isn't a lot of Mouthful Modes available, and a lot of them are recycled during the adventure, but it's a really fun feature anyways. I can be Kirby and a car at the same time! It's perfect.
 
-Now that I cited "barefoot Kirby", I think this is **the game that made Copy Abilities really fun to me finally**. In concept, the power of getting the ability of the enemies is amazing: you can get different powers every level, find your favorites and sticking to them (until a collectable has a obligatory ability that has to be used). In practice, you see everything that is available in the first world of the game and keep using them until you finished it.
+Now that I cited "barefoot Kirby", I think this is **the game that made Copy Abilities really fun to me finally**. In concept, the power of getting the ability of the enemies is amazing: you can get different powers every level, find your favorites and sticking to them (until a collectable forces you to use a specific Copy Ability). In practice, you see everything that is available in the first world of the game and keep using them until you finished it.
 
 {% render "components/youtube" id:"_B-qk4_V2jY" %}
 
 **In Forgotten Land, the Copy Abilities can be upgraded** and I've never been so happy in a Kirby game before. To start, the blueprints you need to unlock them sometimes are well hidden in the levels, doubling down as a cool collectable to search for. Then, you need Rare Stones from challenge stages as currency — I never cared for them before, but with the gameplay variety here, they just became little and interesting puzzles.
 
-When you upgrade a ability, they doesn't lose their essence, but they got new visuals and extra abilities from there. The Fire ability makes Kirby breathe fire, but Volcano Fire Kirby can shoot flaming magma stones way much further. The new Ranger ability gives Kirby a Gun™, but Noble Ranger Kirby can just use those pistols as machine guns if he charges. The control scheme is the same, the new but **the sense of power and discovery changes completely with each new evolution**.
+When you upgrade a ability, they doesn't lose their essence, but they got new visuals and extra abilities from there. The Fire ability makes Kirby breathe fire, but Volcano Fire Kirby can shoot flaming magma stones way much further. The new Ranger ability gives Kirby a Gun™, but Noble Ranger Kirby can just use those pistols as machine guns if he charges. The control scheme is the same, but **the sense of power and discovery changes completely with each new evolution**.
 
 ![Noble Ranger Kirby, Fleur Tornado Kirby and Toy Hammer Kirby](/img/reviews/kirby-forgotten-land/upgrade.jpg)
 

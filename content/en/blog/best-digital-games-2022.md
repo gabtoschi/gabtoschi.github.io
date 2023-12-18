@@ -7,6 +7,7 @@ tags:
 
 title: The best digital games I played in 2022
 date: 2022-12-28
+translate: /pt/blog/melhores-jogos-digitais-2022
 
 subtitle: "My 3rd Played of the Year — backlog cleaning and Xbox Game Pass"
 description: Sometimes, you just need to clear your backlog (and start to pay a game subscription service) to play a lot of games. Welcome to 2022 Played of the Year!

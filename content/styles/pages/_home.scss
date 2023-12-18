@@ -156,6 +156,7 @@
 
         &.selected {
           background-color: color.$purple-gray;
+          font-weight: 600;
           filter: drop-shadow(-2px -2px 8px #d9d0e3);
         }
       }

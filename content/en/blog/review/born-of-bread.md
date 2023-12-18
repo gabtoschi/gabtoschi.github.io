@@ -6,6 +6,8 @@ tags:
 
 title: Born of Bread
 date: 2023-12-10
+translate: /pt/blog/review/born-of-bread
+
 
 score: 7
 cover: "/img/reviews/born-of-bread/cover.jpg"
@@ -53,7 +55,7 @@ I was playing a new game, with a new plot, interesting characters and a beautifu
 
 # Flavors in quantity, not intensity
 
-What I did wasn't fair: **Born of Bread is NOT ONLY a rehash of a 2000 game.** There is so much original ideas and concepts here, mixed together with the intention of creating a mechanic identity for the game. But if you use all the seasoning you have in your kitchen, it's not guaranteed to create a powerful flavor.
+What I did wasn't fair: **Born of Bread is NOT ONLY a rehash of a 2000 game.** There is so much original ideas and concepts here, mixed together with the intention of creating a mechanic identity for the game. But if you use all the seasoning you have in your kitchen, it's not guaranteed to create a powerful flavor. If nothing stands out, your food will be a little bland.
 
 A good example is how you can personalize the character's builds, including attacks. In the original Paper Mario, it was really simple: Mario can get new abilities by badges, and the partners finding special blocks in the overworld. It's straight to the point, and cannot offer a lot of strategies if we can be honest.
 
@@ -61,7 +63,7 @@ A good example is how you can personalize the character's builds, including atta
 
 Born of Bread just goes over the top. Loaf has a **backpack mechanic like a Resident Evil inventory**, where every equipment is a shape that needs to be put inside a square to be available for battle. Each friend, in the other hand, has a full, exclusive **skill tree**, that can only be unlocked using Skill Points — THAT YOU NEED TO EXCHANGE to special souls you find in the overworld. Unlocking a full row in the skill tree (whose only one ability can be equipped at a time), that partner gets a HP bonus. And as I said, **boons are also a type of equippable thing** that can give passives.
 
-The problem with having a lot of those systems is that no one is deep enough to allow for cool strategies. It's like juggle three different mechanics and they just don't stick. The backpack puzzle is too simple, the skill tree is grindy, the boons are way less interesting than Mario's badges. A part of me just wanted the backpack, but for every character. Just include more pieces in the puzzle (like adjacent bonuses? or put one-use items in the mix?) and it'll be an important, dense and well made flavor for a game so inspired by others.
+The problem with having a lot of those systems is that no one is deep enough to allow for cool strategies. It's like juggle three different mechanics and they just don't stick. The backpack puzzle is too simple, the skill tree is grindy, the boons are way less interesting than Mario's badges. A part of me just wanted the backpack, but for every character. Just include more pieces in the puzzle (like adjacent bonuses? or put one-use items in the mix?) and it would be an important, dense and well made flavor for a game so inspired by others.
 
 ![Action command being executed in a battle in Born of Bread](/img/reviews/born-of-bread/command.jpg)
 

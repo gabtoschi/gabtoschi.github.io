@@ -11,11 +11,7 @@ module.exports = {
         return pagination.hrefs[pagination.pageNumber];
       }
 
-      if (filePathStem.includes('index')) {
-        return `${filePathStem.replace('/en', '')}.${outputFileExtension}`
-      }
-
-      return `${filePathStem.replace('/en', '')}`
+      return `${filePathStem.replace('/en', '')}.${outputFileExtension}`
     }
   },
 }

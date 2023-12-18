@@ -1,0 +1,58 @@
+---
+layout: layouts/base
+translate: /blog
+
+pagination:
+  data: collections.blogpt
+  size: 6
+  reverse: true
+
+permalink: "pt/blog/{% if pagination.pageNumber != 0 %}{{ pagination.pageNumber | plus: 1 }}/{% endif %}"
+---
+
+<div class="blog-list container">
+  <div class="header">
+    <div class="header-title">
+      <h1>oi! eu sou o
+        <a href="/">Gabriel Toschi</a>
+        e esse é meu blog!
+      </h1>
+
+      <a target="_blank" href="/feed-pt.xml">{% svg "icons/rss" %}</a>
+    </div>
+    <h3>você também pode conferir
+      <a href="/#projects">meus projetos e jogos aqui</a>
+    </h3>
+  </div>
+
+  <div class="post-list">
+    {% for post in pagination.items %}
+      <div class="card-wrapper {{ post.data.tags | join: " " }}">
+        {% assign filteredTags = post.data.tags
+         | remove_intersec: not-show-tags.blog
+         | map_key_value: blog-tags-pt %}
+
+        {% render "components/full-card.liquid"
+         , samePage: true
+         , image: post.data.thumbnail
+         , title: post.data.title
+         , url: post.data.permalink
+         , text: post.data.description
+         , score: post.data.score
+         , tags: filteredTags %}
+      </div>
+    {% endfor %}
+  </div>
+
+  <nav class="pagination">
+    {% if pagination.href.previous %}
+      <a href={{ pagination.href.previous }}>&#60; anterior</a>
+    {% endif %}
+
+    <span>página {{ pagination.pageNumber | plus: 1 }}</span>
+
+    {% if pagination.href.next %}
+      <a href={{ pagination.href.next }}>próximo &#62;</a>
+    {% endif %}
+  </nav>
+</div>

@@ -4,13 +4,22 @@ layout: 'layouts/base'
 
 <div class="post">
   <div class="back-button container">
-    <a href="/blog">&#60; back to the blog</a>
+    {% if lang == 'en' %}
+      <a href="/blog">&#60; back to the blog</a>
+    {% else %}
+      <a href="/pt/blog">&#60; voltar ao blog</a>
+    {% endif %}
   </div>
 
   <div class="header">
     <div class="header-image" style="background-image: url({{ thumbnail }})">
+      {% assign allTagsByLang = blog-tags %}
+      {% if lang == 'pt' %}
+        {% assign allTagsByLang = blog-tags-pt %}
+      {% endif %}
+
       {% assign filteredTags = tags | remove_intersec: not-show-tags.blog %}
-      {% assign mappedTags = filteredTags | map_key_value: blog-tags %}
+      {% assign mappedTags = filteredTags | map_key_value: allTagsByLang %}
 
       {% for tag in mappedTags %}
         <span>
@@ -64,7 +73,12 @@ layout: 'layouts/base'
             <div class="info-song">
               {% svg "icons/music" %}
               <div class="info-song-link">
-                <span>my favorite song</span>
+                {% if lang == 'en' %}
+                  <span>my favorite song</span>
+                {% else %}
+                  <span>minha música favorita</span>
+                {% endif %}
+
                 <h3>
                   <a target="_blank" href="{{ song[1] }}">{{ song[0] }}</a>
                 </h3>
@@ -77,26 +91,32 @@ layout: 'layouts/base'
     </div>
   {% endif %}
 
+  {% assign blogCollection = collections.blog %}
+  {% if lang == 'pt' %}
+    {% assign blogCollection = collections.blogpt %}
+  {% endif %}
+
   <div class="post-end-wrapper">
     <div class="post-end container">
       <div class="previous-post">
-        {% assign previousPost = collections.blog | getPreviousCollectionItem %}
+        {% assign previousPost = blogCollection | getPreviousCollectionItem %}
 
         {% if previousPost %}
-          <span>previous post</span>
+          {% if lang == 'en' %}
+            <span>previous post</span>
+          {% else %}
+            <span>post anterior</span>
+          {% endif %}
           <h2>
             <a href="{{ previousPost.data.permalink }}">{{ previousPost.data.title }}</a>
           </h2>
         {% else %}
-          <span>want more?</span>
-          <h2>
-            <a href="/#projects">see my projects!</a>
-          </h2>
+          {% render "components/want-more", lang: lang %}
         {% endif %}
       </div>
 
       <div class="next-post">
-        {% assign nextPost = collections.blog | getNextCollectionItem %}
+        {% assign nextPost = blogCollection | getNextCollectionItem %}
 
         {% if nextPost %}
           <span>next post</span>
@@ -104,10 +124,7 @@ layout: 'layouts/base'
             <a href="{{ nextPost.data.permalink }}">{{ nextPost.data.title }}</a>
           </h2>
         {% else %}
-          <span>want more?</span>
-          <h2>
-            <a href="/#projects">see my projects!</a>
-          </h2>
+          {% render "components/want-more", lang: lang %}
         {% endif %}
       </div>
     </div>

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "project-pt",
+    "value": "TODOS"
+  },
+  {
+    "key": "project-digital",
+    "value": "VIDEOGAMES"
+  },
+  {
+    "key": "project-tabletop",
+    "value": "TABULEIRO"
+  },
+  {
+    "key": "project-text",
+    "value": "TEXTOS"
+  },
+  {
+    "key": "project-audio",
+    "value": "ÁUDIO"
+  },
+  {
+    "key": "project-video",
+    "value": "VÍDEO"
+  },
+  {
+    "key": "project-code",
+    "value": "CÓDIGO"
+  }
+]

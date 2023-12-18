@@ -7,6 +7,7 @@ tags:
 
 title: "Doctor Who: 60th Anniversary Specials"
 date: 2023-12-11
+translate: /pt/blog/review/doctor-who-especiais-60-anos
 
 score: 9
 cover: "/img/reviews/doctor-who-60th-specials/cover.jpg"
@@ -27,7 +28,7 @@ Talking personally, **I didn't really know what to expect for those 60th Anniver
 
 Now looking at retrospect, **2023 had a totally different context**. A production era was coming to an end, with Chris Chibnall stepping down from the role of showrunner and the final scenes of Jodie Whittaker as 13th Doctor being shown. Russell T Davies was back with a lot of morale and trust from the BBC and the fans, a huge distribution deal with Disney guaranteed worldwide distribution of the new episodes and even a new face for the Doctor was already there with Ncuti Gatwa. There was no promises of a new DotD, there was no context to a celebration at the same tone, but I think everyone expected it anyway, including me.
 
-{% render "components/spoiler" message:"This review has spoilers for all 3 specials, and some commentary about the plot of the revival series of Doctor Who (2005-2023)." %}
+{% render "components/spoiler", bold:"SPOILERS, SWEETIE!", message:"This review has spoilers for all 3 specials, and some commentary about the plot of the revival series of Doctor Who (2005-2023)." %}
 
 This review isn't just about what I liked in those new Doctor Who adventures. But also **how my expectations changed, week by week, when looking for answers**. Why bring back David Tennant — as the new 14th Doctor and not the 10th? Why bring back Donna Noble, the only companion in the revival series that couldn't have been brought back? Why bring back one of the oldest and forgotten classic villains? It all starts with a spaceship crashing...
 
@@ -37,7 +38,7 @@ This review isn't just about what I liked in those new Doctor Who adventures. Bu
 
 I know what was THE BIG THING on this first special, but can I start talking about **The Star Beast** recognizing it as a [**Doctor Who Magazine comic story**](https://tardis.fandom.com/wiki/Doctor_Who_and_the_Star_Beast_(comic_story)) brought to TV? The expanded universe was so important for the history of DW (specially during the 90s hiatus) and having it more present on the main show — in a way that everyone can enjoy — is so cool. With the whole [Whoniverse](https://www.youtube.com/watch?v=AvbDYtDZk1s) thing going on, it would be nice to have more of these.
 
-Now we can talk about the real star of the episode: **Donna Noble is back!** I always loved her interactions with the 10th Doctor and [her farewell in Journey's End](https://www.youtube.com/watch?v=ThRX-WALX9g) was one of the most emotional scenes in that era. Showing how she continued her life, forming her family and trying to live after donating the Doctor's money gift was really interesting — I don't know if being extremely rich would be a good character for Donna anyway Shaun Temple is a good husband, Sylvia Noble is still terrified of everything sci-fi to protect her daughter and I can't describe how much I loved Rose Noble, portrayed really well by Yasmin Finney.
+Now we can talk about the real star of the episode: **Donna Noble is back!** I always loved her interactions with the 10th Doctor and [her farewell in Journey's End](https://www.youtube.com/watch?v=ThRX-WALX9g) was one of the most emotional scenes in that era. Showing how she continued her life, forming her family and trying to live after donating the Doctor's money gift was really interesting — I don't know if being extremely rich would be a good character for Donna anyway. Shaun Temple is a good husband, Sylvia Noble is still terrified of everything sci-fi to protect her daughter and I can't describe how much I loved Rose Noble, portrayed really well by Yasmin Finney.
 
 ![Shaun Temple, Rose Noble and Donna Noble](/img/reviews/doctor-who-60th-specials/noble.jpg)
 
@@ -61,7 +62,7 @@ With all that said, it was a really interesting mystery from start to finish: th
 
 But once more, 14th's overflowing emotions break through again, not only in his now-traditional rage scene, but in the dialog with "not-Donna". As a person that liked the Timeless Child concept from the beginning, it's cool to see that the revelation of past lives is still in The Doctor's mind, as it should be. More than ever and with an unexpected face, The Doctor needs to understand who they are and what's happening.
 
-And there is it for me, not a lot more to say. Not my favorite, although one of the best "horror episodes" in the series. A special recognition for Bernard Cribbins' last scene ever, with one last and [**emotional appearance of Wilfred Mott**](https://www.youtube.com/watch?v=RpqvCT3nJSU), our loved grandpa. And [that pun with Isaac Newton](https://www.youtube.com/watch?v=CDzqz2TpxHU) was gold, to be fair, I was so proud of those two.
+And there is it for me, not a lot more to say. Not my favorite, although one of the best "horror episodes" in the series. A special recognition for Bernard Cribbins' last scene ever, with one last and [**emotional appearance of Wilfred Mott**](https://www.youtube.com/watch?v=nivoWTPXAg4), our loved grandpa. And [that pun with Isaac Newton](https://www.youtube.com/watch?v=CDzqz2TpxHU) was gold, to be fair, I was so proud of those two.
 
 # (a digression about The Doctor's personal journeys)
 
@@ -85,7 +86,7 @@ I think that Peter Capaldi's 12th Doctor had the **most explicit personal journe
 
 ![12th Doctor and 1st Doctor](/img/reviews/doctor-who-60th-specials/12.jpg)
 
-But I said there were TWO keywords for this journey and we talked about how 12th reacted to the loss (and isn't very well). That [speech on *The Zygon Inversion*](https://www.youtube.com/watch?v=BJP9o4BEziI) shows exactly how much traumatized the Time War still is for The Doctor. When he loses Clara for the raven, he goes to the extreme of rescuing her on her last breath because he can't face losing one more friend. For God's sake, [Heaven Sent](https://www.youtube.com/watch?v=suUv4slpr3I) isn't just a cinematic masterpiece, but the most intimate episode of Doctor Who ever made. **12th was the Doctor that found their essence again, but accumulate so much trauma and memories.**
+But I said there were TWO keywords for this journey and we haven't talked about how 12th reacted to the loss (and isn't very well). That [speech on *The Zygon Inversion*](https://www.youtube.com/watch?v=BJP9o4BEziI) shows exactly how much traumatizing the Time War still is for The Doctor. When he loses Clara for the raven, he goes to the extreme of rescuing her on her last breath because he can't face losing one more friend. For God's sake, [Heaven Sent](https://www.youtube.com/watch?v=suUv4slpr3I) isn't just a cinematic masterpiece, but the most intimate episode of Doctor Who ever made. **12th was the Doctor that found their essence again, but accumulate so much trauma and memories.**
 
 Jodie Whittaker's 13th Doctor was born in those Capaldi's last words. She was always running, laughing with her fam and being the kindest Doctor in decades. **Her personal journey, to me, was more of a test.** Imagine finally finding your essence again and then discovering that you had ANOTHER LIVES, way before you imagined. When 13th looks to all the emotional charge of the Timeless Child and her Division's past lives and just buried it inside the TARDIS... she just confirmed who she is. She is The Doctor, the creature they always wanted to be, and it will continue to try. As they said once, [*"The name you choose is like a promise you make"*](https://youtu.be/3Xx4NbPkHGM&t=160) and she doubled down on it. **13th was the Doctor that confirmed her essence and chose again to be in her promise.**
 
@@ -95,7 +96,7 @@ But when she's got to regenerate, although... She not only lost so many friends 
 
 # Special 3: The Giggle
 
-OK, it's the end of the recap and we're back to the present to talk about **The Giggle**, the last 60th anniversary special. And oh boy, [this was THE EPISODE](https://en.wikipedia.org/wiki/Stooky_Bill). Before entering in the subject of those personal journeys again, I just love it how adventurous and mysterious was the whole thing, even if we already know that the Toymaker was the bad guy behind all. I always love when a real historical thing becomes a plot point, and [Stooky Bill](https://en.wikipedia.org/wiki/Stooky_Bill) — the real-world first object televised in history — would make everyone crazy even without the magic giggle.
+OK, it's the end of the recap and we're back to the present to talk about **The Giggle**, the last 60th anniversary special. And oh boy, **this was THE EPISODE**. Before entering in the subject of those personal journeys again, I just love it how adventurous and mysterious was the whole thing, even if we already know that the Toymaker was the bad guy behind all. I always love when a real historical thing becomes a plot point, and [Stooky Bill](https://en.wikipedia.org/wiki/Stooky_Bill) — the real-world first object televised in history — would make everyone crazy even without the magic giggle.
 
 **Neil Patrick Harris as the Toymaker** was completely amazing. I'm always insecure when a big actor comes to do a big part in Doctor Who, but NPH nailed so well that I'm really sad the Toymaker was banished from existence forever. His character is so strange sometimes: it's like the Toymaker is a "chaotic lawful" god, always following the rules of the game, even if this counts against him. From the marionette recap to the Spice Girls incredible entrance, NPH make an already good episode to an unforgettable one.
 
