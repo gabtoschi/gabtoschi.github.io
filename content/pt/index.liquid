@@ -1,0 +1,96 @@
+---
+layout: layouts/base
+---
+
+<div class="home-page">
+  <div class="container">
+    <div class="welcome">
+      <div class="welcome-text">
+        <h1>oi! sou o Gabriel Toschi</h1>
+        <h2>boas-vindas ao meu cantinho na web!</h2>
+
+        <div class="social-icons">
+          <div class="social-list">
+            {% for social in socials %}
+              <a target="_blank" href={{ social.link }}>{% svg social.icon %}</a>
+            {% endfor %}
+          </div>
+          <span>esses são os outros cantinhos, bora bater papo :)</span>
+        </div>
+      </div>
+
+      {% render "components/image-card.liquid"
+       , image: "/img/about.jpg"
+       , text: "Mais sobre mim"
+       , url: "about" %}
+    </div>
+
+    <div class="latest-blog">
+      <div class="header">
+        <h1>
+          <a href="/pt/blog">últimas do blog</a>
+        </h1>
+        <h3>artigos e críticas fresquinhas!
+          <a href="/pt/blog">clique aqui para ver todos os posts</a>
+        </h3>
+      </div>
+
+      {% assign home-posts = collections.blogpt | reverse | first_nth: 4 %}
+
+      <div class="post-list">
+        {% for post in home-posts %}
+          <div class="card-wrapper {{ post.data.tags | join: " " }}">
+            {% assign filteredTags = post.data.tags
+             | remove_intersec: not-show-tags.blog
+             | map_key_value: blog-tags %}
+
+            {% render "components/full-card.liquid"
+             , samePage: true
+             , image: post.data.thumbnail
+             , title: post.data.title
+             , url: post.data.permalink
+             , text: post.data.description
+             , score: post.data.score
+             , tags: filteredTags %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div id="projects" class="projects">
+      <div class="header">
+        <h1>meus projetos</h1>
+        <h3>curiosidade pra aprender, criatividade pra fazer, caos pra se divertir</h3>
+      </div>
+
+      <div class="filter">
+        {% for tag in project-tags-pt %}
+          <button class="filter-button" id="{{ tag.key }}">
+            {{ tag.value }}
+          </button>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <div class="project-list">
+    <div class="list-content container">
+      {% for project in collections.project-pt reversed %}
+        <div class="card-wrapper {{ project.data.tags | join: " " }}">
+          {% assign filteredTags = project.data.tags
+           | remove_intersec: not-show-tags.projects
+           | map_key_value: project-tags-pt %}
+
+          {% render "components/full-card.liquid"
+           , image: project.data.image
+           , title: project.data.title
+           , url: project.data.link
+           , text: project.content
+           , tags: filteredTags %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="/scripts/project-filter.js"></script>

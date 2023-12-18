@@ -1,0 +1,135 @@
+---
+layout: 'layouts/base'
+---
+
+<div class="post">
+  <div class="back-button container">
+    {% if lang == 'en' %}
+      <a href="/blog">&#60; back to the blog</a>
+    {% else %}
+      <a href="/pt/blog">&#60; voltar ao blog</a>
+    {% endif %}
+  </div>
+
+  <div class="header">
+    <div class="header-image" style="background-image: url({{ thumbnail }})">
+      {% assign allTagsByLang = blog-tags %}
+      {% if lang == 'pt' %}
+        {% assign allTagsByLang = blog-tags-pt %}
+      {% endif %}
+
+      {% assign filteredTags = tags | remove_intersec: not-show-tags.blog %}
+      {% assign mappedTags = filteredTags | map_key_value: allTagsByLang %}
+
+      {% for tag in mappedTags %}
+        <span>
+          {{ tag }}
+        </span>
+      {% endfor %}
+
+      {% if score %}
+        <span class="score">
+          {{ score }}<span class="max">/10</span>
+        </span>
+      {% endif %}
+    </div>
+    <div class="header-content">
+      <div class="container">
+        <h1>{{ title }}</h1>
+        <h4>{{ subtitle }}</h4>
+      </div>
+    </div>
+  </div>
+
+  <div id="post-content" class="post-content container">
+    {{ content }}
+  </div>
+
+  {% if score %}
+    <div class="review-card container">
+      <div class="main">
+        <div class="cover" style="background-image: url({{ cover }})"></div>
+        <div class="info">
+          <div class="info-name-score">
+            <div class="info-name">
+              <h1>{{ title }}</h1>
+              {% if played %}
+                <span>{{ played }}</span>
+              {% endif %}
+            </div>
+
+            <div class="info-score">
+              {{ score }}<span class="max">/10</span>
+            </div>
+          </div>
+
+          <div class="info-links">
+            {% for link in links %}
+              <a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>
+            {% endfor %}
+          </div>
+
+          {% if song %}
+            <div class="info-song">
+              {% svg "icons/music" %}
+              <div class="info-song-link">
+                {% if lang == 'en' %}
+                  <span>my favorite song</span>
+                {% else %}
+                  <span>minha música favorita</span>
+                {% endif %}
+
+                <h3>
+                  <a target="_blank" href="{{ song[1] }}">{{ song[0] }}</a>
+                </h3>
+              </div>
+            </div>
+          {% endif %}
+
+        </div>
+      </div>
+    </div>
+  {% endif %}
+
+  {% assign blogCollection = collections.blog %}
+  {% if lang == 'pt' %}
+    {% assign blogCollection = collections.blogpt %}
+  {% endif %}
+
+  <div class="post-end-wrapper">
+    <div class="post-end container">
+      <div class="previous-post">
+        {% assign previousPost = blogCollection | getPreviousCollectionItem %}
+
+        {% if previousPost %}
+          {% if lang == 'en' %}
+            <span>previous post</span>
+          {% else %}
+            <span>post anterior</span>
+          {% endif %}
+          <h2>
+            <a href="{{ previousPost.data.permalink }}">{{ previousPost.data.title }}</a>
+          </h2>
+        {% else %}
+          {% render "components/want-more", lang: lang %}
+        {% endif %}
+      </div>
+
+      <div class="next-post">
+        {% assign nextPost = blogCollection | getNextCollectionItem %}
+
+        {% if nextPost %}
+          <span>next post</span>
+          <h2>
+            <a href="{{ nextPost.data.permalink }}">{{ nextPost.data.title }}</a>
+          </h2>
+        {% else %}
+          {% render "components/want-more", lang: lang %}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script type="text/javascript" src="/scripts/external-links.js"></script>

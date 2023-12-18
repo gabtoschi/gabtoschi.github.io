@@ -1,0 +1,262 @@
+@use 'utilities/breakpoints' as breakpoint;
+@use 'utilities/colors' as color;
+@use 'utilities/fonts' as font;
+
+$cover-height: 300px;
+$cover-width: calc($cover-height / 4 * 3);
+
+.post {
+  .back-button {
+    margin-bottom: 24px;
+
+    a {
+      background-color: transparent;
+      border: 2px solid color.$purple-dark;
+      border-radius: 30px;
+      text-decoration: none;
+      color: color.$purple-dark;
+      filter: color.$drop-shadow;
+
+      padding: 7px 16px;
+    }
+  }
+
+  .header {
+    padding-bottom: 20px;
+
+    .header-image {
+      width: 100%;
+      height: 400px;
+
+      background-position: center;
+      background-size: cover;
+
+      display: flex;
+      align-items: end;
+      justify-content: center;
+
+      span {
+        padding: 10px 15px;
+        background-color: color.$purple-gray;
+
+        border: none;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+
+        font-weight: bold;
+
+        &:not(:last-child) {
+          margin-right: 20px;
+        }
+
+        &.score {
+          font-weight: bold;
+          font-size: 46px;
+          font-family: font.$header;
+
+          .max {
+            font-weight: 300;
+            font-size: 23px;
+            padding: 0;
+          }
+        }
+      }
+    }
+
+    .header-content {
+      width: 100%;
+      text-align: center;
+      background-color: color.$purple-gray;
+
+      padding: 20px 0px;
+
+      h1, h4 {
+        margin: 0;
+      }
+
+      h1 {
+        margin-bottom: 12px;
+        font-size: 40px;
+      }
+
+      h4 {
+        font-weight: 300;
+        font-size: 24px;
+      }
+    }
+  }
+
+  .post-content {
+    font-size: 20px;
+    margin-bottom: 50px;
+
+    p, li {
+      line-height: 30px;
+    }
+
+    img {
+      width: 100%;
+    }
+
+    h1 {
+      color: color.$purple-dark;
+
+      border-bottom: 2px solid color.$purple-dark;
+      padding-bottom: 8px;
+    }
+
+    h2 {
+      color: color.$purple-dark;
+    }
+
+    a {
+      color: color.$purple-dark;
+    }
+
+    hr {
+      background-color: color.$purple-dark;
+      height: 2px;
+    }
+
+    .youtube {
+      display: flex;
+      justify-content: center;
+    }
+  }
+
+  .review-card {
+    margin-bottom: 50px;
+
+    .main {
+      display: flex;
+    }
+
+    .cover {
+      width: $cover-width;
+      height: $cover-height;
+
+      background-position: center;
+      background-size: cover;
+
+      border: 2px color.$purple-dark solid;
+      border-top-left-radius: 20px;
+      border-bottom-left-radius: 20px;
+    }
+
+    .info {
+      width: calc(100% - $cover-width);
+
+      padding: 30px;
+      border: 2px color.$purple-dark solid;
+      border-left-width: 0px;
+      border-top-right-radius: 20px;
+      border-bottom-right-radius: 20px;
+
+      .info-name-score {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .info-score {
+        font-size: 55px;
+        font-weight: bold;
+        font-family: font.$header;
+
+        .max {
+          font-size: 30px;
+          font-weight: 300;
+        }
+      }
+
+      h1 {
+        margin: 0;
+        margin-bottom: 10px;
+      }
+
+      .info-links {
+        display: flex;
+        flex-wrap: wrap;
+
+        padding-top: 12px;
+
+        a {
+          margin-top: 10px;
+
+          background-color: color.$purple-dark;
+          color: white;
+          border-radius: 30px;
+          text-decoration: none;
+
+          padding: 7px 16px;
+
+          &:not(:last-child) {
+            margin-right: 8px;
+          }
+        }
+      }
+
+      .info-song {
+        margin-top: 24px;
+
+        display: flex;
+        align-items: center;
+
+        svg {
+          color: color.$purple-dark;
+          width: 45px;
+          margin-right: 20px;
+        }
+
+        h3 {
+          margin: 0;
+        }
+
+        a {
+          color: color.$purple-dark;
+        }
+      }
+    }
+
+    @media (max-width: breakpoint.$md) {
+      .info {
+        width: 100%;
+        border-left-width: 2px;
+        border-radius: 20px;
+      }
+
+      .cover {
+        display: none;
+      }
+    }
+  }
+
+  .post-end-wrapper {
+    width: 100%;
+    background-color: color.$purple-gray;
+    padding: 20px 0px;
+
+    .post-end {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    h2 {
+      margin: 0;
+    }
+
+    a {
+      color: color.$text;
+    }
+
+    .previous-post {
+      text-align: left;
+      margin-right: 10px;
+    }
+
+    .next-post {
+      text-align: right;
+      margin-left: 10px;
+    }
+  }
+}

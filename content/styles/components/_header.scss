@@ -1,0 +1,23 @@
+@use 'utilities/colors' as color;
+@use 'utilities/fonts' as font;
+
+.site-header {
+  background-color: color.$purple-gray;
+  color: color.$purple-dark;
+
+  padding: 14px 5%;
+
+  margin-bottom: 30px;
+
+  display: flex;
+  justify-content: space-around;
+
+  .name {
+    font-family: font.$header;
+    font-size: 20px;
+  }
+
+  a, a:visited {
+    color: color.$purple-dark;
+  }
+}

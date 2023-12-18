@@ -1,0 +1,94 @@
+@use 'utilities/colors' as color;
+@use 'utilities/breakpoints' as breakpoint;
+@use 'utilities/fonts' as font;
+
+$image-height: 180px;
+$score-height: calc($image-height * 0.4);
+$content-height: 260px;
+$content-padding: 20px;
+
+.full-card-link {
+  text-decoration: none;
+  color: color.$text;
+
+  display: inline;
+}
+
+.full-card {
+  width: 100%;
+  height: calc($image-height + $content-height);
+
+  color: color.$text;
+  filter: color.$drop-shadow;
+
+  .image {
+    width: 100%;
+    height: $image-height;
+
+    background-position: center;
+    background-size: cover;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+    .score {
+      width: $score-height;
+      height: $score-height;
+
+      background-color: color.$purple-white;
+      font-family: font.$header;
+      color: color.$purple-dark;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      border-top-left-radius: 20px;
+
+      span {
+        font-size: 40px;
+        font-weight: bold;
+      }
+    }
+  }
+
+  .card-content {
+    background-color: color.$purple-white;
+    padding: $content-padding;
+    min-height: calc($content-height - ($content-padding * 2));
+
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+    .card-tags {
+      margin-bottom: 20px;
+
+      span {
+        background-color: color.$purple-dark;
+        font-weight: 600;
+        color: white;
+        border-radius: 30px;
+
+        padding: 4px 8px;
+        font-size: 12px;
+
+        &:not(:last-child) {
+          margin-right: 6px;
+        }
+      }
+    }
+
+    h2, p {
+      margin: 0;
+    }
+
+    h2 {
+      margin-bottom: 14px;
+    }
+  }
+}

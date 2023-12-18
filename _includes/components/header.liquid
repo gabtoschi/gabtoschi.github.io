@@ -1,0 +1,15 @@
+<div class="site-header">
+  {% if lang == 'en' %}
+    <a href={{ translate | default: "/pt" }}>leia em português</a>
+    <a href="/">
+      <b class="name">Gabriel Toschi</b>
+    </a>
+    <a href="/blog">blog</a>
+  {% else %}
+    <a href={{ translate | default: "/" }}>read in english</a>
+    <a href="/pt">
+      <b class="name">Gabriel Toschi</b>
+    </a>
+    <a href="/pt/blog">blog</a>
+  {% endif %}
+</div>

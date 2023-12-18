@@ -1,0 +1,26 @@
+<a
+  class="full-card-link"
+  {% unless samePage %}
+  target="_blank"
+  {% endunless %}
+  href={{ url }}>
+  <div class="full-card">
+    <div class="image" style="background-image: url({{ image }})">
+      {% if score %}
+        <div class="score">
+          <span>{{ score }}</span>
+        </div>
+      {% endif %}
+    </div>
+    <div class="card-content">
+      <div class="card-tags">
+        {% for tag in tags %}
+          <span>{{ tag }}</span>
+        {% endfor %}
+      </div>
+
+      <h2>{{ title }}</h2>
+      {{ text }}
+    </div>
+  </div>
+</a>
