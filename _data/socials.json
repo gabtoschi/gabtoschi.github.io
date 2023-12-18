@@ -5,6 +5,11 @@
     "link": "mailto:eu@gabtoschi.com"
   },
   {
+    "name": "whatsapp",
+    "icon": "icons/whatsapp",
+    "link": "https://whatsapp.com/channel/0029VaGCevz5Ui2bkdaVh51r"
+  },
+  {
     "name": "telegram",
     "icon": "icons/telegram",
     "link": "https://t.me/gabtoschi"

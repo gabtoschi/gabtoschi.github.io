@@ -9,7 +9,7 @@ date: 2023-12-15
 translate: /blog/why-i-created-this-blog
 
 subtitle: O que EU quero da internet? Dá pra viver uma vida saudável na web?
-description: A internet hoje em dia é uma mistura de vídeos curtos, algoritmos de SEO e mídias sociais geradas por IA. Mas o que EU quero da internet? Dá pra viver uma vida saudável na web?
+description: A internet hoje em dia é uma mistura de vídeos curtos, algoritmos de SEO e IAs que roubam arte. Mas o que EU quero da internet? Dá pra ser saudável na web?
 
 thumbnail: "/img/posts/why-i-created-this-blog/thumbnail.jpg"
 ---

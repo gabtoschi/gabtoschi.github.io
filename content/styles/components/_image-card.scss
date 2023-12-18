@@ -9,12 +9,7 @@ $image-card-link-padding-x: 12px;
 
 .image-card {
   width: 500px;
-
   filter: color.$drop-shadow;
-
-  @media (max-width: breakpoint.$lg) {
-    width: 100%;
-  }
 
   .image {
     width: 100%;

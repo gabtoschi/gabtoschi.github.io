@@ -1,5 +1,6 @@
 @use 'utilities/breakpoints' as breakpoint;
 @use 'utilities/colors' as color;
+@use 'utilities/fonts' as font;
 
 $cover-height: 300px;
 $cover-width: calc($cover-height / 4 * 3);
@@ -51,6 +52,7 @@ $cover-width: calc($cover-height / 4 * 3);
         &.score {
           font-weight: bold;
           font-size: 46px;
+          font-family: font.$header;
 
           .max {
             font-weight: 300;
@@ -78,7 +80,7 @@ $cover-width: calc($cover-height / 4 * 3);
       }
 
       h4 {
-        font-weight: 100;
+        font-weight: 300;
         font-size: 24px;
       }
     }
@@ -159,6 +161,7 @@ $cover-width: calc($cover-height / 4 * 3);
       .info-score {
         font-size: 55px;
         font-weight: bold;
+        font-family: font.$header;
 
         .max {
           font-size: 30px;

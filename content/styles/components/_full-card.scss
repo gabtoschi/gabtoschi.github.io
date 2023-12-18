@@ -1,10 +1,11 @@
 @use 'utilities/colors' as color;
 @use 'utilities/breakpoints' as breakpoint;
+@use 'utilities/fonts' as font;
 
 $image-height: 180px;
 $score-height: calc($image-height * 0.4);
-$content-height: 220px;
-$content-padding: 30px;
+$content-height: 260px;
+$content-padding: 20px;
 
 .full-card-link {
   text-decoration: none;
@@ -40,6 +41,8 @@ $content-padding: 30px;
       height: $score-height;
 
       background-color: color.$purple-white;
+      font-family: font.$header;
+      color: color.$purple-dark;
 
       display: flex;
       align-items: center;
@@ -48,7 +51,7 @@ $content-padding: 30px;
       border-top-left-radius: 20px;
 
       span {
-        font-size: 50px;
+        font-size: 40px;
         font-weight: bold;
       }
     }
@@ -67,6 +70,7 @@ $content-padding: 30px;
 
       span {
         background-color: color.$purple-dark;
+        font-weight: 600;
         color: white;
         border-radius: 30px;
 

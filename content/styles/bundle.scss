@@ -1,5 +1,6 @@
 @use 'utilities/breakpoints' as breakpoint;
 @use 'utilities/colors' as color;
+@use 'utilities/fonts' as font;
 
 @use 'components';
 @use 'pages';
@@ -8,6 +9,12 @@ body {
   margin: 0;
   background-color: color.$background;
   color: color.$text;
+
+  font-family: font.$text;
+
+  h1, h2, h3 {
+    font-family: font.$header;
+  }
 }
 
 .container {
