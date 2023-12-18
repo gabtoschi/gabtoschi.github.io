@@ -11,7 +11,7 @@ translate: /blog/review/doctor-who-60th-specials
 
 score: 9
 cover: "/img/reviews/doctor-who-60th-specials/cover.jpg"
-played: assistido on Disney+
+played: assistido no Disney+
 links:
   - ["Disney+", "https://www.disneyplus.com/movies/doctor-who-the-star-beast/2w0hlQiL4Tu9"]
 song: ["Doctor Who Theme (2023 version)", "https://www.youtube.com/watch?v=X_1bgdz7vig"]
