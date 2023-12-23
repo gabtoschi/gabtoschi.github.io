@@ -119,7 +119,11 @@ layout: 'layouts/base'
         {% assign nextPost = blogCollection | getNextCollectionItem %}
 
         {% if nextPost %}
-          <span>next post</span>
+          {% if lang == 'en' %}
+            <span>next post</span>
+          {% else %}
+            <span>próximo post</span>
+          {% endif %}
           <h2>
             <a href="{{ nextPost.data.permalink }}">{{ nextPost.data.title }}</a>
           </h2>

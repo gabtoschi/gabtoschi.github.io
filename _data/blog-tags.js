@@ -40,6 +40,10 @@ module.exports = [
     value: "DOCTOR WHO"
   },
   {
+    key: "cp",
+    value: "CLUB PENGUIN"
+  },
+  {
     key: "personal",
     value: "PERSONAL"
   },
