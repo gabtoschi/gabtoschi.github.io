@@ -31,6 +31,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy('content/img');
   eleventyConfig.addPassthroughCopy('content/scripts');
+  eleventyConfig.addPassthroughCopy('CNAME');
 
   eleventyConfig.addTemplateFormats('scss');
   eleventyConfig.addExtension('scss', {
