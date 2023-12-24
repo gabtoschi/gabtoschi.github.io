@@ -26,25 +26,14 @@ Então, sim, o Club Penguin e o Natal são quase a mesma coisa na minha cabecinh
 
 Estou convidando você para uma viagem pela memória dos pinguins em um **ranking definitivo de minigames do Club Penguin**, muito especial e muito pessoal. Não estou contando minijogos exclusivos de festas (como os da Festa Setembrina), jogos de console ou mobile (como a duologia EPF ou Game Day) ou o app mobile do Club Penguin (que nunca usei). Apenas mingames comuns e sempre disponíveis na versão web. **Como critério, estou apenas usando meu gosto pessoal. Você pode ter uma lista diferente, e tudo bem. Você está errado, no entanto.**
 
-# 31) Concurso de Dança
-
-Lançado em 2009 para finalmente dar ao Dance Club um minigame de verdade, o **Concurso de Dança** era um clone puro e simples de Dance Dance Revolution. Algumas setas coloridas sobem, você pressiona seguindo a música e ganha pontos! Havia apenas 6 músicas para escolher, e metade delas eram exclusivas para membros, então eu só pude tocar 3 delas ([Epic Win](https://www.youtube.com/watch?v=pG93z4cwn08) foi a minha favorita). Não apenas as músicas, mas apenas os membros tinham multiplayer online e puffles roxos dançando com você.
-
-![Concurso de Dança](/img/posts/club-penguin-minigame-ranking/dancecontest.jpg)
-
-Bem, se era apenas um clone de DDR, por que o **Concurso de Dança é o pior minigame do Club Penguin?** Há alguns anos, em um servidor privado, como estudioso de Stepmania e de jogar DDR no teclado que sou, decidi obter a nota AAA em todas as músicas. Até baixei um software para remapear meu próprio teclado e fazer com que um jogo em Flash reconhecesse os padrões que usava em outros jogos.
-
-E então, depois da primeira música, descobri que **TODAS AS SETAS ERAM COMPLETAMENTE ALEATÓRIAS**. Não apenas a mesma música tinha mapas diferentes (porque o algoritmo os escolheria aleatoriamente), mas **ELES NUNCA SEGUIAM A BATIDA DA MÚSICA**. É a ÚNICA COISA que um clone DDR precisa fazer: seguir a porra da música! Não sei como eles estragaram tudo, mas o Concurso de Dança merece o último lugar.
-
-# 30) Paint by Letters
+# 31) Paint by Letters
 
 Para ser justo, acabei de descobrir que esse jogo existia quando [olhei a Club Penguin Wiki](https://clubpenguin.fandom.com/wiki/List_of_Games) para escrever este artigo. Aparentemente, **Paint by Letters** era uma coleção de três jogos de digitação em forma de livros na Sala de Leitura do Café, onde você digita a história e, às vezes, escolhe o que digitar para mudar o enredo. E talvez alguns pequenos quebra-cabeças também? Sei lá.
 
 ![Paint by Letters](/img/posts/club-penguin-minigame-ranking/paintbyletters.jpg)
 
-Este minigame estava **disponível apenas nos servidores em inglês** do Club Penguin, provavelmente por causa do foco no idioma — traduzi-lo seria um pesadelo. Mas eu jogava CP principalmente em português e o jogo nem existia para mim. Então minha ignorância sobre isso só não é maior que meu ódio pelo Concurso de Dança.
-
-# 29) Desafio Ninja Neve
+Este minigame estava **disponível apenas nos servidores em inglês** do Club Penguin, provavelmente por causa do foco no idioma — traduzi-lo seria um pesadelo. Mas eu jogava CP principalmente em português e o jogo nem existia para mim. Então minha ignorância sobre isso é o que trouxe ele pro último lugar da lista. Foi mal :(
+# 30) Desafio Ninja Neve
 
 Para poder explicar isso, precisarei dar algum contexto sobre um jogo que está bem no topo da lista. Tudo o que você precisa saber (por enquanto): Desafio Ninja era um jogo de cartas digital do Club Penguin, onde você disputava batalhas mano-a-mano usando cartas coloridas e uma mecânica pedra-papel-tesoura usando 3 elementos (fogo, água e neve). Entendeu? Certo, de volta ao jogo ruim então.
 
@@ -60,7 +49,7 @@ Eu estava no meu semi-hiato de Club Penguin quando ele foi lançado, mas eu me l
 
 É uma pena porque eles investiram muito em **explicar a história por trás do Desafio Ninja**, incluindo a história de origem do Sensei, o NPC responsável por trazer o jogo de cartas para a ilha (mais sobre ele depois!). Existe até uma batalha de chefe no final! Mas com um jogo medíocre, simplesmente ignorei. Acontece.
 
-# 28) DJ3K
+# 29) DJ3K
 
 Provavelmente muita gente gostava do **DJ3K** bem mais do que eu, mas ele nunca me conquistou principalmente pela simplicidade e falta de objetivo. Lançado em 2008, foi o primeiro minigame do Dance Club. Você colocava seu pinguim **atrás do toca-discos do DJ no clube**: ao apertar os botões, sons e música começavam a tocar. Você continuava apertando, o remix continuava acontecendo, seu pinguim ficava feliz e você ganhava moedas. Só isso.
 
@@ -68,7 +57,7 @@ Provavelmente muita gente gostava do **DJ3K** bem mais do que eu, mas ele nunca 
 
 Foi divertido nos primeiros 10 minutos e depois se tornou chato para mim. Se você fosse membro, você poderia gravar as músicas e usá-las como música de fundo para seu iglu, comprar discos novos para usar nos remixes e até trazer seu puffle amarelo com você... Mas eu não era, então só apertar botões não era tão legal assim.
 
-# 27) SoundStudio
+# 28) SoundStudio
 
 Bem, pelo menos eles tentaram, certo? O ÚLTIMO jogo lançado no Club Penguin original foi o **SoundStudio**, em 2014, como **um substituto para o DJ3K**. A ideia era a mesma, mas em vez de uma interface [esqueumórfica](https://pt.wikipedia.org/wiki/Esqueumorfismo) de toca-discos de DJ , o SoundStudio era literalmente um **um drum pad digital** com samples musicais e relacionados ao CP. A maneira como você tocava era a mesma, mas era bem melhor para entender como a música estava sendo feita.
 
@@ -78,7 +67,7 @@ O ponto de venda do SoundStudio era a gravação: em vez de apenas ouvir em seus
 
 E então, eles bloquearam esse recurso (no jogo e dentro do [aplicativo mobile](https://clubpenguin.fandom.com/wiki/SoundStudio_App)) por trás da assinatura paga. Então o meu eu (adolescente neste momento) não conseguia nem mostrar minha arte para o mundo! Então, sim, se você fizer um jogo OK e esconder atrás de dinheiro, eu não vou me esforçar pra gostar.
 
-# 26) Desafio Ninja Fogo
+# 27) Desafio Ninja Fogo
 
 Você quer mais conhecimento sobre pinguins ninjas? Neve foi o último, mas **Desafio Ninja Fogo** foi o primeiro spin-off elemental, lançado em 2009. Num conceito bem mais na linha do que eu esperava de algo derivado de um jogo de cartas, **Fogo era um jogo de tabuleiro**! Seu objetivo era competir com outros jogadores por energia ao caminhar sobre as pedras de um vulcão. As batalhas de Desafio Ninja (usando as cartas) determinavam se você ganharia ou perderia energia em cada turno.
 
@@ -90,13 +79,23 @@ A título pessoal, lembro-me de jogar MUITO Desafio Ninja Fogo na ilha original 
 
 Então, joguei **SÓ DESAFIO NINJA FOGO (e Água) por 2 semanas inteiras na minha vida**, tentando conseguir todos os itens exclusivos. Sim, ele foi aberto em definitivo em 2013, mas quem se importa? Um minigame do Club Penguin me deu síndrome de Estocolmo e não sei o que fazer com essa informação.
 
-# 25) Morro Abaixo
+# 26) Morro Abaixo
 
 Um dos cinco minigames originais do Club Penguin de 2005, **Morro Abaixo** foi um dos jogos que sempre esteve lá. Você podia ir à Montanha, escolher uma pista de trenó, esperar que mais pinguins aparecessem e competir! O jogo era um simples autorunner e seu objetivo era apenas evitar obstáculos para não ficar para trás.
 
 ![Morro Abaixo](/img/posts/club-penguin-minigame-ranking/sledracing.jpg)
 
 Tipo, **não havia nada de errado com Morro Abaixo**. Sempre esteve disponível para todos, era fácil encontrar gente para brincar e é muito temático com uma ilha nevada cheia de pinguins. Mas o jogo não tinha muita substância depois de duas ou três corridas, a quantidade de moedas que você ganhava era pequena... Com tantos jogos legais na ilha, eu simplesmente não conseguia me preocupar em jogar tanto.
+
+# 25) Concurso de Dança
+
+Lançado em 2009 para finalmente dar ao Dance Club um minigame de verdade, o **Concurso de Dança** era um clone puro e simples de Dance Dance Revolution. Algumas setas coloridas sobem, você pressiona seguindo a música e ganha pontos! Havia apenas 6 músicas para escolher, e metade delas eram exclusivas para membros, então eu só pude tocar 3 delas ([Epic Win](https://www.youtube.com/watch?v=pG93z4cwn08) foi a minha favorita). Não apenas as músicas, mas apenas os membros tinham multiplayer online e puffles roxos dançando com você.
+
+![Concurso de Dança](/img/posts/club-penguin-minigame-ranking/dancecontest.jpg)
+
+Bem, se era apenas um clone de DDR, por que o **Concurso de Dança é o pior minigame do Club Penguin?** Há alguns anos, em um servidor privado, como estudioso de Stepmania e de jogar DDR no teclado que sou, decidi obter a nota AAA em todas as músicas. Até baixei um software para remapear meu próprio teclado e fazer com que um jogo em Flash reconhecesse os padrões que usava em outros jogos. Como O cara do DDR entre meus amigos, fui direto na dificuldade Expert.
+
+E então, depois da primeira música, descobri que **NO EXPERT, TODAS AS SETAS ERAM COMPLETAMENTE ALEATÓRIAS**. Não apenas a mesma música tinha mapas diferentes (porque o algoritmo os escolheria aleatoriamente), mas **ELES NUNCA SEGUIAM A BATIDA DA MÚSICA**. É a ÚNICA COISA que um clone DDR precisa fazer: seguir a porra da música! Claro que as outras dificuldades tinham beatmaps normais, mas eu sabia disso na época!? Não sei como eles estragaram tudo, mas o Concurso de Dança perdeu várias colocações nessa lista só por causa disso.
 
 # 24) Ligue-4
 
@@ -108,7 +107,7 @@ Tipo, era divertido, as pessoas parecem adorar, mas... sim, era apenas um jogo d
 
 # 23) Porcas e Parafusos
 
-Você está pronto para uma escadinha de fliperamas? Desde 2005, o **segundo andar do Dance Club contava com máquinas de arcade** com jogos exclusivos (e, a partir de 2011, passou a ser oficialmente o Fliperama da ilha). Eu nunca os amei de verdade e os ignorei ainda mais depois de julho de 2020, quando eles **BLOQUEARAM NÍVEIS** por trás da assinatura paga. Sim, todos podiam jogar todos os níveis antes, e agora era só para membros. Uma das decisões mais estranhas da equipe CP, se quiser saber.
+Você está pronto para uma escadinha de fliperamas? Desde 2005, o **segundo andar do Dance Club contava com máquinas de arcade** com jogos exclusivos (e, a partir de 2011, passou a ser oficialmente o Fliperama da ilha). Eu nunca os amei de verdade e os ignorei ainda mais depois de julho de 2010, quando eles **BLOQUEARAM NÍVEIS** por trás da assinatura paga. Sim, todos podiam jogar todos os níveis antes, e agora era só para membros. Uma das decisões mais estranhas da equipe CP, se quiser saber.
 
 ![Porcas e Parafusos](/img/posts/club-penguin-minigame-ranking/bitsbolts.jpg)
 

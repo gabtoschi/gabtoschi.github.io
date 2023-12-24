@@ -26,25 +26,15 @@ So, yeah, Club Penguin and Christmas are the same in my tiny brain. And the blog
 
 I'm inviting you to a trip through penguin memory lane in a special, too personal **Club Penguin minigame definitive ranking**. I'm not counting minigames exclusive to timed parties (like the The Fair ones), console or mobile games (like the EPF duology or Game Day) or the Club Penguin app version (that I never used). Only common, always available minigames on the web version. **As criteria, I'm just using my personal taste, really. You may have a different list, and that's fine. You're wrong, though.**
 
-# 31) Dance Contest
-
-Launched in 2009 to finally give Night Club a real minigame, **Dance Contest** was a pure and simple Dance Dance Revolution clone. Some colored arrows go up, you press them following the music and you get points! There was only 6 songs to choose, and half of them were member-only, so I could only play 3 of them ([Epic Win](https://www.youtube.com/watch?v=pG93z4cwn08) was my favorite). Not only the songs, but only members had online multiplayer and purple puffles dancing with you.
-
-![Dance Contest](/img/posts/club-penguin-minigame-ranking/dancecontest.jpg)
-
-Well, if it was just a DDR clone, why **Dance Contest is the worst Club Penguin minigame?** Some years ago, in a private server, as a Stepmania and DDR keyboard scholar that I am, decided to get the AAA grade in every song of the minigame. I even downloaded a software to remap my own keyboard and getting a Flash game recognize the patterns I used in other games.
-
-And then, after the first song, I discovered that **ALL THE ARROWS WERE COMPLETELY RANDOM**. Not only the same song would have different maps (because the algorithm would choose them at random), but **THEY NEVER FOLLOWED THE SONG BEAT**. It's the ONLY THING a DDR clone needs to do: follow the fucking music! I don't know how they messed it up, but Dance Contest deserves the last place.
-
-# 30) Paint by Letters
+# 31) Paint by Letters
 
 To be fair, I just discovered that this game existed when [looking at Club Penguin Wiki](https://clubpenguin.fandom.com/wiki/List_of_Games) for writing this article. Apparently, **Paint by Letters** was a collection of three typing games in form of books at Coffee Shop's Book Room, where you type the story and, sometimes, choose what to type to change the plot. And maybe some small puzzles too?
 
 ![Paint by Letters](/img/posts/club-penguin-minigame-ranking/paintbyletters.jpg)
 
-This minigame was **only available in the English servers** in Club Penguin, probably because of the focus on language — translating it would be a nightmare. But I mostly played CP in Portuguese and the game doesn't even existed to me. So my ignorance about is just not greater than my hate for Dance Contest.
+This minigame was **only available in the English servers** in Club Penguin, probably because of the focus on language — translating it would be a nightmare. But I mostly played CP in Portuguese and the game doesn't even existed to me. So my ignorance about is what make it in the last place. Sorry :(
 
-# 29) Card-Jitsu Snow
+# 30) Card-Jitsu Snow
 
 To be able to explain this one, I will need to advance some context about a game that is way higher in the list. All you need to know (for now): Card-Jitsu was a digital card game on Club Penguin with a ninja theme, where you compete head-to-head battles using colored cards and a rock-paper-scissors mechanic using 3 elements (fire, water and snow). Got it? Right, back to the worse game.
 
@@ -60,7 +50,7 @@ I was in my Club Penguin semi-hiatus when this released, but I remember looking 
 
 It's a shame because they invested a lot on **explain the Card-Jitsu lore**, including the origin story of Sensei, the NPC responsible to bring the card game to the island in the first place (more about him later). There's even a true final boss! But with a mediocre game, I just ignored it. It happens.
 
-# 28) DJ3K
+# 29) DJ3K
 
 Probably a lot of people have liked **DJ3K** way more than me, but it never got me mostly by its simplicity and lack of objective. Launched in 2008, it was the first Night Club minigame. You started it and got your penguin **behind the DJ turntable in the club**: when you pressed the buttons, sounds and music started to be played. You continue to press, the remix continued to happen, your penguin gets happy and you get coins. That's it.
 
@@ -68,7 +58,7 @@ Probably a lot of people have liked **DJ3K** way more than me, but it never got 
 
 It was fun for the first 10 minutes and than just became boring for me. If you were a member, you could record the songs and use them as the background music for your igloo, buy new records to use in the remixes and even bring your yellow puffle with you... But I wasn't, so just pressing buttons was not that cool.
 
-# 27) SoundStudio
+# 28) SoundStudio
 
 Well, at least they tried, right? The LAST game ever released on the original Club Penguin was **SoundStudio**, in 2014, as **a replacement for DJ3K**. The idea was the same, but instead of a [skeuomorphic](https://en.wikipedia.org/wiki/Skeuomorph) DJ turntable interface, SoundStudio was literally a **digital drum pad** with musical and CP samples. How you play was the same, but it was way better to understand how the music was being done.
 
@@ -78,7 +68,7 @@ The selling point of SoundStudio was the recording: instead of just listening in
 
 And then, they locked this feature (in-game and inside the [standalone app](https://clubpenguin.fandom.com/wiki/SoundStudio_App)) behind the paid membership. So the (teenager at this point) me couldn't even show my art to the world! So, yeah, if you get an OK game and even put it behind real money, I won't love it.
 
-# 26) Card-Jitsu Fire
+# 27) Card-Jitsu Fire
 
 Do you want more penguin ninja lore? Snow was the last, but **Card-Jitsu Fire** was the first elemental spin-off, launched in 2009. In a concept way more in line of I was expecting from something derived from a card game, **Fire was a board game**! Your goal was to compete with other players for energy when walking in stones at a volcano. Card-Jitsu battles (using the cards) would determine if you gain or lose energy in each turn.
 
@@ -90,13 +80,23 @@ As a personal note, I remember playing A LOT of Card-Jitsu Fire on the original 
 
 So, I played **ONLY CARD-JITSU FIRE (and Water) for 2 entire weeks in my life**, trying to get all the exclusive items. Yes, it was made a open-for-everyone game in 2013, but who cares? A Club Penguin minigame gave me Stockholm syndrome and I don't know what to do with this information.
 
-# 25) Sled Racing
+# 26) Sled Racing
 
 One of the five original minigames in Club Penguin from 2005, **Sled Racing** was one of the games that were always there. You could go to the Ski Hill, choose a sled run, wait for more penguins to show up and compete! The game was a simple autorunner and your goal was just avoid obstacles to not stay behind it.
 
 ![Sled Racing](/img/posts/club-penguin-minigame-ranking/sledracing.jpg)
 
 Like, **there was nothing wrong with Sled Racing**. It was always available for everyone, it was easy to find people to play with and it's really thematic with a snowy island full of penguins. But the game didn't have much substance after two or three races, the amount of coins you get was little... With so much cool games in the island, I just can't bothered to play it that much.
+
+# 25) Dance Contest
+
+Launched in 2009 to finally give Night Club a real minigame, **Dance Contest** was a pure and simple Dance Dance Revolution clone. Some colored arrows go up, you press them following the music and you get points! There was only 6 songs to choose, and half of them were member-only, so I could only play 3 of them ([Epic Win](https://www.youtube.com/watch?v=pG93z4cwn08) was my favorite). Not only the songs, but only members had online multiplayer and purple puffles dancing with you.
+
+![Dance Contest](/img/posts/club-penguin-minigame-ranking/dancecontest.jpg)
+
+Well, if it was just a DDR clone, why **Dance Contest is the worst Club Penguin minigame?** Some years ago, in a private server, as a Stepmania and DDR keyboard scholar that I am, decided to get the AAA grade in every song of the minigame. I even downloaded a software to remap my own keyboard and getting a Flash game recognize the patterns I used in other games. As the DDR person inside my friend group, I went directly to Expert difficulty.
+
+And then, after the first song, I discovered that **IN EXPERT, ALL THE ARROWS WERE COMPLETELY RANDOM**. Not only the same song would have different maps (because the algorithm would choose them at random), but **THEY NEVER FOLLOWED THE SONG BEAT**. It's the ONLY THING a DDR clone needs to do: follow the fucking music! Of course, other difficulties had normal beatmaps, but I didn't knew at the time?! I don't know how they messed it up, but Dance Contest lost a LOT of positions because of that.
 
 # 24) Find Four
 
@@ -108,7 +108,7 @@ Like, it's was fun, people seems to love it, but... yeah, it was only an old boa
 
 # 23) Bits & Bolts
 
-Are you ready for an arcade triple feature? Since 2005, **Night Club's second floor had arcade machines** with exclusive games (and, after 2011, it officially became the island's Arcade). I never really loved them, and I would ignore them even more after July 2020, when they **LOCKED LEVELS** behind the paid membership. Yes, everyone could play all the levels before, and now it's just for members. Top weird decisions of the CP team, if you ask me.
+Are you ready for an arcade triple feature? Since 2005, **Night Club's second floor had arcade machines** with exclusive games (and, after 2011, it officially became the island's Arcade). I never really loved them, and I would ignore them even more after July 2010, when they **LOCKED LEVELS** behind the paid membership. Yes, everyone could play all the levels before, and now it's just for members. Top weird decisions of the CP team, if you ask me.
 
 ![Bits & Bolts](/img/posts/club-penguin-minigame-ranking/bitsbolts.jpg)
 
