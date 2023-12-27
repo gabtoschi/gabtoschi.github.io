@@ -310,11 +310,11 @@ I know that I've been harsh about minigames with content locked behind the paid 
 
 ![Puffle Launch App](/img/posts/club-penguin-minigame-ranking/launch.jpg)
 
-The easy way to explain is imagining a level full of those Donkey Kong Country barrels (that launch you in a direction), but with **free air movement**! When flying, you can change the trajectory of the red puffle, so you can do a lot of cool tricks bouncing in the obstacles. **There's no place in a level you can reach with enough momentum and control mastery.** And they know it, because there are a lot of berries on stupid locations, outside the main path.
+The easy way to explain is imagining a level full of those Donkey Kong Country barrels (that launch you in a direction), but with **free air movement**! When flying, you can change the trajectory of the red puffle, so you can do a lot of cool tricks bouncing in the obstacles. **There's no place in a level you cannot reach with enough momentum and control mastery.** And they know it, because there are a lot of berries on stupid locations, outside the main path.
 
 To me, Puffle Launch is one of the only Club Penguin minigames that could be its own game and be an amazing package. Yes, it's foreshadowing again, because the game was released as the **first CP mobile app** later that year. In fact, that's how I started to love it! In 2022, I found an APK to the (now delisted) app and mastered it. It was an literal blast and I just wanted to play more.
 
-*(Someone MUST to do a spiritual successor to Puffle Launch. Maybe I have to do that...?)*
+*(Someone MUST do a spiritual successor to Puffle Launch. Maybe I have to do that...?)*
 
 # 02) PSA Secret Missions
 
