@@ -10,7 +10,7 @@ translate: /blog/review/making-of-karateka
 
 score: 9
 cover: "/img/reviews/making-of-karateka/cover.jpg"
-played: played on Windows PC (Steam)
+played: jogado no Windows PC (Steam)
 links:
   - ["Steam", "https://store.steampowered.com/app/1163060/The_Making_of_Karateka?curator_clanid=44763507"]
   - ["Epic Games", "https://store.epicgames.com/en-US/p/the-making-of-karateka-7d9a6c"]

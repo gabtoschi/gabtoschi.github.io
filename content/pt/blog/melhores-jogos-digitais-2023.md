@@ -118,7 +118,7 @@ _PC/Switch/PlayStation/Xbox, Digital Eclipse, 2023_
 
 ![The Making of Karateka](/img/posts/best-digital-games-2023/12.jpg)
 
-Se eu jogasse Karateka em algum emulador, eu o descartaria em 10 minutos. Sim, as pessoas disseram que era importante e eu acredito, mas o tempo dele já passou, né? Felizmente, joguei [**The Making of Karateka**](https://www.digitaleclipse.com/games/karateka) ao invés dele. A Digital Eclipse não apenas criou uma incrível coleção de jogos, mas **estabeleceu um novo padrão para documentários e preservação**. Mesmo eu não gostando de jogar o título homenageado, entender o contexto histórico e tudo o que aconteceu durante o desenvolvimento foi a lente perfeita para apreciar o legado de Karateka e Jordan Mechner.
+Se eu jogasse Karateka em algum emulador, eu o descartaria em 10 minutos. Sim, as pessoas disseram que era importante e eu acredito, mas o tempo dele já passou, né? Felizmente, joguei [**The Making of Karateka**](/pt/blog/review/making-of-karateka) ao invés dele. A Digital Eclipse não apenas criou uma incrível coleção de jogos, mas **estabeleceu um novo padrão para documentários e preservação**. Mesmo eu não gostando de jogar o título homenageado, entender o contexto histórico e tudo o que aconteceu durante o desenvolvimento foi a lente perfeita para apreciar o legado de Karateka e Jordan Mechner.
 
 # 11) The Legend of Zelda: Link’s Awakening
 _Switch, Nintendo/Grezzo, 2019_
