@@ -3,7 +3,7 @@
   {% unless samePage %}
   target="_blank"
   {% endunless %}
-  href={{ url }}>
+  href={{ url | replace: ".html", "" }}>
   <div class="full-card">
     <div class="image" style="background-image: url({{ image }})">
       {% if score %}
