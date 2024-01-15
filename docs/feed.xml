@@ -4,12 +4,40 @@
   <subtitle>Hi! I&#39;m a web dev, game designer and writer that loves to be curious, creative and chaotic. Welcome to my place in the Web!</subtitle>
   <link href="https://gabtoschi.com/feed.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-01-14T00:00:00Z</updated>
+  <updated>2024-01-15T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Cosmic Collapse</title>
+    <link href="https://gabtoschi.com/blog/review/cosmic-collapse.html"/>
+    <updated>2024-01-15T00:00:00Z</updated>
+    <id>https://gabtoschi.com/blog/review/cosmic-collapse.html</id>
+    <content xml:lang="en" type="html">&lt;p&gt;Every now and then, the internet allows us to witness its power of getting some old thing and make it the trending topic that everyone talks about. At the risk of dating this text, I&#39;ll talk about one of the most recent &amp;quot;viral hits&amp;quot; in the gaming space: the &lt;strong&gt;watermelon game&lt;/strong&gt;, or &lt;strong&gt;Suika Game&lt;/strong&gt;, as it&#39;s really named. Created in 2021 as a built-in app for a Japanese digital projector, now &amp;quot;suika-likes&amp;quot; are a genre on its own, with parodies and different takes in the concept of the puzzle.&lt;/p&gt;
+&lt;p&gt;I played the &lt;a href=&quot;https://www.nintendo.com/pt-br/store/products/suika-game-switch/&quot;&gt;official Nintendo Switch port of Suika Game&lt;/a&gt; some weeks ago and I can see why it became viral, with a cool concept and an OK execution. The idea of having &lt;strong&gt;a physics-based puzzle&lt;/strong&gt; (like a Tetris with circles and gravity) mixed with the possibility of &lt;strong&gt;merging pieces&lt;/strong&gt; (like 2048, another viral game from the past) is really neat, but I couldn&#39;t play a lot without getting tired and somewhat frustrated.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/cosmic-collapse/combo.jpg&quot; alt=&quot;Combos in Cosmic Collapse&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Fortunately, people are not only creating joke suika-likes, but also interesting (and enhanced) versions. &lt;strong&gt;Cosmic Collapse&lt;/strong&gt;, created by &lt;a href=&quot;https://www.patreon.com/johanpeitz&quot;&gt;Swedish developer Johan Peitz&lt;/a&gt;, is &lt;strong&gt;THE BEST SUIKA-LIKE&lt;/strong&gt; I played to date. Instead of random fruits, here you are dropping and merging planets, trying to create bigger celestial bodies until you can merge two units of the Sun.&lt;/p&gt;
+&lt;p&gt;The best change to the formula that &lt;strong&gt;Cosmic Collapse brings is a better physics system&lt;/strong&gt;. I remember to be really frustrated in the original Suika Game when trying to push fruits using other ones, and just seeing they stacking with no reason. Here, &lt;strong&gt;the planets appear to have real gravity force&lt;/strong&gt;, and you will constantly be sending small spheres to tight gaps, or using the force from merging to push more planets together. As an extra action, you get &lt;strong&gt;a missile every 1000 points&lt;/strong&gt; to remove a planet that are blocking your game, that can be a game changer if you know how to use. &lt;em&gt;(I don&#39;t know that well yet, sorry)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/cosmic-collapse/missile.jpg&quot; alt=&quot;Missiles in Cosmic Collapse&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;My goal in those types of games (including the already mentioned 2048) is to get the &amp;quot;final piece&amp;quot;, in this case, the Sun, but if you are the type of player that wants the high scores, there&#39;s also a &lt;strong&gt;combo system easy to understand&lt;/strong&gt;, multiplying points in merging chains. Understanding how to combine those new physics, the missiles and the combo, you will probably be in arcade heaven in no time.&lt;/p&gt;
+&lt;p&gt;I was really impressed by Cosmic Collapse not only by the final result, but also how it was made. The game was &lt;strong&gt;created on &lt;a href=&quot;https://www.lexaloffle.com/pico-8.php&quot;&gt;PICO-8&lt;/a&gt;&lt;/strong&gt;, a fantasy console made for small pixel-art games (that you may know as the engine where the &lt;a href=&quot;https://maddymakesgamesinc.itch.io/celesteclassic&quot;&gt;original Celeste prototype&lt;/a&gt; was made). Even with all the limitations from the system, Peitz not only made &lt;strong&gt;a better to play Suika-like, but also gorgeous pixel art to look at&lt;/strong&gt;. The only thing missing is a list of evolutions to know what planets are created from merging, but nothing that you won&#39;t learn after some plays.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/-f_9AAidOl4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;If you have seen people talking about the watermelon game and you want to jump in, I can only ask you to jump even further until you reach outer space. &lt;strong&gt;Cosmic Collapse isn&#39;t just a really well-made Suika-like, but also an addictive, forgiving, beautiful and fun little arcade game.&lt;/strong&gt; I&#39;m waiting forever for a mobile version of this, because when that happens, I won&#39;t be able to stop playing. Sometimes, a simple thing made with love and care is enough to make me happy, and I can&#39;t stop talking about them — so, I know that I&#39;ll keep talking about those planets for months to come.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!
+  &lt;/span&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>Bowser&#39;s Fury</title>
     <link href="https://gabtoschi.com/blog/review/bowsers-fury.html"/>

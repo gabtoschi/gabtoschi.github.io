@@ -108,7 +108,7 @@ layout: 'layouts/base'
             <span>post anterior</span>
           {% endif %}
           <h2>
-            <a href="{{ previousPost.data.permalink }}">{{ previousPost.data.title }}</a>
+            <a href="{{ previousPost.data.permalink | replace: ".html", "" }}">{{ previousPost.data.title }}</a>
           </h2>
         {% else %}
           {% render "components/want-more", lang: lang %}
@@ -125,7 +125,7 @@ layout: 'layouts/base'
             <span>próximo post</span>
           {% endif %}
           <h2>
-            <a href="{{ nextPost.data.permalink }}">{{ nextPost.data.title }}</a>
+            <a href="{{ nextPost.data.permalink | replace: ".html", "" }}">{{ nextPost.data.title }}</a>
           </h2>
         {% else %}
           {% render "components/want-more", lang: lang %}
