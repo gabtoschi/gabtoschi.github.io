@@ -4,12 +4,39 @@
   <subtitle>Hi! I&#39;m a web dev, game designer and writer that loves to be curious, creative and chaotic. Welcome to my place in the Web!</subtitle>
   <link href="https://gabtoschi.com/feed.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-01-15T00:00:00Z</updated>
+  <updated>2024-01-16T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Electrician Simulator</title>
+    <link href="https://gabtoschi.com/blog/review/electrician-simulator.html"/>
+    <updated>2024-01-16T00:00:00Z</updated>
+    <id>https://gabtoschi.com/blog/review/electrician-simulator.html</id>
+    <content xml:lang="en" type="html">&lt;p&gt;&lt;strong&gt;Simulators&lt;/strong&gt; weren&#39;t exactly my favorite genre, but, in recent years, some of them surprised me. I like the idea of getting a mundane task and using the &amp;quot;power of video games&amp;quot; to create a digital and fun experience inspired by those occupations. Because I passed most of my childhood watching my dad fixing things (from electronics to our house&#39;s electrical wiring), I was really excited when I&#39;ve watched the trailer for &lt;strong&gt;Electrician Simulator&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/electrician-simulator/level.jpg&quot; alt=&quot;Electrician Simulator&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The game is exactly what you expect: you start your career as an electrician, learning how to fix lamps, outlets, electrical devices and go on. You have your own equipment, and need to test everything to see what&#39;s broken, what can be fixed, what needs to be replaced or, even, find wires that were just put together wrong. You also need to turn off the energy in the fuse box if you don&#39;t want to get shocked — and considering the amount of times I forgot to do this, I&#39;m really happy this is just a game...&lt;/p&gt;
+&lt;p&gt;For me, my problem with &lt;strong&gt;Electrician Simulator is that what I cited is just what the game is, no more, no less&lt;/strong&gt;. There isn&#39;t a lot of really cool puzzles using electrical wires, or even cool mechanics to &amp;quot;gamify&amp;quot; the experience. As you are fulfilling customer orders, you don&#39;t have any room for customization or player expression of any kind. The game doesn&#39;t even works as an educational tool, because it simplifies a lot of the process of being a real electrician. After some hours into the title, I was just clicking in the buttons indicated by the interface with no thought in my head.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/electrician-simulator/workbench.jpg&quot; alt=&quot;Electrician Simulator&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A good example would be the workbench tasks, that appears a lot during the early game. I helped my dad to fix things every week for decades, and it was an actual interesting task. Here, you just click on screws to disassemble the thing, and then click in every piece on the board to get a &amp;quot;this is broken&amp;quot; message. You cannot see a real multimeter, you cannot test actual electronic pieces. At the same time, because you need to read a lot and find little spots in the pieces to click on, the game wasn&#39;t mechanical enough to be a &amp;quot;podcast distraction&amp;quot; for me. Nothing worked.&lt;/p&gt;
+&lt;p&gt;At the top of this mediocre experience, &lt;strong&gt;the controls on the Nintendo Switch port&lt;/strong&gt; (the version that I played) &lt;strong&gt;were really bad&lt;/strong&gt;. I lost the count of how many times I was just flicking the analog stick to try to align the pointer to a small screw that I needed to interact with. The touch screen only worked in the workbench, and it was passable, but the rest of the game was only in the buttons.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/7xR7ryt1HIs&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;If you are really into the work an electrician does, I think you also will be disappointed with &lt;strong&gt;Electrician Simulator&lt;/strong&gt;. When you transform a thing into a video game experience that is more boring and soulless than the actual thing that people does as a job, there&#39;s something wrong with that. Technically, the game does nothing wrong, and you can buy and play through the end (with some strange controls in the process), but I don&#39;t know exactly why you would do that. You will have more fun going to a junkyard and just disassembling real devices for fun, trust me.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!
+  &lt;/span&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>Cosmic Collapse</title>
     <link href="https://gabtoschi.com/blog/review/cosmic-collapse.html"/>
