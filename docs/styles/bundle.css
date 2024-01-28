@@ -501,6 +501,7 @@
   font-size: 55px;
   font-weight: bold;
   font-family: "Space Grotesk", sans-serif;
+  margin-left: 12px;
 }
 .post .review-card .info .info-score .max {
   font-size: 30px;

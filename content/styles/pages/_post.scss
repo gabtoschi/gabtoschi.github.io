@@ -163,6 +163,8 @@ $cover-width: calc($cover-height / 4 * 3);
         font-weight: bold;
         font-family: font.$header;
 
+        margin-left: 12px;
+
         .max {
           font-size: 30px;
           font-weight: 300;
