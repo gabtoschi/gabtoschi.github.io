@@ -41,3 +41,5 @@ With smaller and more linear stages like those present in Paperman, this shouldn
 {% render "components/youtube" id:"EDHp1mXYzsc" %}
 
 If **Paperman: Adventure Delivered** was at least half as good than the character design of its heroes, I would have had a good experience with it. I truly believe that no team wants to make a disappointing experience on purpose, but, as a player, **it's hard to recommend it**. Even the small qualities aren't enough to compensate the bland scenarios, the constant backtracking when changing characters and the poor and frustrating performance. Maybe this package can be better in the future, but, for now, I'm returning it to sender.
+
+{% render "components/thanks" message:"The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!" %}

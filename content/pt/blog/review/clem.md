@@ -45,3 +45,5 @@ Não existe um sistema de dicas propriamente dito, mas seu caderno é preenchido
 {% render "components/youtube" id:"x1MKndMRjWE" %}
 
 É tão interessante ver uma equipe falhar em seu objetivo inicial, mas criando uma experiência incrível de qualquer maneira. Para mim um “puzzlevania” ainda é uma boa ideia que quero ver bem executada. Mesmo assim, **CLeM** é um jogo de quebra-cabeça muito bom, com enigmas inspirados em vários gêneros diferentes. Do inventário cheio de itens para se combinar aos códigos e padrões, e até mesmo os brinquedos mágicos usados como ferramentas: **CLeM pode ter uma progressão linear, mas a diversão está espalhada por todo o jogo**. E o grande mistério de tudo, “o que está acontecendo aqui?”, me atingiu com tanta força que precisei terminar o jogo numa tacada só. Se você também estiver curioso, talvez queira ver o que há dentro das páginas deste intrigante caderno.
+
+{% render "components/thanks" message:"O time de desenvolvimento me enviou uma cópia do jogo para que eu pudesse conhecê-lo e escrever esse texto. Obrigado pela confiança!" %}

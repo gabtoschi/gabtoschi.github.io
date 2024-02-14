@@ -41,3 +41,5 @@ Com fases menores e mais lineares como as apresentadas em Paperman, isso não de
 {% render "components/youtube" id:"EDHp1mXYzsc" %}
 
 Se **Paperman: Adventure Delivered** tivesse, pelo menos, metade da qualidade do design dos personagens de seus heróis, eu teria tido uma boa experiência com ele. Eu realmente acredito que nenhum time quer fazer uma experiência decepcionante de propósito, mas, como jogador, **é difícil recomendá-lo**. Mesmo as pequenas qualidades não são suficientes para compensar os cenários sem graça, as constantes voltas desnecessárias e o desempenho ruim e frustrante. Talvez este pacote possa ser melhor no futuro, mas, por enquanto, estou devolvendo ele ao remetente.
+
+{% render "components/thanks" message:"O time de desenvolvimento me enviou uma cópia do jogo para que eu pudesse conhecê-lo e escrever esse texto. Obrigado pela confiança!" %}

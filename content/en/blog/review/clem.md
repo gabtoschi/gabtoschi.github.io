@@ -45,3 +45,5 @@ There isn't a proper hint system, but your notebook gets automatically completed
 {% render "components/youtube" id:"x1MKndMRjWE" %}
 
 It's so interesting to see a team missed their initial goal but creating an incredible experience anyways. For me, a "puzzlevania" is still a good idea that I wanted to see well executed. Even so, **CLeM** was a really good puzzle game, with enigmas inspired by a lot of different genres. From the one-off inventory combining to the ciphers and patterns, and even coming to the tool aspect of the magical toys: **CLeM could have a linear progression, but thinky fun is sprinkled all through it**. And the big mystery of all, "what's happening here?", hit me so hard that I needed to finish it in one night. If you are also curious, you may wanna see what's inside the pages of this intriguing notebook.
+
+{% render "components/thanks" message:"The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!" %}

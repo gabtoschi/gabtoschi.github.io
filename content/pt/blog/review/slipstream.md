@@ -46,3 +46,5 @@ MAS FALANDO SOBRE ISSO, **SLIPSTREAM É UM JOGO LINDO**. Estou muito feliz que m
 {% render "components/youtube" id:"dq01extmTtg" %}
 
 Eu realmente acredito que novos jogos que usam a nostalgia como ponto de partida não devem apenas me dar mais do passado. Se eu quisesse jogar a mesma coisa de novo, eu só vou e jogo as mesmas coisas de novo. **Slipstream** tem algumas falhas, mas faz um trabalho incrível ao trazer a mesma vibe e sentimento em um jogo novo e original. Mecanicamente ele não faz tanto, mas visualmente ele transforma memórias em pixels em uma tela de forma espetacular. Para a década de 2020 pode ser um pouco repetitivo, mas não há dúvida de que numa realidade alternativa da década de 1990 (e no coração de quem a viveu), **Slipstream já é um clássico.**
+
+{% render "components/thanks" message:"O time de desenvolvimento me enviou uma cópia do jogo para que eu pudesse conhecê-lo e escrever esse texto. Obrigado pela confiança!" %}
