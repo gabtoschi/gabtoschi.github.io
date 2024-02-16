@@ -54,5 +54,9 @@ module.exports = [
   {
     key: "nextfest",
     value: "STEAM VEM AÍ"
+  },
+  {
+    key: "layton",
+    value: "LAYTON"
   }
 ];
