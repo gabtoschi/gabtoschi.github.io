@@ -22,11 +22,11 @@ description: "My favorite puzzle series starts in a humble and mysterious villag
 thumbnail: "/img/reviews/layton-curious-village/thumbnail.jpg"
 ---
 
-If you look at any page of my blog, you can see how much I love puzzle games. For some reason, the concept of solving logic conundrums is really fun to me, and it always has been. But between my bad games of Tetris and a lot of Flash escape rooms that I solved, no puzzle series had a impact on me than the one started by **Professor Layton and the Curious Village**. Launched in 2008 for the Nintendo DS (but **now available for Android and iOS in this "HD for Mobile" remaster**), it's not probably the start of one of my favorite franchises in gaming, but also an amazing concept that is almost perfectly executed.
+If you look at any page of my blog, you can see how much I love puzzle games. For some reason, the concept of solving logic conundrums is really fun to me, and it always has been. But between my bad games of Tetris and a lot of Flash escape rooms that I solved, no puzzle series had a impact on me than the one started by **Professor Layton and the Curious Village**. Launched in 2008 for the Nintendo DS (but **now available for Android and iOS in this "HD for Mobile" remaster**), it's not only the start of one of my favorite franchises in gaming, but also an amazing concept that is almost perfectly executed.
 
 # An activity book that makes you cry
 
-The best way I can explain what is a Professor Layton game is as "**an activity book that makes you cry**". Half of the time you will be solving a lot of enigmas and tricky questions, but the rest of your game will be a story full of mysteries, incredible characters and a need for a little bit of disbelief by the player. The plot starts with Hershel Layton, a professor of archeology and puzzle expert from London, and Luke Triton, his loyal apprentice, being invited to solve a strange case of inheritance.
+The best way I can explain what is a Professor Layton game is as "**an activity book that makes you cry**". Half of the time you will be solving a lot of enigmas and tricky questions, but the rest of your game will be a story full of mysteries, incredible characters and a need for a little bit of suspension of disbelief by the player. The plot starts with Hershel Layton, a professor of archeology and puzzle expert from London, and Luke Triton, his loyal apprentice, being invited to solve a strange case of inheritance.
 
 ![Professor Layton and the Curious Village HD](/img/reviews/layton-curious-village/car.jpg)
 
@@ -50,7 +50,7 @@ A lot of the puzzles involve diagrams or math, so the game also has a **Memo fun
 
 # Revisiting St. Mystere in HD
 
-This is a peculiar situation for me because I don't usually replay games. But I was introduced many years ago to this franchise with a Nintendo DS cartridge of **Curious Village** as [a gift from a huge friend](https://www.instagram.com/hugop.arts/) and, since then, Professor Layton became one of my favorite series in gaming. So, replaying the game years later in the "HD for Mobile" version was really an interesting experience.
+This is a peculiar situation for me because I don't usually replay games. But I was introduced many years ago to this franchise with a Nintendo DS cartridge of **Curious Village** as [a gift from a huge friend](https://www.instagram.com/p/C3RFqNuxqkS/) and, since then, Professor Layton became one of my favorite series in gaming. So, replaying the game years later in the "HD for Mobile" version was really an interesting experience.
 
 The content was mostly the same, as you may expect, including the Golden Apple mystery that is one of my favorites in the entire series. The puzzles, though, I had a little bit of mixed opinions about them. **I didn't remember how many of them are just tricky questions**: they put a lot of numbers, but the real answer is based on one detail in the text. But a lot of them are really great to solve (even having solved it once before) so it was also fun!
 

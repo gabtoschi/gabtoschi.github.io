@@ -26,7 +26,7 @@ Se você olhar qualquer página do meu blog, verá o quanto adoro jogos de puzzl
 
 # Uma revistinha de passatempo que faz você chorar
 
-A melhor maneira de explicar o que é um jogo do Professor Layton é defini-lo como "**uma revistinha de passatempo que faz você chorar**". Metade do tempo você resolverá muitos enigmas e questões complicadas, mas o resto do jogo será uma história cheia de mistérios, personagens incríveis e uma necessidade de um pouco de descrença por parte do jogador. A trama começa com o britânico Hershel Layton, professor de arqueologia e especialista em quebra-cabeças, e Luke Triton, seu leal aprendiz, sendo convidados para resolver um estranho caso de herança.
+A melhor maneira de explicar o que é um jogo do Professor Layton é defini-lo como "**uma revistinha de passatempo que faz você chorar**". Metade do tempo você resolverá muitos enigmas e questões complicadas, mas o resto do jogo será uma história cheia de mistérios, personagens incríveis e a aceitação por parte do jogador que algumas coisas realmente seriam possíveis em um mundo hipotético. A trama começa com o britânico Hershel Layton, professor de arqueologia e especialista em quebra-cabeças, e Luke Triton, seu leal aprendiz, sendo convidados para resolver um estranho caso de herança.
 
 ![Professor Layton and the Curious Village HD](/img/reviews/layton-curious-village/car.jpg)
 
@@ -50,7 +50,7 @@ Muitos dos puzzles envolvem diagramas ou matemática, então o jogo também tem 
 
 # Revisitando St. Mystere em HD
 
-Esta é uma situação peculiar para mim porque não costumo repetir jogos. Mas fui apresentado a esta franquia há muitos anos com um cartucho de Nintendo DS de **Curious Village** como [presente de um grande amigo](https://www.instagram.com/hugop.arts/) e, desde então, Professor Layton se tornou uma das minhas séries de jogos favoritas. Então, visitar a vila agora anos depois na versão “HD for Mobile” foi realmente uma experiência interessante.
+Esta é uma situação peculiar para mim porque não costumo repetir jogos. Mas fui apresentado a esta franquia há muitos anos com um cartucho de Nintendo DS de **Curious Village** como [presente de um grande amigo](https://www.instagram.com/p/C3RFqNuxqkS/) e, desde então, Professor Layton se tornou uma das minhas séries de jogos favoritas. Então, visitar a vila agora anos depois na versão “HD for Mobile” foi realmente uma experiência interessante.
 
 O conteúdo era basicamente o mesmo, como você pode esperar, incluindo o mistério da Golden Apple que é um dos meus favoritos de toda a série. Quanto aos puzzles, porém, eu tinha opiniões um pouco divergentes sobre eles. **Não lembrava quantos deles são apenas perguntas com um truquezinho**: parece prova do Enem, eles colocam um monte de número, mas a verdadeira resposta é baseada em um detalhe do texto. Mas muitos deles são realmente ótimos de resolver (mesmo já tendo resolvido uma vez) então também foi divertido!
 
