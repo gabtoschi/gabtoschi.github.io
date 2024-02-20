@@ -15,9 +15,9 @@
     "link": "https://t.me/gabtoschi"
   },
   {
-    "name": "mastodon",
-    "icon": "icons/mastodon",
-    "link": "https://peoplemaking.games/@gabtoschi"
+    "name": "twitter",
+    "icon": "icons/twitter",
+    "link": "https://twitter.com/gabtoschi"
   },
   {
     "name": "bluesky",
@@ -25,9 +25,14 @@
     "link": "https://bsky.app/profile/gabtoschi.com"
   },
   {
-    "name": "twitter",
-    "icon": "icons/twitter",
-    "link": "https://twitter.com/gabtoschi"
+    "name": "instagram",
+    "icon": "icons/instagram",
+    "link": "https://www.instagram.com/gabtoschi/"
+  },
+  {
+    "name": "mastodon",
+    "icon": "icons/mastodon",
+    "link": "https://peoplemaking.games/@gabtoschi"
   },
   {
     "name": "github",
@@ -38,10 +43,5 @@
     "name": "steam",
     "icon": "icons/steam",
     "link": "https://store.steampowered.com/curator/44763507/"
-  },
-  {
-    "name": "letterboxd",
-    "icon": "icons/letterboxd",
-    "link": "https://letterboxd.com/gabtoschi"
   }
 ]
