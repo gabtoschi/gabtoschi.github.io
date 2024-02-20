@@ -4,12 +4,39 @@
   <subtitle>Oi! Sou um desenvolvedor web, designer de jogos e escritor que adora ser curioso, criativo e caótico. Boas-vindas ao meu lugar na Web!</subtitle>
   <link href="https://gabtoschi.com/feed-pt.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-02-16T00:00:00Z</updated>
+  <updated>2024-02-19T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Geometry Survivor</title>
+    <link href="https://gabtoschi.com/pt/blog/review/geometry-survivor.html"/>
+    <updated>2024-02-19T00:00:00Z</updated>
+    <id>https://gabtoschi.com/pt/blog/review/geometry-survivor.html</id>
+    <content xml:lang="pt" type="html">&lt;p&gt;Embora &lt;strong&gt;eu goste do nome “bullet heaven” para jogos de tiro automáticos de sobrevivência como Vampire Survivors&lt;/strong&gt;, entendo que as pessoas preferem outras denominações, como “horde survival” ou simplesmente “survivor-likes”, e está tudo bem. Mas nunca entendi por que as pessoas chamam esses jogos de roguelites.&lt;/p&gt;
+&lt;p&gt;Sim, você inicia uma nova run toda vez que joga, mas o objetivo do jogo não é terminar uma &amp;quot;run completa&amp;quot;, mas desbloquear todas as opções e completar os mapas de diferentes maneiras. Para mim, pelo menos, &lt;strong&gt;essa sensação de progressão e descoberta é uma das razões pelas quais os jogos bullet heaven me divertem&lt;/strong&gt;, ao contrário do domínio pela repetição que vem dos roguelikes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/geometry-survivor/green.jpg&quot; alt=&quot;Geometry Survivor&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Foi esperando essa sensação que comecei a jogar &lt;strong&gt;Geometry Survivor&lt;/strong&gt; e fiquei surpreso de como o jogo, de fato, tinha muito mais inspirações em roguelikes do que eu imaginei. &lt;strong&gt;Seu principal objetivo é terminar uma run de 20 minutos no único mapa disponível&lt;/strong&gt;, coletando pontos de experiência para obter novas armas e habilidades em um conjunto limitado de opções. A menos que você já seja um mestre no jogo, você não fará isso na primeira vez, então poderá usar créditos para obter upgrades permanentes (ou naves diferentes).&lt;/p&gt;
+&lt;p&gt;Falando assim não parece ter nada de errado, &lt;strong&gt;mas falta muito conteúdo para poder assumir qualquer uma das definições com qualidade&lt;/strong&gt;. Para um bullet heave, ter apenas um mapa e nenhum desbloqueável, além de poder aumentar alguns atributos básicos, torna a experiência muito monótona, sem nenhuma progressão tangível entre as partidas. Para um roguelite, não há muitas opções para diferenciar uma run da outra, com desafios e builds muito semelhantes. Parece que &lt;strong&gt;Geometry Survivor é uma versão demo de um jogo maior que nunca existiu&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/geometry-survivor/red.jpg&quot; alt=&quot;Geometry Survivor&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O triste de tudo isso é que jogar &lt;strong&gt;Geometry Survivor&lt;/strong&gt; é muito divertido! Diferente de outros do gênero, você já inicia a partida com muita velocidade e força, o que ajuda a criar &lt;strong&gt;uma abordagem mais incisiva e direta na hora de destruir os primeiros inimigos&lt;/strong&gt;. A ideia de minas especiais caindo no mapa, que podem ser explodidas como último recurso contra uma onda inimiga, também é muito legal e incentiva o jogador a ficar mais atento ao mapa ao invés de apenas correr por aí.&lt;/p&gt;
+&lt;p&gt;Visualmente, &lt;strong&gt;também adorei a estética neon e a inspiração em jogos vetoriais&lt;/strong&gt;. Ajuda muito ver o que está acontecendo por causa do fundo todo preto, mas a falta de detalhes dificulta a diferenciação dos tipos de inimigos. Adoraria ver o jogo indo mais longe na temática geométrica, tendo diferentes arenas inspiradas em diferentes polígonos e outros conceitos como paralelismo. Ou até mesmo inspirado em jogos vetoriais antigos, como o de Asteroids? Eu só posso sonhar.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/ogtemkrXtqw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;Uma das piores sensações de um jogador é ver um jogo que é bom de jogar, mas em uma hora você já viu tudo o que ele tem a oferecer. &lt;strong&gt;Geometry Survivor&lt;/strong&gt; tem tudo o que precisa para ser o começo de um grande título do gênero bullet heaven (ou roguelite, se você quiser), mas a falta de conteúdo e profundidade torna muito fácil esquecê-lo. Claro, você pode simplesmente adorar a sensação do jogo (porque é muito bom) e continuar jogando o mesmo nível até terminar uma run perfeita, mas com experiências muito mais completas no mercado, é difícil recomendá-lo.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    O time de desenvolvimento me enviou uma cópia do jogo para que eu pudesse conhecê-lo e escrever esse texto. Obrigado pela confiança!
+  &lt;/span&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Professor Layton and the Curious Village HD</title>
     <link href="https://gabtoschi.com/pt/blog/review/layton-curious-village.html"/>
