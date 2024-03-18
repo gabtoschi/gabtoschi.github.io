@@ -168,13 +168,13 @@
     margin-bottom: 24px;
   }
 }
-.newsletter iframe {
+.newsletter .newsletter-form {
   width: 50%;
   border: 2px #552bab solid;
   border-radius: 20px;
 }
 @media (max-width: 992px) {
-  .newsletter iframe {
+  .newsletter .newsletter-form {
     width: 100%;
   }
 }

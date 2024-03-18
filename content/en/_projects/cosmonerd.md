@@ -8,4 +8,4 @@ tags:
   - project-text
 ---
 
-Game reviews that I wrote in Portuguese for CosmoNerd, a pop culture Brazilian portal focused on news and reviews of games, movies and TV series, through 2022-now.
+Game reviews that I wrote in Portuguese for CosmoNerd, a pop culture Brazilian portal focused on news and reviews of games, movies and TV series, through 2022-2023.

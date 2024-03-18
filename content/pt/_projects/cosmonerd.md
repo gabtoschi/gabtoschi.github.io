@@ -8,4 +8,4 @@ tags:
   - project-text
 ---
 
-Resenhas de jogos que escrevi para o CosmoNerd, portal de cultura pop focado em notícias e críticas de jogos, filmes e séries de TV, de 2022 até agora.
+Resenhas de jogos que escrevi para o CosmoNerd, portal de cultura pop focado em notícias e críticas de jogos, filmes e séries de TV, de 2022 a 2023.
