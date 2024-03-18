@@ -8,6 +8,10 @@
     align-items: center;
     justify-content: space-between;
 
+    &.with-newsletter {
+      padding-bottom: 48px;
+    }
+
     @media (max-width: breakpoint.$lg) {
       flex-direction: column;
     }
@@ -60,7 +64,7 @@
   }
 
   .latest-blog {
-    margin-top: 64px;
+    margin-top: 52px;
 
     .header {
       text-align: center;

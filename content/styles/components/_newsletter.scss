@@ -1,0 +1,46 @@
+@use 'utilities/colors' as color;
+@use 'utilities/breakpoints' as breakpoint;
+
+.newsletter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  @media (max-width: breakpoint.$lg) {
+    flex-direction: column;
+  }
+
+  .header {
+    text-align: left;
+
+    h1 {
+      margin-bottom: 0;
+    }
+
+    h3 {
+      font-weight: 300;
+
+      margin-top: 12px;
+      margin-bottom: 0;
+    }
+
+    @media (max-width: breakpoint.$lg) {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+  }
+
+  iframe {
+    width: 50%;
+    border: 2px color.$purple-dark solid;
+    border-radius: 20px;
+
+    @media (max-width: breakpoint.$lg) {
+      width: 100%;
+    }
+  }
+}
+
+.newsletter-wrapper {
+  margin-bottom: 36px;
+}

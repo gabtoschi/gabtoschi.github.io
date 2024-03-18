@@ -4,7 +4,7 @@ layout: layouts/base
 
 <div class="home-page">
   <div class="container">
-    <div class="welcome">
+    <div class="welcome with-newsletter">
       <div class="welcome-text">
         <h1>hi! i'm Gabriel Toschi</h1>
         <h2>welcome to my web place!</h2>
@@ -24,6 +24,8 @@ layout: layouts/base
        , text: "More about me"
        , url: "about" %}
     </div>
+
+    {% render "components/newsletter" %}
 
     <div class="latest-blog">
       <div class="header">

@@ -55,4 +55,8 @@ permalink: "blog/{% if pagination.pageNumber != 0 %}{{ pagination.pageNumber | p
       <a href={{ pagination.href.next }}>next &#62;</a>
     {% endif %}
   </nav>
+
+  <div class="newsletter-wrapper">
+    {% render "components/newsletter" %}
+  </div>
 </div>

@@ -11,6 +11,12 @@ layout: 'layouts/base'
     {{ content }}
   </div>
 
+  {% if lang == 'en' %}
+    <div class="newsletter-wrapper container">
+      {% render "components/newsletter" %}
+    </div>
+  {% endif %}
+
   <div class="post-end-wrapper">
     <div class="post-end container">
       <div class="previous-post">
