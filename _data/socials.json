@@ -25,19 +25,14 @@
     "link": "https://bsky.app/profile/gabtoschi.com"
   },
   {
-    "name": "instagram",
-    "icon": "icons/instagram",
-    "link": "https://www.instagram.com/gabtoschi/"
-  },
-  {
     "name": "mastodon",
     "icon": "icons/mastodon",
     "link": "https://peoplemaking.games/@gabtoschi"
   },
   {
-    "name": "github",
-    "icon": "icons/github",
-    "link": "https://github.com/gabtoschi"
+    "name": "cohost",
+    "icon": "icons/cohost",
+    "link": "https://cohost.org/gabtoschi"
   },
   {
     "name": "steam",
