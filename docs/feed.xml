@@ -4,12 +4,39 @@
   <subtitle>Hi! I&#39;m a web dev, game designer and writer that loves to be curious, creative and chaotic. Welcome to my place in the Web!</subtitle>
   <link href="https://gabtoschi.com/feed.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-03-27T00:00:00Z</updated>
+  <updated>2024-04-01T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Lonesome Village</title>
+    <link href="https://gabtoschi.com/blog/review/lonesome-village.html"/>
+    <updated>2024-04-01T00:00:00Z</updated>
+    <id>https://gabtoschi.com/blog/review/lonesome-village.html</id>
+    <content xml:lang="en" type="html">&lt;p&gt;It&#39;s really fun when you start to follow the games from specific devs and see how they are improving with each new game. I discovered the work from Mexican team &lt;a href=&quot;https://ogrepixel.com/&quot;&gt;&lt;strong&gt;Ogre Pixel&lt;/strong&gt;&lt;/a&gt; with their last title, A Tiny Sticker Tale — a small puzzle adventure about stickers so good that &lt;a href=&quot;https://gabtoschi.com/blog/best-digital-games-2023&quot;&gt;found its way to my POTY last year&lt;/a&gt;. But only now I could play &lt;strong&gt;Lonesome Village&lt;/strong&gt;, their first non-mobile game released some years ago, and it&#39;s interesting to see how they delivered a fun ride even with a less experienced team.&lt;/p&gt;
+&lt;p&gt;In &lt;strong&gt;Lonesome Village&lt;/strong&gt;, you follow the steps of Wes, a traveler that found a strange town that was completely empty and haunted by a big and creepy tower. With the help of a good fairy, you start to &lt;strong&gt;climb the floors&lt;/strong&gt; of this ominous rook, freeing the villagers and starting to understand what happened there (and why you are the only that can save them all). It&#39;s not the most incredible plot ever made, but it&#39;s good enough to make the game runs and give some meaning to what you do in each chapter. &lt;strong&gt;The game looks very very cute though&lt;/strong&gt;, with well-made, hand-drawn visuals that already became part of the studio&#39;s identity (at least for me).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/lonesome-village/tower.jpg&quot; alt=&quot;Lonesome Village&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Mechanically, you have &lt;strong&gt;two distinct gameplay loops combined into one linear progression&lt;/strong&gt;. First, you have the tower, with each level presenting different puzzles to solve and new villagers to save. And then, you have a very light life simulation experience in the village, doing quests and collecting items (and hearts as gratitude tokens) used to unlock doors in the tower. It feels like two separate worlds in &lt;strong&gt;Lonesome Village&lt;/strong&gt; and I would say that they were different games if they weren&#39;t connected story-wise.&lt;/p&gt;
+&lt;p&gt;And because those two &amp;quot;parts&amp;quot; are so distinct, I think they also succeed differently. &lt;strong&gt;The puzzle tower is the best gameplay of Lonesome Village&lt;/strong&gt; to me. The difficulty curve sometimes have quick ups and downs, and I don&#39;t think all the enigmas have the same inspiration behind them, but I had fun doing a lot of them. Each level is completely different from one another and you have a cool variety of challenges, like spatial puzzles, memory tests, mazes and even some 2D puzzle platforming.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/lonesome-village/village.jpg&quot; alt=&quot;Lonesome Village&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The &amp;quot;life simulation&amp;quot; half of &lt;strong&gt;Lonesome Village&lt;/strong&gt;, though, feels like a hyper simplified (and sometimes generic) version of Animal Crossing. There&#39;s a lot of different things you can do when you start to get new tools — digging, planting, harvesting, fishing, mining, crafting, decorating — but &lt;strong&gt;there isn&#39;t enough depth to make them really interesting&lt;/strong&gt;. Most of time you just be using them to do some fetch quests to get what you need to advance in the tower. I think that an approach closer to an adventure game (even including some puzzles there) would be a better use of those resources and creating a more satisfying experience.&lt;/p&gt;
+&lt;p&gt;A general impression that I had through my time with the game was &lt;strong&gt;a lack of polish&lt;/strong&gt; in a lot of the small interactions with the world and how they feel a little off sometimes. There&#39;s no bugs that stops your progress, but the strange interfaces and some character interactions can be little bits of frustrating that will accumulate after some hours. However, knowing the team&#39;s most recent work, you can see how much they&#39;ve managed to improve since &lt;strong&gt;Lonesome Village&lt;/strong&gt;.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/h-gC-JdWS88&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;If you want to do everything, you won&#39;t probably be amazing in anything but all you do will be probably fine. &lt;strong&gt;Lonesome Village&lt;/strong&gt; suffers of this lack of mechanical focus and ends up with several bits that didn&#39;t match the quality of the others. I would love to play more puzzles like those in tower &lt;a href=&quot;https://ogrepixel.com/a-tiny-sticker-tale/&quot;&gt;(like you literally can)&lt;/a&gt;, but I don&#39;t think the life simulation is enough to sustain a playthrough alone. Fortunately, this gameplay combination, together with cute visuals and story, creates a package that is fun to experience, even with its flaws.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+  &lt;/span&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Bounties of Babylon</title>
     <link href="https://gabtoschi.com/blog/review/bounties-of-babylon.html"/>
