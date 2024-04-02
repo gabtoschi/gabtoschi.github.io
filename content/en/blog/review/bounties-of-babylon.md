@@ -3,10 +3,11 @@ tags:
   - blog
   - review
   - games
+  - tabletop
 
 title: "Bounties of Babylon"
 date: 2024-03-27
-translate: /pt/blog/review/bounties-of-babylon
+translate: /pt/blog/review/bencaos-da-babilonia
 
 score: 4
 cover: "/img/reviews/bounties-of-babylon/cover.jpg"
@@ -23,13 +24,13 @@ I [wrote some weeks ago](/blog/review/quilts-and-cats-of-calico) about **how dig
 
 ![Bounties of Babylon](/img/reviews/bounties-of-babylon/tiles.jpg)
 
-Your goal in a run of **Bounties of Babylon** is get the amount of victory points in each round, traveling through an hexagonal grid that is expanded each turn. At the start of a turn, **you choose tiles to expand the map** (and the river your ships can traverse on), in a Carcassonne-like experience. After that, you **roll the dice** to move and try to get extra artifacts or find merchants to exchange goods for victory points. There's also a need of creating paths through tiles that produce the same thing, so you can collect more in the end of the round.
+Your goal in a run of **Bounties of Babylon** is get an amount of victory points in each round, traveling through an hexagonal grid that is expanded each turn. At the start of a turn, **you choose tiles to expand the map** (and the river your ships can traverse on), in a Carcassonne-like experience. After that, you **roll the dice** to move and try to get extra artifacts or find merchants to exchange goods for victory points. There's also a need of creating paths through tiles that produce the same thing, so you can collect more in the end of the round.
 
-There is a lot to say about the **odd design of this game**, at least for me. Although a "full run" of **Bounties of Babylon** can have seven-ish rounds, everything is reset from one round to another — expect for victory points that you accumulate for a high score. It's always a new map, with new goals and an empty inventory. The problem happens when some of the rounds have only 2 or 3 turns: there's no time to actually do any type of strategy when you have so little time to act. It felt like a procedural bad designed puzzle at times.
+There is a lot to say about the **odd design of this game**, at least for me. Although a "full run" of **Bounties of Babylon** can have seven-ish rounds, everything is reset from one round to another — except for victory points that you accumulate for a high score. It's always a new map, with new goals and an empty inventory. The problem happens when some of the rounds have only 2 or 3 turns: there's no time to actually do any type of strategy when you have so little time to act. It felt like a bad designed procedural puzzle at times.
 
 ![Bounties of Babylon](/img/reviews/bounties-of-babylon/map.jpg)
 
-And then you have an unexpected participation from the [Roll and Move mechanic](https://boardgamegeek.com/boardgamemechanic/2035/roll-spin-and-move). If you are from the board game hobby nowadays, you already know how much I'll trash talk this now, but, why, in the year of 2024, **ARE WE USING ROLL AND MOVE IN A NEW GAME?** Even if you did well in the tile placement, your ships will only move based on dice rolls. And, because you probably only had 3 turns, there's also no time to correct yourself and recover from the bad luck. Strange on paper, frustrating on reality.
+And then you have an unexpected participation from the [Roll and Move mechanic](https://boardgamegeek.com/boardgamemechanic/2035/roll-spin-and-move). If you are from the board game hobby nowadays, you already know how much I'll trash talk this now, but, why, in the year of 2024, **ARE WE STILL USING ROLL AND MOVE THIS WAY?** Even if you did well in the tile placement, your ships will only move based on dice rolls. And, because you probably only had 3 turns, there's also no time to correct yourself and recover from the bad luck. Strange on paper, frustrating on reality.
 
 If those strange design choices weren't enough, **Bounties of Babylon's visual presentation** isn't really on the side of good readability. The game looks fine with its low-poly graphics, to be fair, but **it's so hard to visualize what's happening in the game** sometimes. For example, the only way to know if a tile will produce goods at the end of a turn is if some of the objects (like coconuts) are blinking white. With an interface like this, my turns doubled on time so I could read the board and the game situation.
 
