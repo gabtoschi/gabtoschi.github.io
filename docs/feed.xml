@@ -4,12 +4,36 @@
   <subtitle>Hi! I&#39;m a web dev, game designer and writer that loves to be curious, creative and chaotic. Welcome to my place in the Web!</subtitle>
   <link href="https://gabtoschi.com/feed.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-04-01T00:00:00Z</updated>
+  <updated>2024-04-03T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Storyblocks: The King</title>
+    <link href="https://gabtoschi.com/blog/review/storyblocks-the-king.html"/>
+    <updated>2024-04-03T00:00:00Z</updated>
+    <id>https://gabtoschi.com/blog/review/storyblocks-the-king.html</id>
+    <content xml:lang="en" type="html">&lt;p&gt;Yes, I like huge adventures, with a lot of systems and mechanics, and a deep story that will make me cry; there&#39;s some moments that all I want is to submerge in a big game and have fun. But, specially nowadays working 40 hours per week, I also have my time to relax, put a podcast on and just play a &lt;strong&gt;small and cozy puzzle game&lt;/strong&gt;. The concept behind &lt;strong&gt;Storyblocks: The King&lt;/strong&gt; was really cool, but the execution was so bad that I just came disappointed after some hours.&lt;/p&gt;
+&lt;p&gt;In theory, &lt;strong&gt;Storyblocks: The King&lt;/strong&gt; is a choose-your-own-adventure game (where you choose how the story can continue) mixed with a block placement puzzle, what is genuinely a good idea. CYODs are commonly more focused only on the narrative, so having a more thinky element there could be really cool. The presentation here isn&#39;t the best, but works as a generic medieval setting, what can also be said about the plot and characters too: most of them feels like an mediocre children book.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/storyblocks-the-king/storyblocks.jpg&quot; alt=&quot;Storyblocks: The King&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;In reality, nothing really works that well. &lt;strong&gt;The &amp;quot;puzzle&amp;quot; is just connecting two points&lt;/strong&gt; in a grid using dominoes and the &amp;quot;challenge&amp;quot; is create a path big enough to use all the pieces available. There&#39;s no actual mechanics being introduced, you just put the blocks in a void until two cubes are connected. Sometimes, you have two &amp;quot;goal&amp;quot; squares and the one you choose to connect indicates where the story goes. No, you don&#39;t have any information about those &amp;quot;options&amp;quot;, so you just go on pure guess.&lt;/p&gt;
+&lt;p&gt;I imagine that on PC, using a mouse, &lt;strong&gt;Storyblocks: The King&lt;/strong&gt; has a better usability, but playing it on the Nintendo Switch was also a nightmare by itself. The control choice is strange — it isn&#39;t okay to use Y instead of the Home button to open the menu, you know —, all the grid navigation is cursor-based even on a joystick and you can&#39;t even use touch controls on Portable Mode. Play this game is a challenge by itself, and if you want to find other &amp;quot;complete stories&amp;quot;, you need to repeat the first levels every time you start a new &amp;quot;run&amp;quot;.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/2sMXrCFCgGU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;As a fan of low-budget cozy puzzle games, I&#39;m really disappointed. As I said, &lt;strong&gt;Storyblocks: The King&lt;/strong&gt; has a great potential conceptually, but &lt;strong&gt;the execution is far away from a pleasant experience&lt;/strong&gt;. The stories are generic, the &amp;quot;puzzle&amp;quot; is repetitive and lacks any kind of depth, and the controls make it even hard to get any fun from the package. I know that you shouldn&#39;t judge a book by its cover (or by a review from a blog), but you are probably better going after other stories.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+  &lt;/span&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Lonesome Village</title>
     <link href="https://gabtoschi.com/blog/review/lonesome-village.html"/>
