@@ -58,5 +58,9 @@ module.exports = [
   {
     key: "layton",
     value: "LAYTON"
+  },
+  {
+    key: "playdate",
+    value: "PLAYDATE"
   }
 ];
