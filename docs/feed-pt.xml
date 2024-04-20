@@ -4,12 +4,36 @@
   <subtitle>Oi! Sou um desenvolvedor web, designer de jogos e escritor que adora ser curioso, criativo e caótico. Boas-vindas ao meu lugar na Web!</subtitle>
   <link href="https://gabtoschi.com/feed-pt.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-04-20T00:00:00Z</updated>
+  <updated>2024-04-21T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Análise: YOYOZO</title>
+    <link href="https://gabtoschi.com/pt/blog/review/yoyozo.html"/>
+    <updated>2024-04-21T00:00:00Z</updated>
+    <id>https://gabtoschi.com/pt/blog/review/yoyozo.html</id>
+    <content xml:lang="pt" type="html">&lt;p&gt;Tenho uma relação estranha com &lt;strong&gt;jogos arcade puros&lt;/strong&gt;. Gosto de jogar muitos deles, mas conseguir pontuações altas não é um incentivo que funcione para mim. Me dá algumas skins para desbloquear, uma lista de conquistas, uma loja de melhorias e mergulharei horas e horas em um jogo arcade, mas apenas conseguir um número grande na tela não é suficiente para me trazer de volta depois de alguns minutos. Por que estou dizendo tudo isso? É porque já faz uma semana que estou voltando para jogar &lt;strong&gt;YOYOZO&lt;/strong&gt; repetidas vezes, e é por causa do seu gameplay tão bom, suave e interessante.&lt;/p&gt;
+&lt;p&gt;Neste já clássico jogo para o &lt;strong&gt;Playdate&lt;/strong&gt; feito por &lt;a href=&quot;https://www.gingerbeardman.com/&quot;&gt;Matt Sephton&lt;/a&gt;, você controla um &amp;quot;iô-iô espacial&amp;quot;, uma nave presa a uma grande bola por um elástico tecnológico. Seu objetivo é usar a bola para pegar círculos (chamados de &amp;quot;estrelas&amp;quot;) na tela, MAS você só pode mover a nave, não a bola. Portanto, a maior parte do seu tempo em &lt;strong&gt;YOYOZO&lt;/strong&gt; reside na &lt;strong&gt;sua capacidade de controlar esta engenhoca&lt;/strong&gt; e usar suas propriedades para acumular pontos. Você não usa a manivela pra nada neste título: todo o movimento é feito pelos botões frontais.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/yoyozo/yoyozo.gif&quot; alt=&quot;YOYOZO&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Como eu disse no começo, &lt;strong&gt;é tão bom e gostoso jogar YOYOZO&lt;/strong&gt;. Mesmo que eu não esteja tentando conseguir uma pontuação melhor, movimentar a bola é um desafio difícil e legal de enfrentar, mesmo que nunca pareça impossível. Um jogo de &lt;strong&gt;YOYOZO&lt;/strong&gt; (pelo menos os meus jogos) não duram mais que dois minutos, então também é fácil encontrar um tempo para jogar um pouco mais. Sim, eu adoraria mais maneiras de “progredir”, mas considerando sua premissa simples, ele se sai muito bem.&lt;/p&gt;
+&lt;p&gt;MAS você não sou eu, certo? (Talvez você esteja, oi, eu!) &lt;strong&gt;Talvez você goste de obter pontuações ainda maiores&lt;/strong&gt;, provando sua própria maestria dos controles e da física do jogo. Neste caso, &lt;strong&gt;YOYOZO&lt;/strong&gt; é perfeito para você. Conforme dito no &lt;a href=&quot;https://www.gingerbeardman.com/playdate/yoyozo/yoyozo-manual.pdf&quot;&gt;PDF do manual do jogo&lt;/a&gt;, seus pontos são determinados por três fatores principais — quanto tempo o elástico fica esticado, quão rápido você está pegando as estrelas e qual é o seu combo atual — e alguns elementos secretos, se você quiser aprofundar mais uma camada na lasanha de técnicas avançadas que está pronta pra você.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/0IHiucLVPQ0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;Portáteis podem proporcionar experiências profundas e longas, claro, mas são perfeitos para pequenas explosões de diversão. De tudo o que está disponível agora no Playdate, eu realmente acho que &lt;strong&gt;YOYOZO&lt;/strong&gt; é um dos melhores do gênero. Você pode iniciar uma partida pela primeira vez e entender o conceito em segundos literalmente, e também pode jogar por 10 horas e descobrir tantas técnicas que ele se torna outro jogo completamente. Posso não ser o maior fã de jogos arcade puros, mas realmente posso ver o ioiô espacial se tornando um dos residentes permanentes do meu pequeno tijolo amarelo.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    O time de desenvolvimento me enviou uma cópia do jogo para que eu pudesse conhecê-lo e escrever esse texto. Obrigado pela confiança!
+  &lt;/span&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Análise: Botany Manor</title>
     <link href="https://gabtoschi.com/pt/blog/review/botany-manor.html"/>
@@ -163,7 +187,7 @@
 &lt;/p&gt;
 &lt;p&gt;Se você quiser fazer tudo, provavelmente não será incrível em nada, mas tudo o que fizer provavelmente será bom. &lt;strong&gt;Lonesome Village&lt;/strong&gt; sofre com essa falta de foco mecânico e acaba com vários pedaços que não combinam com a qualidade dos demais. Eu adoraria jogar mais quebra-cabeças como os da torre &lt;a href=&quot;https://ogrepixel.com/a-tiny-sticker-tale/&quot;&gt;(e você literalmente pode)&lt;/a&gt;, mas não acho que a parte de simulação seja suficiente para sustentar uma jogatina sozinha. Felizmente, essa combinação de jogabilidade, juntamente com visuais e história fofos, cria um pacote divertido de experimentar, mesmo com suas falhas.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -189,7 +213,7 @@
 &lt;/p&gt;
 &lt;p&gt;Eu realmente acredito que a mídia digital pode ser uma ferramenta incrível para game designers levarem seus jogos de mesa para outro nível — não só como uma &amp;quot;segunda opção&amp;quot;, mas como um meio para alcançar o que era (até então) impossível. &lt;strong&gt;Bençãos da Babilônia&lt;/strong&gt;, entretanto, com suas decisões estranhas de design, suas mecânicas ultrapassadas e sua apresentação ruim, não pode ser usado como exemplo do bom uso dessa mídia. No seu melhor, ele parece um puzzle medíocre que é frustrante de jogar e difícil de recomendar, mesmo para fãs de Carcassonne, Catan ou jogos de estratégia.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -225,7 +249,7 @@
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Essa estrutura monótona e repetitiva rouba todo o momentum&lt;/strong&gt; que eu ganhei resolvendo o real puzzle e apenas torna jogar &lt;strong&gt;Puzzles for Clef&lt;/strong&gt; uma experiência chata. Mesmo que eu soubesse que um enigma pode ser realmente muito legal de resolver, também sei que passarei o triplo do tempo apenas andando, e depois terei que resolvê-lo outras quatro vezes para avançar. Eu queria tanto aproveitar mais aquela atmosfera incrível, ou apenas me imaginar em uma caça ao tesouro aconchegante e divertida... mas se meu irmão me fizesse andar tanto em círculos, eu já teria mandado ele catar coquinho faz tempo.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -261,7 +285,7 @@
 &lt;/p&gt;
 &lt;p&gt;Construindo um tipo de narrativa diferente do capítulo anterior da Gold Master Series, &lt;strong&gt;Llamasoft: The Jeff Minter Story&lt;/strong&gt; mostra o quão ampla e incrível a história dos jogos pode ser. Aprender mais sobre o trabalho de Jeff Minter não foi apenas inspirador para mim como designer, mas apenas me apresentou conceitos e mecânicas interessantes que foram esquecidos por grande parte da comunidade de jogos hoje em dia. Se você gosta de jogos de navinha, ou apenas quer saber mais sobre um britânico maluco que faz jogos sobre lhamas, a exposição já está aberta e você não vai querer perder.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -297,7 +321,7 @@
 &lt;/p&gt;
 &lt;p&gt;Jogar um jogo de tabuleiro digitalmente não é a mesma coisa que aproveitar a versão física, mas uma boa adaptação também pode criar uma experiência única. &lt;strong&gt;Quilts and Cats of Calico&lt;/strong&gt; não apenas adapta perfeitamente um jogo de mesa que é fácil de aprender (e realmente difícil de dominar), mas vai muito além do básico para torná-lo interessante não apenas para amantes de gatos e novos jogadores, mas também também para veteranos que desejam ver essas cores e padrões de uma nova maneira. Seja visitando Tomkitty ou colocando seus próprios gatinhos no tabuleiro, não tem como não aproveitar um bom tempo por aqui. Que os gatinhos de Calico amem suas colchas!&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -325,7 +349,7 @@
 &lt;/p&gt;
 &lt;p&gt;Para um gênero que sempre tem a má reputação de ser simples demais para ser tão viciante, estou impressionado como &lt;strong&gt;Sixty Four&lt;/strong&gt; é um jogo idle que me deixava menos animado quanto mais eu jogava. Este pacote é cheio de conteúdo, muito mais do que muitos outros títulos clicker — uma história misteriosa, algumas mecânicas intrigantes, muitos recursos para gerenciar — mas, no final, a experiência é tão chata que só posso recomendá-la para aqueles que são realmente grandes fãs do gênero. Às vezes menos é mais, mas não creio que esse pouco de diversão valha a enorme quantidade de horas que esse vazio branco pede de você.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -370,7 +394,7 @@
 &lt;/p&gt;
 &lt;p&gt;Se você é um especialista em plataformas 3D, ou adora entender e dominar sistemas de ação complexos, ou apenas se diverte tentando montar um grande combo, você será capaz de superar os bugs e se divertir em &lt;strong&gt;Penny&#39;s Big Breakaway&lt;/strong&gt;. Não só o título foi feito para jogar desta forma, mas você também poderá desfrutar dos ótimos visuais e da incrível trilha sonora que ele tem a oferecer. Mas, se você buscava uma experiência mais tranquila, com uma curva de aprendizado mais equilibrada, ainda pode se divertir, mas não sem uma frustração constante e borrifada. Existem jogos mais convidativos no mercado para você e este não parece que foi criado pra rodar bem (!) com públicos mais variados.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -408,7 +432,7 @@
 &lt;/p&gt;
 &lt;p&gt;Os fãs sempre fizeram o que as empresas não querem fazer. ROM hacks, ports, fan games, sucessores espirituais: não importa se é um jogo famoso das antigas ou um clássico cult, as pessoas se lembrarão dessas histórias para sempre. Mas &lt;strong&gt;Arzette: The Jewel of Faramore&lt;/strong&gt; não se trata de lembrar o que foi bom, mas de imaginar um futuro onde as coisas ruins nunca aconteceram. Eles não apenas entenderam o que os jogos Zelda do CD-i tinham a oferecer, mas usaram isso como base para construir uma aventura original e impressionante. Se é isso que podemos conseguir dando uma segunda chance aos jogos ruins do passado, estou totalmente a bordo para mais redenções no futuro.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -441,7 +465,7 @@
 &lt;/p&gt;
 &lt;p&gt;Você cria um mundo 3D com desafios e puzzles legais e muito para colecionar, me coloque lá e provavelmente vou adorar. Mas eu realmente não esperava o quanto eu amei ter essa experiência em 2D ao jogar &lt;strong&gt;Promenade&lt;/strong&gt;. Apesar de alguns controles estranhos e um backtracking chato, a aventura de Nemo nos andares do Grande Elevador me encheu de alegria por dias. Cada bom quebra-cabeça que resolvi, cada novo personagem que conheci, apenas mostra o quanto jogos como um meio ainda tem a oferecer se tentarmos novas combinações. Eu adoraria mais collectathons 2D, se possível, por favor!&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -468,7 +492,7 @@
 &lt;/p&gt;
 &lt;p&gt;Uma das piores sensações de um jogador é ver um jogo que é bom de jogar, mas em uma hora você já viu tudo o que ele tem a oferecer. &lt;strong&gt;Geometry Survivor&lt;/strong&gt; tem tudo o que precisa para ser o começo de um grande título do gênero bullet heaven (ou roguelite, se você quiser), mas a falta de conteúdo e profundidade torna muito fácil esquecê-lo. Claro, você pode simplesmente adorar a sensação do jogo (porque é muito bom) e continuar jogando o mesmo nível até terminar uma run perfeita, mas com experiências muito mais completas no mercado, é difícil recomendá-lo.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -529,7 +553,7 @@
 &lt;/p&gt;
 &lt;p&gt;É tão interessante ver uma equipe falhar em seu objetivo inicial, mas criando uma experiência incrível de qualquer maneira. Para mim um “puzzlevania” ainda é uma boa ideia que quero ver bem executada. Mesmo assim, &lt;strong&gt;CLeM&lt;/strong&gt; é um jogo de quebra-cabeça muito bom, com enigmas inspirados em vários gêneros diferentes. Do inventário cheio de itens para se combinar aos códigos e padrões, e até mesmo os brinquedos mágicos usados como ferramentas: &lt;strong&gt;CLeM pode ter uma progressão linear, mas a diversão está espalhada por todo o jogo&lt;/strong&gt;. E o grande mistério de tudo, “o que está acontecendo aqui?”, me atingiu com tanta força que precisei terminar o jogo numa tacada só. Se você também estiver curioso, talvez queira ver o que há dentro das páginas deste intrigante caderno.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -609,7 +633,7 @@
 &lt;/p&gt;
 &lt;p&gt;Eu realmente acredito que novos jogos que usam a nostalgia como ponto de partida não devem apenas me dar mais do passado. Se eu quisesse jogar a mesma coisa de novo, eu só vou e jogo as mesmas coisas de novo. &lt;strong&gt;Slipstream&lt;/strong&gt; tem algumas falhas, mas faz um trabalho incrível ao trazer a mesma vibe e sentimento em um jogo novo e original. Mecanicamente ele não faz tanto, mas visualmente ele transforma memórias em pixels em uma tela de forma espetacular. Para a década de 2020 pode ser um pouco repetitivo, mas não há dúvida de que numa realidade alternativa da década de 1990 (e no coração de quem a viveu), &lt;strong&gt;Slipstream já é um clássico.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -636,7 +660,7 @@
 &lt;/p&gt;
 &lt;p&gt;Se &lt;strong&gt;Paperman: Adventure Delivered&lt;/strong&gt; tivesse, pelo menos, metade da qualidade do design dos personagens de seus heróis, eu teria tido uma boa experiência com ele. Eu realmente acredito que nenhum time quer fazer uma experiência decepcionante de propósito, mas, como jogador, &lt;strong&gt;é difícil recomendá-lo&lt;/strong&gt;. Mesmo as pequenas qualidades não são suficientes para compensar os cenários sem graça, as constantes voltas desnecessárias e o desempenho ruim e frustrante. Talvez este pacote possa ser melhor no futuro, mas, por enquanto, estou devolvendo ele ao remetente.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -663,7 +687,7 @@
 &lt;/p&gt;
 &lt;p&gt;Curto, fofo, bobo, sincero: tenho tantos adjetivos para definir &lt;strong&gt;The Cauldron Kids: The Summoning of Mr. Vermicelli&lt;/strong&gt;. Não há nada de inovador aqui, mas a Pet Golem Games foi muito feliz com suas decisões e criou uma pequena história sobre crianças e magia que aqueceu meu coração. Se você também está procurando por algo radicalmente diferente do seu típico jogo AAA... bem, a mamãe só chega em casa à noite, e quem pegar o chapéu é a líder! Agora é a hora de começar o nosso plano...&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -689,7 +713,7 @@
 &lt;/p&gt;
 &lt;p&gt;Se você realmente gosta do trabalho que um eletricista faz, acho que também ficará desapontado com &lt;strong&gt;Electrician Simulator&lt;/strong&gt;. Quando você transforma algo em uma experiência de videogame que é mais chata e sem alma do que aquilo que as pessoas fazem como trabalho, há algo errado com isso, alguma coisa você fez errado. Tecnicamente, o jogo funciona e você pode comprar e jogar até o final (com alguns controles estranhos no processo), mas não sei exatamente por que você faria isso. Você se divertirá mais indo a um ferro velho e apenas desmontando umas sucatas reais para se divertir, acredite.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -717,7 +741,7 @@
 &lt;/p&gt;
 &lt;p&gt;Se você viu gente falando sobre o jogo da melancia e quer pular na febre, só posso pedir que pule ainda mais alto até chegar no espaço. &lt;strong&gt;Cosmic Collapse não é apenas um Suika-like muito bem feito, mas também um pequeno jogo de arcade viciante, indulgente, bonito e divertido.&lt;/strong&gt; Estou esperando eternamente por uma versão móvel disso, porque quando isso acontecer, não vou conseguir parar de jogar. Às vezes, uma coisa simples feita com amor e carinho é suficiente para me deixar feliz, e não consigo parar de falar sobre ela — então eu já sei que vou continuar falando sobre esses planetas ainda por muitos meses.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -766,7 +790,7 @@
 &lt;/p&gt;
 &lt;p&gt;Ao comprar um jogo de acesso antecipado, você investe em uma promessa com potencial. &lt;strong&gt;Para mim, Froguelike tem muito potencial!&lt;/strong&gt; O tema de sapos é bem-vindo em meio a tantos jogos parecidos, e a estrutura dos capítulos pode ser muito interessante, especialmente se eles começarem a usá-la para contar histórias diferentes dependendo do que você escolher. &lt;strong&gt;Mas, por enquanto, só posso recomendá-lo se você for um fã do gênero (ou um fã de sapos em geral).&lt;/strong&gt; Espero voltar a este lago no futuro e estar animado para comer insetos novamente.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
@@ -1343,7 +1367,7 @@
 &lt;p&gt;Por que eu me daria ao trabalho de escrever tanto texto só para dizer que o jogo é meio OK? Porque eu acho que &lt;strong&gt;Born of Bread tem um sabor muito bom no meio dessa massa mal inspirada&lt;/strong&gt;. O enredo é divertido, alguns personagens são legais, o sistema de mochila é inteligente e o feeling do jogo está na medida certa (até o ponto que os QTEs ficam mais repetitivos do que o necessário, pelo menos).&lt;/p&gt;
 &lt;p&gt;Se eu quisesse jogar mais Paper Mario, jogaria Paper Mario novamente. Está até disponível no NSO para ser ainda mais fácil. Esperava jogar uma coisa nova, inspirada nas aventuras que adorei com surpresas que depois lembraria. Parte disso está aqui, mas não o suficiente. Você quer um Paperverse RPG bonito, divertido e fácil? Born of Bread está pronto para você consumir e pode ser servido em qualquer loja digital de sua preferência. &lt;strong&gt;Mas o sabor forte que só uma mecânica bem feita e focada pode dar não está no cardápio, infelizmente.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
-  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
 &lt;/svg&gt;
