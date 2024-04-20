@@ -3,6 +3,7 @@ tags:
   - blog
   - review
   - games
+  - escape
 
 title: Escape From Mystwood Mansion
 date: 2024-01-02

@@ -62,5 +62,9 @@ module.exports = [
   {
     key: "playdate",
     value: "PLAYDATE"
+  },
+  {
+    key: "escape",
+    value: "ESCAPE ROOM"
   }
 ];
