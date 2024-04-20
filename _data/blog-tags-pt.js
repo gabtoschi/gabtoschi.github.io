@@ -9,7 +9,7 @@ module.exports = [
   },
   {
     key: "review",
-    value: "REVIEW"
+    value: "ANÁLISE"
   },
   {
     key: "games",
