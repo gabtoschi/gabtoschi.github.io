@@ -23,7 +23,7 @@ thumbnail: "/img/reviews/yoyozo/thumbnail.jpg"
 
 I have a strange relationship with **pure arcade games**. I like playing a lot of them, but getting high scores isn't an incentive that works for me. Give me some skins to unlock, an achievement list, an upgrade shop, and I will dive hours and hours into an arcade game, but only getting a big number in the screen isn't enough to bring me back after some minutes. Why I'm saying all of this? It's because it has been an week that I'm coming back to play **YOYOZO** again and again, and that's because how smooth and good its gameplay are.
 
-In this already-a-classic **Playdate** game from [Matt Sephton](https://www.gingerbeardman.com/), you control a "space yoyo", a ship that is attached to a big ball by a sci-fi elastic. Your goal is to use the ball to catch circles (called "stars") in the screen, BUT you can only move the ship, not the ball. So, most of **YOYOZO** lies in **your ability to control this contraption** and use its properties to rack up points. You don't use the crank in this title: all movement is done by the face buttons.
+In this already-a-classic [**Playdate**](/blog/playdate-full-review) game from [Matt Sephton](https://www.gingerbeardman.com/), you control a "space yoyo", a ship that is attached to a big ball by a sci-fi elastic. Your goal is to use the ball to catch circles (called "stars") in the screen, BUT you can only move the ship, not the ball. So, most of **YOYOZO** lies in **your ability to control this contraption** and use its properties to rack up points. You don't use the crank in this title: all movement is done by the face buttons.
 
 ![YOYOZO](/img/reviews/yoyozo/yoyozo.gif)
 
