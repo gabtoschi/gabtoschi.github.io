@@ -6,7 +6,7 @@ tags:
 
 title: "Storyblocks: The King"
 date: 2024-04-03
-translate: /pt/blog/review/storyblocks-the-king
+# translate: /pt/blog/review/storyblocks-the-king
 
 score: 3
 cover: "/img/reviews/storyblocks-the-king/cover.jpg"
