@@ -8,7 +8,7 @@ tags:
 title: "The Scrolling Enigma"
 metatitle: "Análise: The Scrolling Enigma"
 date: 2024-04-24
-translate: /pt/blog/review/the-scrolling-enigma
+translate: /blog/review/the-scrolling-enigma
 
 score: 7
 cover: "/img/reviews/the-scrolling-enigma/cover.jpg"

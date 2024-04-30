@@ -4,12 +4,39 @@
   <subtitle>Hi! I&#39;m a web dev, game designer and writer that loves to be curious, creative and chaotic. Welcome to my place in the Web!</subtitle>
   <link href="https://gabtoschi.com/feed.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-04-26T00:00:00Z</updated>
+  <updated>2024-04-27T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Review: Bem Feito</title>
+    <link href="https://gabtoschi.com/blog/review/bem-feito.html"/>
+    <updated>2024-04-27T00:00:00Z</updated>
+    <id>https://gabtoschi.com/blog/review/bem-feito.html</id>
+    <content xml:lang="en" type="html">&lt;p&gt;&lt;strong&gt;Bem Feito&lt;/strong&gt; is one of those games that &lt;strong&gt;the less you know about it, the better your experience will be&lt;/strong&gt;. But I still need to write a review about it, I cannot just write a single phrase and get away with it. So, without spoilers, let&#39;s talk about this mysterious small game that, although it has a lot of qualities, maybe promised too much and couldn&#39;t get me that excited for the whole ride.&lt;/p&gt;
+&lt;p&gt;This title is actually an &amp;quot;expanded port&amp;quot; of a game called &lt;strong&gt;Bem Feito&lt;/strong&gt;, supposedly launched in 1999 by Brazilian company MEGASOFT as the only title of its portable gaming device, the Jogaroto (yes, this is fictional, but let&#39;s roll with it). You follow &lt;strong&gt;Reginaldo&lt;/strong&gt;, a little boy living in a little planet, doing his chores and meeting some new friends. During each day in the game, you have a list of tasks to do, and this includes exploring the place and making some choices to progress the story.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/bem-feito/home.jpg&quot; alt=&quot;Bem Feito&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;At this point, you can imagine &lt;strong&gt;there&#39;s more than meet the eye&lt;/strong&gt; in this little old ROM to discover (or you just read the content warning in the Steam page). All I can say is that the process of finding this new layer behind the life simulation game was really interesting and compelling, that glued me and my wife for 2 hours at the TV just trying to see how the story would unfold. The way the controls work could be a little better too, but nothing you can&#39;t learn with some simple trial and error.&lt;/p&gt;
+&lt;p&gt;Visually, &lt;strong&gt;Bem Feito&lt;/strong&gt; also does its job really well. It&#39;s great how the game uses a monochromatic palette to invoke a Game Boy-like retro style, but the purple tint and the perspective camera &lt;strong&gt;make it a strange (but totally intentional) uncanny valley&lt;/strong&gt;, where you know this couldn&#39;t have been possible in a 1999 portable, but the mere existence of it creates a mystery by itself.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/bem-feito/fishing.jpg&quot; alt=&quot;Bem Feito&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The experience of exploring a strange lost media game is perfectly made here&lt;/strong&gt;, and I would love if &lt;strong&gt;Bem Feito&lt;/strong&gt; was only this, even if this resulted in a smaller game. But there&#39;s more, not in the same level of quality. You can also get &lt;strong&gt;access to messages and documents&lt;/strong&gt; that have information about how the game is created, who was involved and why it was forgotten by the general public. I don&#39;t dislike the concept of expanding the lore, giving you more to theorize about, but the execution was really subpar.&lt;/p&gt;
+&lt;p&gt;Instead of rewarding a good exploration of the ROM, or smart players that connected the dots, 90% of this part of the game is just... reading? All the passwords you need to access locked information are on the game achievements&#39; names, and &lt;strong&gt;even you can find a secret or two by yourself, I don&#39;t think it was satisfactory.&lt;/strong&gt; Without this lore dump, the adventures of Reginaldo were truly a mystery with a message, but now, it feels something too artificial. I know that every theory in our heads are better than all the true stories we learn after, but &lt;strong&gt;the riddle was so plain that I wish I hadn&#39;t tasted it&lt;/strong&gt;.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/bIJLmvAn46Q?start=&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;It&#39;s strange to say like that, but I wish &lt;strong&gt;Bem Feito&lt;/strong&gt; finished early when I was playing it. It understands so well the idea of what is the core of a gaming creepypasta, but fails on complement with a mystery that, to be fair, didn&#39;t need to be explicit to pass its message. I hope to not have damaged the experience of the game to you, but I hope to have aligned your expectations so you can enjoy the best parts of this amazing work. And, if you really want to meet Reginaldo and his friends, remember: you become responsible, forever, for what you have tamed.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+  &lt;/span&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Review: Tell Me Your Story</title>
     <link href="https://gabtoschi.com/blog/review/tell-me-your-story.html"/>
