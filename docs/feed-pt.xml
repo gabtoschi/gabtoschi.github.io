@@ -4,12 +4,36 @@
   <subtitle>Oi! Sou um desenvolvedor web, designer de jogos e escritor que adora ser curioso, criativo e caótico. Boas-vindas ao meu lugar na Web!</subtitle>
   <link href="https://gabtoschi.com/feed-pt.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-05-12T00:00:00Z</updated>
+  <updated>2024-05-17T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Análise: Word Trip</title>
+    <link href="https://gabtoschi.com/pt/blog/review/word-trip.html"/>
+    <updated>2024-05-17T00:00:00Z</updated>
+    <id>https://gabtoschi.com/pt/blog/review/word-trip.html</id>
+    <content xml:lang="pt" type="html">&lt;p&gt;As pessoas às vezes presumem que sou ótimo em jogos de palavras — só porque criei &lt;a href=&quot;https://www.gabtoschi.com/letreco/&quot;&gt;uma versão popular do Wordle em português&lt;/a&gt; não significa que sou bom nesses desafios. Para ser justo, sou ainda pior nesses jogos em inglês, e foi por isso que criei uma versão localizada do Wordle, afinal. Dito isso, mesmo sendo ruim eu me divirto muito com esses jogos e minha última viagem no vocabulário foi &lt;strong&gt;Word Trip&lt;/strong&gt;, um jogo de palavras simples (e às vezes difícil) exclusivo para o &lt;a href=&quot;https://gabtoschi.com/pt/blog/playdate-analise-completa&quot;&gt;&lt;strong&gt;Playdate&lt;/strong&gt;&lt;/a&gt;, criado por Shaun Inman, a mesma pessoa por trás da incrível aventura da Season One, Ratcheteer.&lt;/p&gt;
+&lt;p&gt;Em uma partida de &lt;strong&gt;Word Trip&lt;/strong&gt;, você tem uma palavra de 4 letras na parte inferior como destino e começa com outra palavra de 4 letras na parte superior. &lt;strong&gt;Seu trabalho é usar 3 letras da palavra atual MAIS 1 letra da palavra destino para formar novas palavras de 4 letras&lt;/strong&gt; até que você possa criar a própria palavra final. E então, uma nova palavra é escolhida para o seu próximo objetivo e você continua até que seu tempo (ou combustível) acabe. Se não conseguir encontrar uma palavra, você pode pressionar os dois botões no Playdate para fazer um pit stop e reiniciar o cronômetro, mas esses “salva-vidas” também são limitados.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/word-trip/wordtrip.gif&quot; alt=&quot;Word Trip&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Pode parecer simples, mas &lt;strong&gt;o gameplay de Word Trip é mais interessante do que eu esperava&lt;/strong&gt;, mesmo para mim que não sou falante nativo de inglês. O conceito de &amp;quot;mudar uma letra de cada vez&amp;quot; me lembrou &lt;a href=&quot;https://pt.wikipedia.org/wiki/Escada_de_palavras&quot;&gt;as escadas de palavras de Lewis Carroll&lt;/a&gt;, mas a ideia de usar as letras fora de ordem inseriu um aspecto de anagrama para o jogo que eu realmente gostei. A curva de complexidade varia de um lado para o outro nos modos: você provavelmente pode chegar ao destino em 1 ou 2 etapas no Modo Fácil, mas suei para conseguir pontos no Modo Difícil.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O tema de viagem de carro não tem muito impacto no ato de jogar em si, mas achei muito legal&lt;/strong&gt;, na verdade. Ver seu carrinho viajando no mapa infinito e mudando de direção ao encontrar uma nova palavra é um detalhe fofo — e usar a manivela após o término do jogo para revisar seu caminho é um daqueles momentos perfeitos do Playdate. Acho que esta seria a oportunidade perfeita para ter um Modo Desafio com &amp;quot;itinerários de viagem fixos&amp;quot; e me prender ainda mais ao jogo, mas &lt;strong&gt;Word Trip funciona mesmo com uma abordagem mais arcade e de busca por pontuações cada vez maiores.&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/Qr1_f-Q8Klw?start=546&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;Adoro pequenos conceitos bem executados e &lt;strong&gt;Word Trip&lt;/strong&gt; é exatamente isso. O jogo é fácil de entender, mas, mesmo depois de algumas partidas, você ainda pode encontrar uma combinação de palavras que precisará quebrar a cabeça para resolver. Visualmente é legal e fofo, e o tema complementa a experiência com pequenos detalhes. Claro, o jogo poderia ser muito maior e interessante, mas toda viagem de carro pode ser legal com a mentalidade certa. Eu até adoraria ver esse jogo fora do Playdate (funcionaria perfeitamente em celulares), mas por enquanto, dá pra aproveitá-lo bastante no pequeno aparelho amarelo.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    Esta análise só foi possível pelo acesso concedido pela Panic e pelo time do Playdate a este jogo, disponível no Catalog. Obrigado pela confiança!
+  &lt;/span&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Análise: Crow Country</title>
     <link href="https://gabtoschi.com/pt/blog/review/crow-country.html"/>
