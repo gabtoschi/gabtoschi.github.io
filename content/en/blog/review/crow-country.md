@@ -22,15 +22,15 @@ description: "I never imagined that I would play a survival horror game, but Cro
 thumbnail: "/img/reviews/crow-country/thumbnail.jpg"
 ---
 
-"But, Gabriel, you are the most scared person that I know, how you played AND LOVED a survival horror game?" Yeah, everyone said that to me the past week. I always loved the work of the team at [SFB Games](https://sfbgames.com/) since I played Tangle Tower, and when I've seen their next game would be **Crow Country**, a PS1-inspired survival horror game, I got mixed feelings...  On the one hand, it seemed very well made, but at the same time, so far from the kind of things I like to play. I love being able to sleep at night, you know?
+"But, Gabriel, you are the most scared person that I know, how did you play AND LOVE a survival horror game?" Yeah, everyone said that to me the past week. I always loved the work of the team at [SFB Games](https://sfbgames.com/) since I played Tangle Tower, and when I've seen their next game would be **Crow Country**, a PS1-inspired survival horror game, I got mixed feelings...  On the one hand, it seemed very well made, but at the same time, so far from the kind of things I like to play. I love being able to sleep at night, you know?
 
-It's because this is a survival horror game that doesn't need to have to be a survival horror game if you don't want it. I explain: **Crow Country has an amazing feature called the Exploration Mode**, that disables enemy attacks and turns the experience into a "puzzle adventure game". The moment I saw this, I knew that Crow Country was my opportunity to experience a little bit of a genre that I always was too scared to try. And, as a designer, I was curious to see how the thing would work without half of its premise!?
+It's because this is a survival horror game that doesn't have to be a survival horror game — if you don't want it. I explain: **Crow Country has an amazing feature called the Exploration Mode**, that disables enemy attacks and turns the experience into a "puzzle adventure game". The moment I saw this, I knew that Crow Country was my opportunity to experience a little bit of a genre that I always was too scared to try. And, as a designer, I was curious to see how the thing would work without half of its premise!?
 
-This review is all based on **my experience of the game in the Exploration Mode** being a person that never played survival horror games before, but well-versed on puzzle solving. And as you may already assume by the scoring, **Crow Country is a great puzzle adventure game, even if you don't kill any monster in the way.**
+This review is all based on **my experience of the game in the Exploration Mode** being a person that never played survival horror games before, but well-versed on puzzle solving. And as you may already assume by the scoring, **Crow Country is a great puzzle adventure game, even if you don't kill any monster along the way.**
 
 # Always an abandoned theme park
 
-In the first scene we are presented to our protagonist **Mara Forest**, a policewoman going into **Crow Country**, this small abandoned theme park that was closed two years ago. Its owner, Edward Crow, is missing since then, as well as more information about the incidents that resulted in the place being forgotten. Mara's quest isn't only discover more about the park and its secrets, but she is determined to find Edward and the truth.
+In the first scene we are presented to our protagonist **Mara Forest**, a policewoman going into **Crow Country**, this small abandoned theme park that was closed two years ago. Its owner, Edward Crow, has been missing since then, as well as more information about the incidents that resulted in the place being forgotten. Mara's quest isn't only discover more about the park and its secrets, but she is determined to find Edward and the truth.
 
 ![Crow Country](/img/reviews/crow-country/mara.png)
 
@@ -54,7 +54,7 @@ The atmosphere is top notch, but how **Crow Country** plays when you remove comb
 
 **Puzzles on Crow Country are inspired by different types of games**: some of them are more like point-and-click games (where you collect items and use them in a different place), others are more like escape room games (where you can use the surroundings as clues to find a code). They aren't that much complicated and this isn't a problem, but the amount of pointers that you have for each one is.
 
-A common source of information in the game are notes left by park staff in the walls, and sometimes you have 2 or 3 different ones just talking the same thing about the same puzzle. I imagine that in the original survival horror mode, your exploration radius would be smaller and you couldn't find all of those repeated tips, but **in my playthrough, it felt too much guided**. This doesn't get in the way of feeling great to solve the interesting puzzles available, but advanced players can be a little bit annoyed.
+A common source of information in the game are notes left by park staff in the walls, and sometimes you have 2 or 3 different ones just talking the same thing about the same puzzle. I imagine that in the original survival horror mode, your exploration radius would be smaller and you couldn't find all of those repeated tips, but **in my playthrough, it felt too much guided**. This doesn't get in the way of feeling great when solving the interesting puzzles available, but advanced players can be a little bit annoyed.
 
 ![Crow Country](/img/reviews/crow-country/lounge.png)
 
