@@ -7,7 +7,7 @@ tags:
 
 title: "Meus 10+ jogos favoritos da Steam Vem Aí / Conferências de Junho 2024"
 date: 2024-06-17
-translate: /pt/blog/steam-next-fest-june-2024
+translate: /blog/steam-next-fest-june-2024
 
 subtitle: "Tantos jogos em só duas semanas, e esses chamaram minha atenção"
 description: "Tantos jogos em só duas semanas, e esses chamaram minha atenção! Including demos from Steam Next Fest and all other summer showcases."
