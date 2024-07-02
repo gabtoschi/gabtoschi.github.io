@@ -4,12 +4,37 @@
   <subtitle>Hi! I&#39;m a web dev, game designer and writer that loves to be curious, creative and chaotic. Welcome to my place in the Web!</subtitle>
   <link href="https://gabtoschi.com/feed.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-06-17T00:00:00Z</updated>
+  <updated>2024-07-02T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Review: POOOOL</title>
+    <link href="https://gabtoschi.com/blog/review/pooool.html"/>
+    <updated>2024-07-02T00:00:00Z</updated>
+    <id>https://gabtoschi.com/blog/review/pooool.html</id>
+    <content xml:lang="en" type="html">&lt;p&gt;When two similar things touch, they become a new one, probably bigger. There isn&#39;t any innuendo here, I&#39;m just talking about one of the &lt;strong&gt;most prolific game mechanics of the casual market&lt;/strong&gt; in the past years. I can almost remember the feeling of me as a teenager getting 2048 for the first time and just bragging with my friends, and now Suika Game is a world fever — I personally prefer the more polished and space-y &lt;a href=&quot;https://gabtoschi.com/blog/review/cosmic-collapse&quot;&gt;Cosmic Collapse&lt;/a&gt;, though.&lt;/p&gt;
+&lt;p&gt;One of the most interesting takes on the collision merge formula that I played was &lt;strong&gt;POOOOL&lt;/strong&gt;, created by game creator &lt;a href=&quot;https://x.com/noahnewline&quot;&gt;Noah King&lt;/a&gt;. Instead of watermelons or planets, your job is to &lt;strong&gt;combine colored billiards balls to get bigger ones&lt;/strong&gt;, with the main goal of merging two largest pink balls before the table gets full. A new ball appears at the bottom of the table every turn, and you can use the mouse to control the direction and speed to send it to collision course.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/pooool/pooool.jpg&quot; alt=&quot;POOOOL&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Talking this way, it&#39;s hard to understand at first why &lt;strong&gt;POOOOL&lt;/strong&gt; isn&#39;t just one more Suika clone. In the original watermelon game, all you can do is drop the fruits and expect them to shift positions as gravity wants to — probably the most frustrating part of the game for me. Here, because you have the power to send new balls wherever you want in the table, &lt;strong&gt;you can do a lot of trick shots and interesting plays&lt;/strong&gt; to get even more combos.&lt;/p&gt;
+&lt;p&gt;Playing it felt way more engaging, because &lt;strong&gt;each new action could result in more points&lt;/strong&gt; if I planned correctly. Seriously, I had just started the game just to see if it would run well on my computer and two hours passed in the blink of an eye. I still haven&#39;t been able to put together two pink balls, but I will keep trying.&lt;/p&gt;
+&lt;p&gt;That said, I think POOOOL has &lt;strong&gt;a lot of room to improve too&lt;/strong&gt;. I found some strange bugs concerning screen sizes (that I think are already being addressed by the dev) and the game lacks a lot of accessibility features, like remappable controls and colorblind support. I would also love more challenges to overcome than just getting higher scores every time. All those things don&#39;t got in the way of my experience, but they could be a problem for other people.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/FJzcFu5clwg?start=&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;Among all Suika-like games available today (and, to be fair, even counting the original 2048 and its clones), &lt;strong&gt;POOOOL&lt;/strong&gt; is probably my favorite. The idea of merging objects by colliding them is still addicting as you may expect, but the freedom you have flinging the balls through the table makes every moment engaging. All I need now is a mobile version so I can play when I&#39;m on the bathroom and my life will be completed.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+  &lt;/span&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>My 10+ favorite games from Steam Next Fest / Summer Showcases 2024</title>
     <link href="https://gabtoschi.com/blog/steam-next-fest-june-2024.html"/>
