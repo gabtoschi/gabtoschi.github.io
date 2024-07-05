@@ -4,12 +4,38 @@
   <subtitle>Hi! I&#39;m a web dev, game designer and writer that loves to be curious, creative and chaotic. Welcome to my place in the Web!</subtitle>
   <link href="https://gabtoschi.com/feed.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-07-02T00:00:00Z</updated>
+  <updated>2024-07-04T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Review: Halls of Torment (early access)</title>
+    <link href="https://gabtoschi.com/blog/review/halls-of-torment-early-access.html"/>
+    <updated>2024-07-04T00:00:00Z</updated>
+    <id>https://gabtoschi.com/blog/review/halls-of-torment-early-access.html</id>
+    <content xml:lang="en" type="html">&lt;p&gt;Although I always say that mechanics and rules are the most important part of games to me — and it&#39;s true, &lt;strong&gt;I never forget the power of well-done aesthetics&lt;/strong&gt;. Sometimes, I can see a title that I probably would love to play, but because of the visuals or the story not being exactly my cup of tea. Fortunately, there are also moments that I can jump over my preconceptions and try something really new to me, and this was the case of &lt;strong&gt;Halls of Torment&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/halls-of-torment-early-access/boss.jpg&quot; alt=&quot;Halls of Torment&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;In early access for more than a year already, anyone who sees a screenshot of &lt;strong&gt;Halls of Torment&lt;/strong&gt; can remember of some classic dungeon crawlers of the past, &lt;strong&gt;specially the first Diablo game from 1997&lt;/strong&gt;. From the isometric hellish maps to the gray, golden interface (and the big red sphere for your character&#39;s life), it&#39;s all there, and, at the same time, it&#39;s also easy to see a modern game underneath this blanket of nostalgia. I never actually played the Diablo series, but I always loved old PC games; even if conquering the layers of Hell isn&#39;t my first choice for a vacation, &lt;strong&gt;pre-rendered graphics have a special place in my heart&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;That said, &lt;strong&gt;Halls of Torment&lt;/strong&gt; can be defined as a loot-chasing, action game with procedural levels, but not in the way you expect from Diablo. In fact, it is a &lt;strong&gt;bullet heaven game&lt;/strong&gt;, inspired by other modern classics like Vampire Survivors, where you have small runs of constant character evolution and content unlocking — this was what got my attention to the game in the first place. And, to be fair, I think it is one of the most impressive in the genre that I ever seen, specially in its quest to find its own mechanical identity.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/halls-of-torment-early-access/levelup.jpg&quot; alt=&quot;Halls of Torment&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The most defining aspect of &lt;strong&gt;Halls of Torment&lt;/strong&gt; for me is &lt;strong&gt;a greater focus on action gameplay rather than creating builds&lt;/strong&gt;. Yes, you still need to choose a character to start, and then keep choosing what attributes to improve when you level up, but that idea of getting a new set of crazy weapons every time and becoming the &amp;quot;source of the bullet hell&amp;quot; isn&#39;t really true. In fact, I think that I got less options that I wanted in each run, and they started to feel too similar after some hours. New powers are way rarer, and the choosing is more between &amp;quot;+3% Range&amp;quot; or &amp;quot;0.1% Critical Damage&amp;quot;.&lt;/p&gt;
+&lt;p&gt;But, at the same time, &lt;strong&gt;when controlling the character themselves, this was the hardest bullet heaven I ever played&lt;/strong&gt;. In Vampire Survivors, it was important to keep moving and learn some crowd control techniques to win later levels, but here on &lt;strong&gt;Halls of Torment&lt;/strong&gt;, if you stop moving, &lt;strong&gt;you will die&lt;/strong&gt;. Enemies not only can catch up to you easily, but a lot of them have special techniques to damage you even from afar. All the bosses have ranged attacks that you must avoid at all costs, to the point where dealing damage ends up not even being the priority. &lt;strong&gt;It can be a bullet heaven on paper, but you will feel itself in a bullet hell easily&lt;/strong&gt; &lt;em&gt;(pun intended)&lt;/em&gt;.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/GCVIaeK504g?start=&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;To my personal taste, this was not really my preferred concept in the genre, but it&#39;s because I mostly play bullet heaven games to disassociate from my real life problems and relax while I see pretty lights flashing. &lt;strong&gt;If you always felt that those games could be too boring, Halls of Torment probably is what you asking for.&lt;/strong&gt; With more focus on how you perform a run than the build you choose to create — including options for manual aim and attacking — I think the game lies down on the other side of the genre&#39;s spectrum and I love its existence because of that.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+  &lt;/span&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Review: POOOOL</title>
     <link href="https://gabtoschi.com/blog/review/pooool.html"/>
