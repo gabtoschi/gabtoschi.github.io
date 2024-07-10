@@ -7,7 +7,7 @@ tags:
 title: "Halls of Torment (early access)"
 metatitle: "Review: Halls of Torment (early access)"
 date: 2024-07-04
-translate: /pt/blog/review/halls-of-torment-early-access
+translate: /pt/blog/review/halls-of-torment-acesso-antecipado
 
 score: 7
 cover: "/img/reviews/halls-of-torment-early-access/cover.jpg"
@@ -20,7 +20,7 @@ description: "A bullet heaven where you go to a nostalgic and literal hell: this
 thumbnail: "/img/reviews/halls-of-torment-early-access/thumbnail.jpg"
 ---
 
-Although I always say that mechanics and rules are the most important part of games to me — and it's true, **I never forget the power of well-done aesthetics**. Sometimes, I can see a title that I probably would love to play, but because of the visuals or the story not being exactly my cup of tea. Fortunately, there are also moments that I can jump over my preconceptions and try something really new to me, and this was the case of **Halls of Torment**.
+Although I always say that mechanics and rules are the most important part of games to me (and it's true), **I never forget the power of well-done aesthetics**. Sometimes, I can see a title that I probably would love to play, but I don't because of the visuals or the story not being exactly my cup of tea. Fortunately, there are also moments that I can jump over my preconceptions and try something really new to me, and this was the case of **Halls of Torment**.
 
 ![Halls of Torment](/img/reviews/halls-of-torment-early-access/boss.jpg)
 
@@ -30,12 +30,12 @@ That said, **Halls of Torment** can be defined as a loot-chasing, action game wi
 
 ![Halls of Torment](/img/reviews/halls-of-torment-early-access/levelup.jpg)
 
-The most defining aspect of **Halls of Torment** for me is **a greater focus on action gameplay rather than creating builds**. Yes, you still need to choose a character to start, and then keep choosing what attributes to improve when you level up, but that idea of getting a new set of crazy weapons every time and becoming the "source of the bullet hell" isn't really true. In fact, I think that I got less options that I wanted in each run, and they started to feel too similar after some hours. New powers are way rarer, and the choosing is more between "+3% Range" or "0.1% Critical Damage".
+The most defining aspect of **Halls of Torment** for me is **a greater focus on action gameplay rather than creating builds**. Yes, you still need to choose a character to start, and then keep choosing what attributes to improve when you level up, but that idea of getting a new set of crazy weapons every time and becoming the "source of the bullet hell" isn't really true. In fact, I think that I got less options that I wanted in each run, and they started to feel too similar after some hours. New powers are way rarer, and the choosing is more between "+3% Range" or "+0.1% Critical Damage".
 
 But, at the same time, **when controlling the character themselves, this was the hardest bullet heaven I ever played**. In Vampire Survivors, it was important to keep moving and learn some crowd control techniques to win later levels, but here on **Halls of Torment**, if you stop moving, **you will die**. Enemies not only can catch up to you easily, but a lot of them have special techniques to damage you even from afar. All the bosses have ranged attacks that you must avoid at all costs, to the point where dealing damage ends up not even being the priority. **It can be a bullet heaven on paper, but you will feel itself in a bullet hell easily** *(pun intended)*.
 
 {% render "components/youtube" id:"GCVIaeK504g" %}
 
-To my personal taste, this was not really my preferred concept in the genre, but it's because I mostly play bullet heaven games to disassociate from my real life problems and relax while I see pretty lights flashing. **If you always felt that those games could be too boring, Halls of Torment probably is what you asking for.** With more focus on how you perform a run than the build you choose to create — including options for manual aim and attacking — I think the game lies down on the other side of the genre's spectrum and I love its existence because of that.
+To my personal taste, this was not really my preferred concept in the genre, but it's because I mostly play bullet heaven games to disassociate from my real life problems and relax while I see pretty lights flashing. **If you always felt that those games could be too boring, Halls of Torment probably is what you looking for.** With more focus on how you perform a run than the build you choose to create — including options for manual aim and attacking — I think the game lies down on the other side of the genre's spectrum and I love its existence because of that.
 
 {% render "components/thanks" lang:lang %}
