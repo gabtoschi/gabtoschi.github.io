@@ -1,15 +1,27 @@
 <div class="site-header">
-  {% if lang == 'en' %}
-    <a href={{ translate | default: "/pt" }}>leia em português</a>
-    <a href="/">
-      <b class="name">Gabriel Toschi</b>
-    </a>
-    <a href="/blog">blog</a>
-  {% else %}
-    <a href={{ translate | default: "/" }}>read in english</a>
-    <a href="/pt">
-      <b class="name">Gabriel Toschi</b>
-    </a>
-    <a href="/pt/blog">blog</a>
-  {% endif %}
+  <div class="site-header-content container">
+    {% if lang == 'en' %}
+      <a href="/">
+        <b class="name">Gabriel Toschi</b>
+      </a>
+
+      <div class="site-header-links">
+        <a href={{ translate | default: "/pt" }}>🇧🇷 pt</a>
+        <a href="/tabletop"><b>tabletop games</b></a>
+        <a href="/projects">other projects</a>
+        <a href="/blog">blog</a>
+      </div>
+    {% else %}
+      <a href="/pt">
+        <b class="name">Gabriel Toschi</b>
+      </a>
+
+      <div class="site-header-links">
+        <a href={{ translate | default: "/" }}>🇬🇧 en</a>
+        <a href="/pt/tabuleiro"><b>jogos de tabuleiro</b></a>
+        <a href="/pt/projetos">outros projetos</a>
+        <a href="/pt/blog">blog</a>
+      </div>
+    {% endif %}
+  </div>
 </div>

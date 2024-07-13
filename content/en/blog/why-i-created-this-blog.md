@@ -51,7 +51,7 @@ Looking back, I really lived in the internet all of this time. If it was healthy
 
 During all this time, I was just a kid with internet access doing kid stuff. Trying things, copying the trends. I never had any success or fame, probably because I was literally copying the blogs I read or the vlogs I watched. But starting in 2011-2012, I started writing about games for real in the Web, **on sites way bigger (and more successful) than anything that I could do alone**.
 
-And, for years, I never stopped (all of them are in Portuguese, but if you want, [I listed them as part of my project list](/#projects)). I started to get some followers in social media just because I was writing about games in a medium-size portal, and that was it. It was, at least, original articles! (Progress!) I was in high school during this period, and the internet was already algorithmic and more centralized from what I used to.
+And, for years, I never stopped (all of them are in Portuguese, but if you want, [I listed them as part of my project list](/projects)). I started to get some followers in social media just because I was writing about games in a medium-size portal, and that was it. It was, at least, original articles! (Progress!) I was in high school during this period, and the internet was already algorithmic and more centralized from what I used to.
 
 Suddenly, **creating a thing by myself became a stupid idea, you know?** Why bother to start from zero when I can just write in other people's spaces? That little amount of visibility — that I never had until that point — was enough to fuel my impostor syndrome. No one would follow what a stupid boy like me, I was just lucky to get a way to write and be known about this.
 

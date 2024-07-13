@@ -4,10 +4,10 @@ layout: layouts/base
 
 <div class="home-page">
   <div class="container">
-    <div class="welcome with-newsletter">
+    <div class="welcome">
       <div class="welcome-text">
-        <h1>hi! i'm Gabriel Toschi</h1>
-        <h2>welcome to my web place!</h2>
+        <h1>hi! i'm Gabriel Toschi!</h1>
+        <h2>game designer, writer, web dev</h2>
 
         <div class="social-icons">
           <div class="social-list">
@@ -15,7 +15,7 @@ layout: layouts/base
               <a target="_blank" href={{ social.link }}>{% svg social.icon %}</a>
             {% endfor %}
           </div>
-          <span>those are the others, get in touch :)</span>
+          <span>choose one to get in touch with me!</span>
         </div>
       </div>
 
@@ -25,7 +25,11 @@ layout: layouts/base
        , url: "about" %}
     </div>
 
-    {% render "components/newsletter" %}
+    <div class="home-buttons">
+      {% for homeButton in home-buttons %}
+        <a href="{{ homeButton.link }}">{{ homeButton.name }}</a>
+      {% endfor %}
+    </div>
 
     <div class="latest-blog">
       <div class="header">
@@ -37,7 +41,7 @@ layout: layouts/base
         </h3>
       </div>
 
-      {% assign home-posts = collections.blog | reverse | first_nth: 4 %}
+      {% assign home-posts = collections.blog | reverse | first_nth: 2 %}
 
       <div class="post-list">
         {% for post in home-posts %}
@@ -58,41 +62,5 @@ layout: layouts/base
         {% endfor %}
       </div>
     </div>
-
-    <div id="projects" class="projects">
-      <div class="header">
-        <h1>my projects</h1>
-        <h3>curiosity to learn, creativity to make, chaos to have fun</h3>
-      </div>
-
-      <div class="filter">
-        {% for tag in project-tags %}
-          <button class="filter-button" id="{{ tag.key }}">
-            {{ tag.value }}
-          </button>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-
-  <div class="project-list">
-    <div class="list-content container">
-      {% for project in collections.project reversed %}
-        <div class="card-wrapper {{ project.data.tags | join: " " }}">
-          {% assign filteredTags = project.data.tags
-           | remove_intersec: not-show-tags.projects
-           | map_key_value: project-tags %}
-
-          {% render "components/full-card.liquid"
-           , image: project.data.image
-           , title: project.data.title
-           , url: project.data.link
-           , text: project.content
-           , tags: filteredTags %}
-        </div>
-      {% endfor %}
-    </div>
   </div>
 </div>
-
-<script type="text/javascript" src="/scripts/project-filter.js"></script>

@@ -5,19 +5,14 @@
     "link": "mailto:eu@gabtoschi.com"
   },
   {
-    "name": "whatsapp",
-    "icon": "icons/whatsapp",
-    "link": "https://whatsapp.com/channel/0029VaGCevz5Ui2bkdaVh51r"
-  },
-  {
-    "name": "telegram",
-    "icon": "icons/telegram",
-    "link": "https://t.me/gabtoschi"
-  },
-  {
     "name": "twitter",
     "icon": "icons/twitter",
     "link": "https://twitter.com/gabtoschi"
+  },
+  {
+    "name": "instagram",
+    "icon": "icons/instagram",
+    "link": "https://instagram.com/gabtoschi"
   },
   {
     "name": "bluesky",
@@ -33,10 +28,5 @@
     "name": "cohost",
     "icon": "icons/cohost",
     "link": "https://cohost.org/gabtoschi"
-  },
-  {
-    "name": "steam",
-    "icon": "icons/steam",
-    "link": "https://store.steampowered.com/curator/44763507/"
   }
 ]

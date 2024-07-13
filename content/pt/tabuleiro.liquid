@@ -1,0 +1,54 @@
+---
+layout: layouts/base
+translate: "/tabletop"
+---
+
+<div class="home-page">
+  <div class="container">
+    <div class="prototypes">
+      <div class="header">
+        <h1>protótipos de jogos de tabuleiro</h1>
+        <h3>aqui você encontra jogos que criei e <b>estão disponíveis para publicação</b></h3>
+        <h3>para falar sobre algum deles, mande um email para <a href="mailto:eu@gabtoschi.com"><b>eu@gabtoschi.com</b></a></h3>
+      </div>
+
+      <div class="prototype-list">
+        {% for item in collections.prototype-available-pt reversed %}
+          <div class="prototype-item">
+            <div class="image" style="background-image: url({{ item.data.image }})"></div>
+            <div class="content">
+              <span class="title"><h1>{{ item.data.title }}</h1> <h3>{{ item.data.extra }}</h3></span>
+              {{ item.content }}
+
+              <div class="links">
+                {% for link in item.data.links %}
+                  <a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+      <h1 class="section">Protótipos sob contrato</h1>
+
+      <div class="prototype-list">
+        {% for item in collections.prototype-signed-pt reversed %}
+          <div class="prototype-item">
+            <div class="image" style="background-image: url({{ item.data.image }})"></div>
+            <div class="content">
+              <span class="title"><h1>{{ item.data.title }}</h1> <h3>{{ item.data.extra }}</h3></span>
+              {{ item.content }}
+
+              <div class="links">
+                {% for link in item.data.links %}
+                  <a target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

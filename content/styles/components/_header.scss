@@ -1,4 +1,5 @@
 @use 'utilities/colors' as color;
+@use 'utilities/breakpoints' as breakpoint;
 @use 'utilities/fonts' as font;
 
 .site-header {
@@ -9,8 +10,10 @@
 
   margin-bottom: 30px;
 
-  display: flex;
-  justify-content: space-around;
+  .site-header-content {
+    display: flex;
+    justify-content: space-between;
+  }
 
   .name {
     font-family: font.$header;
@@ -19,5 +22,16 @@
 
   a, a:visited {
     color: color.$purple-dark;
+  }
+
+  .site-header-links {
+    display: flex;
+    column-gap: 12px;
+
+    @media (max-width: breakpoint.$lg) {
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: flex-end;
+    }
   }
 }

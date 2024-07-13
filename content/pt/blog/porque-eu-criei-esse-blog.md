@@ -52,7 +52,7 @@ Olhando para trás, eu realmente vivi na internet todo esse tempo. Se foi saudá
 
 Durante todo esse tempo, eu era apenas uma criança com acesso à internet fazendo coisas infantis. Experimentando coisas, copiando as tendências. Nunca tive sucesso ou fama, provavelmente porque estava literalmente copiando os blogs que lia ou os vlogs que assistia. Mas a partir de 2011-2012, comecei a escrever "de verdade" sobre jogos na Web, **em sites muito maiores (e mais bem-sucedidos) do que qualquer coisa que eu pudesse fazer sozinho.**
 
-E, durante anos, [nunca parei](/pt#projects). Comecei a ganhar seguidores nas redes sociais só porque escrevia sobre jogos em um portal de médio porte e pronto. Foram, pelo menos, artigos originais! (Progresso!) Eu estava no ensino médio nesse período e a internet já era bem mais algorítmica e centralizada do que antes.
+E, durante anos, [nunca parei](/pt/projetos). Comecei a ganhar seguidores nas redes sociais só porque escrevia sobre jogos em um portal de médio porte e pronto. Foram, pelo menos, artigos originais! (Progresso!) Eu estava no ensino médio nesse período e a internet já era bem mais algorítmica e centralizada do que antes.
 
 De repente, **criar uma coisa sozinho virou uma ideia idiota, sabe?** Por que me preocupar em começar do zero quando posso simplesmente escrever nos espaços de outras pessoas? Essa pouca visibilidade — que nunca tinha tido até então — foi suficiente para alimentar minha síndrome do impostor. Ninguém iria seguir um garoto estúpido como eu, eu já tive sorte de conseguir uma maneira de escrever e ser conhecido sobre isso.
 

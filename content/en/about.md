@@ -1,6 +1,6 @@
 ---
 layout: layouts/about
-translate: "/pt/about"
+translate: "/pt/sobre"
 
 title: "Gabriel Toschi | About me"
 thumbnail: "/img/about.jpg"
@@ -12,4 +12,4 @@ Well, what I can say about myself? If this was a job resume, I would say that I 
 
 **But you are not here for this, are you?** You probably have seen an article about Club Penguin minigames and wanted to see who wrote it! So, yeah, [I'm a person that always have been on the internet](/blog/why-i-created-this-blog), since I was born, and now I finally got a web space to be proud of. I'm always using my **curiosity** to learn about things that catch my eye, my **creativity** to make new things and remix the ones that already exists, and the **chaos** inside me to go one step further and have a little bit of fun.
 
-In this website, you will found a (non-exhaustive) of [all my past projects](/#projects), including digital and tabletop games that I made and articles that I wrote in other places. And [in my blog](/blog), I'm always writing original texts and reviews. If you want to get in touch, you can send me an email in **eu (at) gabtoschi (dot) com**, or follow me on [Telegram](https://t.me/gabtoschi), [Mastodon](https://peoplemaking.games/@gabtoschi), [Bluesky](https://bsky.app/profile/gabtoschi.com), [Twitter](https://twitter.com/gabtoschi) or [my Steam curator page](https://store.steampowered.com/curator/44763507/).
+In this website, you will found a (non-exhaustive) of [all my past projects](/projects), including digital and tabletop games that I made and articles that I wrote in other places. And [in my blog](/blog), I'm always writing original texts and reviews. If you want to get in touch, you can send me an email in **eu (at) gabtoschi (dot) com**, or follow me on [Telegram](https://t.me/gabtoschi), [Mastodon](https://peoplemaking.games/@gabtoschi), [Bluesky](https://bsky.app/profile/gabtoschi.com), [Twitter](https://twitter.com/gabtoschi) or [my Steam curator page](https://store.steampowered.com/curator/44763507/).

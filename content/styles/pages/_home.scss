@@ -63,9 +63,36 @@
     }
   }
 
-  .latest-blog {
-    margin-top: 52px;
+  .home-buttons {
+    margin-top: 48px;
+    margin-bottom: 36px;
 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+
+    a {
+      background-color: transparent;
+      border: 2px solid color.$purple-dark;
+      border-radius: 30px;
+      text-decoration: none;
+      color: color.$purple-dark;
+      filter: color.$drop-shadow;
+      text-align: center;
+
+      padding: 7px 16px;
+      font-size: 24px;
+
+      &:hover {
+        background-color: color.$purple-dark;
+        color: color.$background;
+      }
+    }
+  }
+
+  .latest-blog {
     .header {
       text-align: center;
 
@@ -199,6 +226,117 @@
 
         &.filtered {
           display: none;
+        }
+      }
+    }
+  }
+
+  .prototypes {
+    .header {
+      text-align: center;
+
+      margin-bottom: 48px;
+
+      h1 {
+        margin-bottom: 12px;
+      }
+
+      h3 {
+        font-weight: 300;
+
+        margin-top: 4px;
+        margin-bottom: 0;
+      }
+
+      a {
+        color: color.$purple-dark;
+      }
+    }
+
+    .section {
+      color: color.$purple-dark;
+
+      border-bottom: 2px solid color.$purple-dark;
+      padding-bottom: 8px;
+    }
+
+    .prototype-list {
+      margin-bottom: 72px;
+
+      display: flex;
+      flex-direction: column;
+      row-gap: 60px;
+
+
+      .prototype-item {
+        display: flex;
+        column-gap: 32px;
+        row-gap: 24px;
+
+        @media (max-width: breakpoint.$lg) {
+          flex-direction: column;
+        }
+
+        .image {
+          background-position: center;
+          background-size: cover;
+
+          min-width: 300px;
+
+          border: 2px solid color.$purple-dark;
+          border-radius: 30px;
+
+          @media (max-width: breakpoint.$lg) {
+            min-height: 250px;
+          }
+        }
+
+        .content {
+          .title {
+            display: inline-flex;
+            align-items: center;
+            column-gap: 16px;
+
+            margin-bottom: 12px;
+          }
+
+          h1 {
+            margin: 0;
+          }
+
+          h3 {
+            font-weight: 400;
+            margin: 0;
+          }
+
+          p {
+            font-size: 18px;
+          }
+        }
+
+        .links {
+          margin-top: 12px;
+
+          display: flex;
+          column-gap: 12px;
+
+          a {
+            background-color: transparent;
+            border: 2px solid color.$purple-dark;
+            border-radius: 30px;
+            text-decoration: none;
+            color: color.$purple-dark;
+            filter: color.$drop-shadow;
+            text-align: center;
+
+            padding: 7px 16px;
+            font-size: 18px;
+
+            &:hover {
+              background-color: color.$purple-dark;
+              color: color.$background;
+            }
+          }
         }
       }
     }

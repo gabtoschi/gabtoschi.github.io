@@ -19,7 +19,10 @@ $content-padding: 20px;
   height: calc($image-height + $content-height);
 
   color: color.$text;
-  filter: color.$drop-shadow;
+
+  @media (min-width: breakpoint.$lg) {
+    filter: color.$drop-shadow;
+  }
 
   .image {
     width: 100%;
@@ -54,6 +57,10 @@ $content-padding: 20px;
         font-size: 40px;
         font-weight: bold;
       }
+
+      @media (max-width: breakpoint.$lg) {
+        border-right: 1px solid color.$blue-dark;
+      }
     }
   }
 
@@ -64,6 +71,11 @@ $content-padding: 20px;
 
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+
+    @media (max-width: breakpoint.$lg) {
+      border: 1px solid color.$blue-dark;
+      border-top: none;
+    }
 
     .card-tags {
       margin-bottom: 20px;

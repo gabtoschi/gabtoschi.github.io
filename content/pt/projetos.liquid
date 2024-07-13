@@ -1,0 +1,44 @@
+---
+layout: layouts/base
+translate: "/projects"
+---
+
+<div class="home-page">
+  <div class="container">
+    <div id="projects" class="projects">
+      <div class="header">
+        <h1>meus projetos</h1>
+        <h3>curiosidade pra aprender, criatividade pra fazer, caos pra se divertir</h3>
+      </div>
+
+      <div class="filter">
+        {% for tag in project-tags-pt %}
+          <button class="filter-button" id="{{ tag.key }}">
+            {{ tag.value }}
+          </button>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <div class="project-list">
+    <div class="list-content container">
+      {% for project in collections.project-pt reversed %}
+        <div class="card-wrapper {{ project.data.tags | join: " " }}">
+          {% assign filteredTags = project.data.tags
+           | remove_intersec: not-show-tags.projects
+           | map_key_value: project-tags-pt %}
+
+          {% render "components/full-card.liquid"
+           , image: project.data.image
+           , title: project.data.title
+           , url: project.data.link
+           , text: project.content
+           , tags: filteredTags %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="/scripts/project-filter.js"></script>
