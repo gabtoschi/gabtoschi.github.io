@@ -7,7 +7,7 @@ tags:
 title: "Lorelei and the Laser Eyes"
 metatitle: "Review: Lorelei and the Laser Eyes"
 date: 2024-07-28
-translate: /pt/blog/review/lorelei-and-the-laser-eyes
+# translate: /pt/blog/review/lorelei-and-the-laser-eyes
 
 score: 10
 cover: "/img/reviews/lorelei-and-the-laser-eyes/cover.jpg"
