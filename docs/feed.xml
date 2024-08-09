@@ -4,12 +4,40 @@
   <subtitle>Hi! I&#39;m a web dev, game designer and writer that loves to be curious, creative and chaotic. Welcome to my place in the Web!</subtitle>
   <link href="https://gabtoschi.com/feed.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-07-30T00:00:00Z</updated>
+  <updated>2024-08-09T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Review: SCHiM</title>
+    <link href="https://gabtoschi.com/blog/review/schim.html"/>
+    <updated>2024-08-09T00:00:00Z</updated>
+    <id>https://gabtoschi.com/blog/review/schim.html</id>
+    <content xml:lang="en" type="html">&lt;p&gt;There&#39;s a lot of ways of discovering games nowadays. Amid so many conferences, announcements and digital stores, one of my favorites is just &lt;strong&gt;finding a cool GIF on social media&lt;/strong&gt; — and that&#39;s how I and half of the web came across &lt;strong&gt;SCHiM&lt;/strong&gt;. Created by two Dutch developers, Ewoud van der Werf and Nils Slijkerman, reverses what you probably think about a 3D platformer: instead of the objects themselves, &lt;strong&gt;what if you could just only jump on the shadows?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are presented to creatures called &amp;quot;&lt;strong&gt;schims&lt;/strong&gt;&amp;quot;: they are the soul and the spirit of everything that exists, living in our literal shadows. They never should be separated from their owners but, during the story of the game, &lt;strong&gt;we follow a schim that was separated from their owner&lt;/strong&gt;, a young man with a lot of problems in his personal and work life. Your goal is to help the schim reunite with the human, going along with his journey of adulthood and self-discovery.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/schim/city.png&quot; alt=&quot;SCHiM&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The main mechanic to achieve this goal is, well, &lt;strong&gt;jumping from shadow to shadow&lt;/strong&gt;. Controlling the schim feels great, and after the first contact, I was already in a rush, &lt;strong&gt;chaining a lot of jumps with no problems&lt;/strong&gt;. Instead of freeing controlling the camera, you always have four fixed perspectives to change — and some of them will not help you — that you need to constantly be changing to see the path forward.&lt;/p&gt;
+&lt;p&gt;Moving the shadow creature can be fun, but I was presented to &lt;strong&gt;SCHiM&lt;/strong&gt; because of the visuals and they definitely exceeded expectations. &lt;strong&gt;The vibes are perfect&lt;/strong&gt; and each map feels almost a Tetris Effect-like game of the classic Frogger. The contrast between light and shadow are presented in a full color palette, with the tones changing constantly while it remains very beautiful to look at. &lt;a href=&quot;https://moonsailor.bandcamp.com/album/schim-original-game-soundtrack&quot;&gt;The soundtrack, made by Brazilian studio Moonsailor&lt;/a&gt;, not only fits very well with the game&#39;s proposal, but it will also be a good choice for moments of relaxation in the future.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/schim/night.png&quot; alt=&quot;SCHiM&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;It&#39;s strange putting this way but... &lt;strong&gt;my big problem with SCHiM is that there&#39;s too much game to be played&lt;/strong&gt;. Yes, it&#39;s great to move the little creature and seeing beautiful pixels in the screen, but the game drags on a lot without presenting enough content for that. I loved when I find a new object to interact, and some special moments in the game are really creative, like the nighttime levels, for example. However, &lt;strong&gt;new things were so scarce&lt;/strong&gt; that it felt like I was living an eternal loop inside my own shadow.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The monotony was present even on the scenarios themselves&lt;/strong&gt;. The game goes from some really interesting concepts — like trying to understand how the shadows work in the sea at the beach — to the 10th city level in a row. Like, &lt;strong&gt;it felt like half of SCHiM is just jumping into cars&#39; shadows and crossing the roads&lt;/strong&gt; of an orange city. Those waves of being surprised and bored were really strange, and not even the story was really being developed in most of those times.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/4p8ZWSSAhXY?start=&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;At the end, I just wanted &lt;strong&gt;SCHiM&lt;/strong&gt; to be a shorter game. The visuals are truly perfect, the controls are great to learn and going with, and the story, although a little too much abstract, was interesting too. But all of this lives in the shadow of a repetitive set of levels that I couldn&#39;t jump off from. There&#39;s a lot of good things to experience here (specially if you like relaxing titles), but this is a game that will be best served in small portions during a week instead of a long session.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+  &lt;/span&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>Review: Harmony&#39;s Odyssey</title>
     <link href="https://gabtoschi.com/blog/review/harmonys-odyssey.html"/>
@@ -23,7 +51,7 @@
 &lt;p class=&quot;youtube&quot;&gt;
   &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/HoZHJrQG8ro?start=&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/p&gt;
-&lt;p&gt;Even if you&#39;re not bothered by the confusing interface or frustrating minigames, all you&#39;ll get in &lt;strong&gt;Harmony&#39;s Odyssey&lt;/strong&gt; is still mediocre jigsaw puzzles. The dioramas themselves are cute and colorful, and solving them isn&#39;t necessarily bad, but I believe that are best options in the stores if you just want to put some beautiful pieces together. I was expecting some magic in my relaxing time, but I don&#39;t think this magical wand is my type.&lt;/p&gt;
+&lt;p&gt;Even if you&#39;re not bothered by the confusing interface or frustrating minigames, all you&#39;ll get in &lt;strong&gt;Harmony&#39;s Odyssey&lt;/strong&gt; is still mediocre jigsaw puzzles. The dioramas themselves are cute and colorful, and solving them isn&#39;t necessarily bad, but I believe there are best options in the stores if you just want to put some beautiful pieces together. I was expecting some magic in my relaxing time, but I don&#39;t think this magical wand is my type.&lt;/p&gt;
 &lt;div class=&quot;thanks&quot;&gt;
   &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
   &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;

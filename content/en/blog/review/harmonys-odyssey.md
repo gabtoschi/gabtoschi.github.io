@@ -44,6 +44,6 @@ And when I think I found my way through the bizarre UI, I found **minigames in H
 
 {% render "components/youtube" id:"HoZHJrQG8ro" %}
 
-Even if you're not bothered by the confusing interface or frustrating minigames, all you'll get in **Harmony's Odyssey** is still mediocre jigsaw puzzles. The dioramas themselves are cute and colorful, and solving them isn't necessarily bad, but I believe that are best options in the stores if you just want to put some beautiful pieces together. I was expecting some magic in my relaxing time, but I don't think this magical wand is my type.
+Even if you're not bothered by the confusing interface or frustrating minigames, all you'll get in **Harmony's Odyssey** is still mediocre jigsaw puzzles. The dioramas themselves are cute and colorful, and solving them isn't necessarily bad, but I believe there are best options in the stores if you just want to put some beautiful pieces together. I was expecting some magic in my relaxing time, but I don't think this magical wand is my type.
 
 {% render "components/thanks" lang:lang %}
