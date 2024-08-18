@@ -4,12 +4,37 @@
   <subtitle>Hi! I&#39;m a web dev, game designer and writer that loves to be curious, creative and chaotic. Welcome to my place in the Web!</subtitle>
   <link href="https://gabtoschi.com/feed.xml" rel="self"/>
   <link href="https://gabtoschi.com/"/>
-  <updated>2024-08-14T00:00:00Z</updated>
+  <updated>2024-08-17T00:00:00Z</updated>
   <id>https://gabtoschi.com/</id>
   <author>
     <name>Gabriel Toschi</name>
     <email>eu@gabtoschi.com</email>
   </author>
+  <entry>
+    <title>Review: House of Golf 2</title>
+    <link href="https://gabtoschi.com/blog/review/house-of-golf-2.html"/>
+    <updated>2024-08-17T00:00:00Z</updated>
+    <id>https://gabtoschi.com/blog/review/house-of-golf-2.html</id>
+    <content xml:lang="en" type="html">&lt;p&gt;I shit talked about golf so many times in this blog already, but I cannot stop myself: with all the respect for players of the sport, I think golf is really boring. &lt;strong&gt;But mini golf is a whole other story!&lt;/strong&gt; Smaller, faster, funnier and crazier, this is a thing that I really wanted to try in real life, but &lt;strong&gt;I&#39;m always down to try a new digital version of mini golf&lt;/strong&gt;. It&#39;s like pizza: not always great, but almost always OK and enjoyable. &lt;strong&gt;House of Golf 2&lt;/strong&gt; is too much like a not-great pizza.&lt;/p&gt;
+&lt;p&gt;It&#39;s easy to summarize what &lt;strong&gt;House of Golf 2&lt;/strong&gt; has to offer: a 3D mini golf simulator &amp;quot;themed&amp;quot; around &lt;strong&gt;being really small in a common house&lt;/strong&gt;, playing on rooms like a kitchen or the garage. You start with only one course, but you can unlock more getting trophies by achieving good scores — in true golf fashion, you want to finish a hole in less swings than the hole&#39;s par limit. &lt;strong&gt;The only way you can progress here is by getting mastery of the controls and nothing else&lt;/strong&gt;; or you will be stuck with the three beginner courses forever.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gabtoschi.com/img/reviews/house-of-golf-2/golf.jpg&quot; alt=&quot;House of Golf 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;My problem here is &lt;strong&gt;how bland the game feels&lt;/strong&gt;, from the visuals to the gameplay. Yes, it&#39;s beautiful to see photorealistic cans of beans and frisbees, but &lt;strong&gt;not even the raw power of Unreal Engine 5 can compensate the boring art direction from House of Golf 2&lt;/strong&gt;. On paper, the concept of looking into a house from the &amp;quot;really small&amp;quot; perspective can open a world of possibilities — &lt;a href=&quot;https://www.mariowiki.com/Soap_Surfers&quot;&gt;Mario Party DS have done a soap surfing minigame in 2007&lt;/a&gt; and it&#39;s still one of the best things of the franchise — but here it&#39;s just a excuse to have random props scattered in the floor to act as obstacles.&lt;/p&gt;
+&lt;p&gt;To be fair, not even as obstacles sometimes. &lt;strong&gt;The gameplay on House of Golf 2 is simple but works&lt;/strong&gt;, with easy to learn controls and a good camera, but the course design was not my cup of tea. &lt;strong&gt;There&#39;s a lot of ways to get &amp;quot;Out of Bounds&amp;quot; and making the ball restart&lt;/strong&gt;, specially when it happens because the ball slips through obstacles. As I said before, the game forces you into this state of mastery: if you don&#39;t play well, you cannot have a way to learn with your mistakes than just replaying the same boring course ever and ever again.&lt;/p&gt;
+&lt;p class=&quot;youtube&quot;&gt;
+  &lt;iframe width=&quot;840&quot; height=&quot;472&quot; src=&quot;https://www.youtube.com/embed/0FGwqblKLGk?start=&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;At its best, &lt;strong&gt;House of Golf 2&lt;/strong&gt; is a working piece of game software that you can use to play decent 3D mini golf in pretty but uninspired environments. At its worst, the game doesn&#39;t do a good job of take advantage of the potential of your theme to attract attention, provide ways for different types of players to enjoy your content, or even have levels that don&#39;t just look like a bunch of objects thrown on the floor. It&#39;s like an OK pizza, if you are in the mood for it.&lt;/p&gt;
+&lt;div class=&quot;thanks&quot;&gt;
+  &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;60&quot; height=&quot;60&quot; fill=&quot;currentColor&quot; class=&quot;bi bi-box2-heart&quot; viewBox=&quot;0 0 16 16&quot;&gt;
+  &lt;path d=&quot;M8 7.982C9.664 6.309 13.825 9.236 8 13 2.175 9.236 6.336 6.31 8 7.982&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M3.75 0a1 1 0 0 0-.8.4L.1 4.2a.5.5 0 0 0-.1.3V15a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V4.5a.5.5 0 0 0-.1-.3L13.05.4a1 1 0 0 0-.8-.4h-8.5Zm0 1H7.5v3h-6zM8.5 4V1h3.75l2.25 3zM15 5v10H1V5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  &lt;span&gt;
+    The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+  &lt;/span&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>Review: Slash Quest</title>
     <link href="https://gabtoschi.com/blog/review/slash-quest.html"/>
