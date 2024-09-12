@@ -5,7 +5,7 @@ extra: 2-8p, 8min/p, 10+
 image: "/prototypes/simsilabim/image.jpg"
 links:
   - ["Video", "https://www.youtube.com/watch?v=4mdTMAi5p1M"]
-  - ["Manual de Regras", "/prototypes/simsilabim/regras-pt.pdf"]
+  - ["Regras", "/prototypes/simsilabim/regras-pt.pdf"]
   - ["Jogue Online", "https://screentop.gg/@gabtoschi/simsilabim"]
 tags:
   - prototype-pt
