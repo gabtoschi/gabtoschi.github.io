@@ -5,11 +5,6 @@
     "link": "mailto:eu@gabtoschi.com"
   },
   {
-    "name": "twitter",
-    "icon": "icons/twitter",
-    "link": "https://twitter.com/gabtoschi"
-  },
-  {
     "name": "instagram",
     "icon": "icons/instagram",
     "link": "https://instagram.com/gabtoschi"
@@ -25,8 +20,8 @@
     "link": "https://peoplemaking.games/@gabtoschi"
   },
   {
-    "name": "cohost",
-    "icon": "icons/cohost",
-    "link": "https://cohost.org/gabtoschi"
+    "name": "steam",
+    "icon": "icons/steam",
+    "link": "https://store.steampowered.com/curator/44763507/"
   }
 ]
