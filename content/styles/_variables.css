@@ -1,0 +1,78 @@
+:root {
+  --font-title: 'Poetsen One', sans-serif;
+  --font-base: 'Nunito', sans-serif;
+  --font-icon: 'Material Symbols Outlined';
+
+  --white: #ffffff;
+
+  --grey0: #6d8ea1;
+  --grey1: #3c6980;
+  --grey2: #0c4360;
+  --grey3: #09364d;
+  --grey4: #07283b;
+
+  --purple0: #9f7fc8;
+  --purple1: #8760BA;
+  --purple2: #622F8F;
+  --purple3: #4E2573;
+  --purple4: #2F114F;
+
+  --yellow-bg: #FFFCF5;
+  --yellow0: #ffdb8b;
+  --yellow1: #FFD26E;
+  --yellow2: #FFC800;
+  --yellow3: #D29500;
+  --yellow4: #895B00;
+
+  --blue0: #99d9f2;
+  --blue1: #34bbff;
+  --blue2: #00A9FF;
+  --blue3: #0188cc;
+  --blue4: #006599;
+
+  --green0: #bae69b;
+  --green1: #a2de7a;
+  --green2: #8bd657;
+  --green3: #6fab47;
+  --green4: #548035;
+
+  --orange0: #febf7c;
+  --orange1: #ffaa50;
+  --orange2: #ff9525;
+  --orange3: #e68620;
+  --orange4: #cc771d;
+
+  --pink0: #ff91ae;
+  --pink1: #ff6d92;
+  --pink2: #ff4878;
+  --pink3: #cc3a5f;
+  --pink4: #992b48;
+
+
+
+  --font-brand: "Croissant One", serif;
+
+
+  --color-text: #171717;
+  --color-bg: #f5f4f1;
+  --color-bg-translucent: rgba(255, 255, 255, 0.7);
+  --color-bg-pill: rgba(236, 192, 236, 0.301);
+  --color-bg-pill2: rgba(124, 110, 255, 0.12);
+  --color-muted: #5f5b56;
+  --color-border: rgba(23, 23, 23, 0.1);
+  --color-border2: rgba(23, 23, 23, 0.2);
+  --color-border3: rgba(255, 255, 255, 0.8);
+  --color-border4: rgba(42, 31, 65, 0.14);
+  --color-accent1: #e782a9;
+  --color-accent2: #b42e5b;
+  --color-accent3: #e6a121;
+  --color-surface: #fffdf9;
+  --color-surface2: #f2efe8;
+  --color-surface3: rgba(255, 255, 255, 0.82);
+  --color-muted-extra: #9c9994;
+  --color-available: #62bd19;
+
+  --shadow: 0 20px 40px rgba(23, 23, 23, 0.08);
+  --shadow-extra: 0 28px 60px rgba(23, 23, 23, 0.12);
+  --shadow-focus: 0 28px 60px rgba(23,23,23,0.18);
+}

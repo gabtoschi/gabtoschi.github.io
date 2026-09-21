@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/case-full.njk",
+  "header": "cases"
+}

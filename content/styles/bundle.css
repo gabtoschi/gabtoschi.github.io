@@ -1,0 +1,44 @@
+@import './_variables.css';
+@import './_animation.css';
+@import './_html.css';
+
+@import './components/_button.css';
+@import './components/_card-row.css';
+@import './components/_carousel.css';
+@import './components/_footer.css';
+@import './components/_header.css';
+@import './components/_hero-visual.css';
+@import './components/_infinite-carousel.css';
+@import './components/_link-row.css';
+@import './components/_metrics-grid.css';
+@import './components/_pill.css';
+@import './components/_two-col.css';
+
+@import './pages/_about.css';
+@import './pages/_caseFull.css';
+@import './pages/_cases.css';
+@import './pages/_home.css';
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-base);
+  background: var(--yellow-bg);
+  color: var(--grey4);
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 24px 24px 56px;
+
+  @media (max-width: 650px) {
+    padding: 16px 16px 40px;
+  }
+}
+
+#base-wrapper {
+  display: flex;
+  flex-direction: column;
+}

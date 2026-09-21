@@ -1,100 +1,60 @@
-const sass = require('sass');
-const path = require('path');
-const fs = require('fs');
+import lightningCSS from "@11tyrocks/eleventy-plugin-lightningcss";
+import { I18nPlugin, RenderPlugin } from "@11ty/eleventy";
 
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+import keepLangFilter from './_includes/filters/keep-lang-filter.js';
+import l10nFilter from './_includes/filters/l10n-filter.js';
+import sectionFilter from './_includes/filters/section-filter.js';
+import switchLangFilter from './_includes/filters/switch-lang-filter.js';
 
-const DEFAULT_LANG = 'en';
-const TAGS_WITHOUT_PAGES = ['blog', 'blogpt', 'article'];
+import cardRowShortcode from './_includes/shortcodes/card-row-shortcode.js';
+import carouselShortcode from './_includes/shortcodes/carousel-shortcode.js';
+import heroVisualShortcode from './_includes/shortcodes/hero-visual-shortcode.js';
+import infiniteCarouselShortcode from './_includes/shortcodes/infinite-carousel-shortcode.js';
+import linkRowShortcode from './_includes/shortcodes/link-row-shortcode.js';
+import metricsGridShortcode from './_includes/shortcodes/metrics-grid-shortcode.js';
+import pillShortcode from './_includes/shortcodes/pill-shortcode.js';
+import twoColShortcode from './_includes/shortcodes/two-col-shortcode.js';
+import wrapShortcode from './_includes/shortcodes/wrap-shortcode.js';
 
-function eleventyComputedPermalink() {
-	return (data) => {
-		if (data.noRender) return false;
+export default async function(eleventyConfig) {
+	// default localization (english)
+	eleventyConfig.addGlobalData('dir', 'ltr');
+	eleventyConfig.addGlobalData('lang', 'en');
 
-		return data.permalink;
-	}
-};
+	eleventyConfig.addPassthroughCopy("assets");
 
-function eleventyComputedTagsWithPages() {
-  return (data) => {
-    const tagsWithPages = data['blog-tags'].filter(tag => !TAGS_WITHOUT_PAGES.includes(tag.key)).map(tag => tag.key);
-    return tagsWithPages
-  }
-}
+	eleventyConfig.addPlugin(lightningCSS);
+	eleventyConfig.addPlugin(I18nPlugin, { defaultLanguage: 'en', errorMode: 'never' });
+	eleventyConfig.addPlugin(RenderPlugin);
 
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(pluginRss);
+	eleventyConfig.addFilter('keepLang', keepLangFilter);
+	eleventyConfig.addFilter('t', l10nFilter);
+	eleventyConfig.addFilter('section', sectionFilter);
+	eleventyConfig.addFilter('switchLang', switchLangFilter);
 
-  eleventyConfig.addGlobalData('lang', DEFAULT_LANG);
-  eleventyConfig.addGlobalData("eleventyComputed.permalink", eleventyComputedPermalink);
-  eleventyConfig.addGlobalData("eleventyComputed.tagsWithPages", eleventyComputedTagsWithPages);
+	eleventyConfig.addShortcode('heroVisual', heroVisualShortcode);
+	eleventyConfig.addShortcode('metricsGrid', metricsGridShortcode);
+	eleventyConfig.addShortcode('pill', pillShortcode);
+	eleventyConfig.addShortcode('carousel', carouselShortcode);
+	eleventyConfig.addShortcode('linkRow', linkRowShortcode);
+	eleventyConfig.addShortcode('infiniteCarousel', infiniteCarouselShortcode);
 
-  eleventyConfig.addPassthroughCopy('content/img');
-  eleventyConfig.addPassthroughCopy('content/scripts');
-  eleventyConfig.addPassthroughCopy('content/prototypes');
-  eleventyConfig.addPassthroughCopy('CNAME');
+	eleventyConfig.addPairedAsyncShortcode('twoCol', async function(content) {
+		return twoColShortcode(this, eleventyConfig, content);
+	});
+	eleventyConfig.addPairedAsyncShortcode('wrap', async function(content) {
+		return wrapShortcode(this, eleventyConfig, content);
+	});
+	eleventyConfig.addPairedAsyncShortcode('cardRow', async function(content, cols) {
+		return cardRowShortcode(this, eleventyConfig, content, cols);
+	});
 
-  eleventyConfig.addTemplateFormats('scss');
-  eleventyConfig.addExtension('scss', {
-    outputFileExtension: 'css',
-
-    compile: async function (inputContent, inputPath) {
-      let parsed = path.parse(inputPath);
-      if (parsed.name.startsWith('_')) {
-        return;
-      }
-
-      let result = sass.compileString(inputContent, {
-        loadPaths: [parsed.dir || '.'],
-        sourceMap: false,
-      });
-
-      this.addDependencies(inputPath, result.loadedUrls);
-
-      return async () => {
-        return result.css;
-      };
-    },
-  });
-
-  eleventyConfig.addShortcode('svg', function (file) {
-    const relativeFilePath = `./content/img/${file}.svg`;
-    const data = fs.readFileSync(relativeFilePath, (err, contents) => {
-      if (err) return err;
-      return contents;
-    });
-
-    return data.toString('utf8');
-  });
-
-  eleventyConfig.addFilter('remove_intersec', function(array, toRemove) {
-    if (!Array.isArray(array) || !Array.isArray(toRemove)) return array;
-
-    return array.filter(el => !toRemove.includes(el));
-  });
-
-  eleventyConfig.addFilter('map_key_value', function(array, keyValues) {
-    if (!Array.isArray(array) || !Array.isArray(keyValues)) return array;
-
-    return array.map(el => {
-      const found = keyValues.find(({ key }) => el === key);
-      if (found) return found.value;
-      return el;
-    });
-  });
-
-  eleventyConfig.addFilter('first_nth', function(array, nth) {
-    if (!Array.isArray(array)) return array;
-
-    return array.slice(0, nth);
-  });
-
-  return {
-    dir: {
+	return {
+		dir: {
 			input: 'content',          // default: '.'
-			includes: '../_includes',  // default: '_includes'
+			includes: '../_includes',  // default: '_includes',
 			data: '../_data',          // default: '_data'
-			output: 'docs'
 		},
-  }
+		markdownTemplateEngine: "njk",
+	}
 };
