@@ -4,23 +4,31 @@
   const hoverTrigger = document.querySelector('.hi-right');
   const backs = document.querySelectorAll('.back-item');
 
-  let currentBack = -1;
+  const shuffle = (old) => {
+    const array = [...old];
+
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+
+    return array;
+  }
+
+  const backLen = backs.length;
+  let randomIndexes = shuffle([...Array(backs.length).keys()]);
+  let currentRandomIndex = 0;
+
   let changeTimeout = null;
 
   const changeBack = () => {
-    const len = backs.length;
-    let randomIndex = Math.floor(Math.random() * len);
-    if (randomIndex === currentBack) randomIndex = (randomIndex + 1) % len;
+    const oldBack = randomIndexes[currentRandomIndex];
+    currentRandomIndex = (currentRandomIndex + 1) % backLen;
+    const newBack = randomIndexes[currentRandomIndex];
 
-    for (let i = 0; i < len; i++) {
-      if (i == randomIndex) {
-        backs[i].classList.remove('hidden');
-      } else {
-        backs[i].classList.add('hidden');
-      }
-    }
+    backs[oldBack].classList.add('hidden');
+    backs[newBack].classList.remove('hidden');
 
-    currentBack = randomIndex;
     changeTimeout = null;
   }
 
