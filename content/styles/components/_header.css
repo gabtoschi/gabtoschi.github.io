@@ -118,8 +118,12 @@
 
       &.active {
         background-color: var(--purple2);
-        color: var(--yellow-bg);
+        color: var(--yellow-bg0);
         cursor: default;
+      }
+
+      &:not(.active):hover {
+        background-color: var(--purple-bg);
       }
     }
   }

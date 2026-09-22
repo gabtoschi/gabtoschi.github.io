@@ -11,13 +11,16 @@
   --grey3: #09364d;
   --grey4: #07283b;
 
+  --purple-bg: #e8e1f1;
   --purple0: #9f7fc8;
   --purple1: #8760BA;
   --purple2: #622F8F;
   --purple3: #4E2573;
   --purple4: #2F114F;
 
-  --yellow-bg: #FFFCF5;
+  --yellow-bg0: #FFFCF5;
+  --yellow-bg1: #f8f1e1;
+  --yellow-bg2: #f5ead4;
   --yellow0: #ffdb8b;
   --yellow1: #FFD26E;
   --yellow2: #FFC800;

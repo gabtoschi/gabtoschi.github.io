@@ -1,20 +1,30 @@
 @import '../_variables.css';
 
 .pill {
-  --pill-bg: var(--color-bg-pill);
-  --pill-weight: 500;
+  display: inline;
+  padding: 6px 16px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  text-align: center;
 
-  display: inline-block;
-  padding: 6px 10px;
-  border-radius: 999px;
-  background: var(--pill-bg);
-  color: var(--color-accent2);
-  font-size: 0.8rem;
-  font-weight: var(--pill-weight);
-  margin-bottom: 10px;
+  font-family: var(--text-base);
+  color: var(--white);
+  font-weight: 700;
+  font-size: 14;
 
-  &.secondary {
-    --pill-bg: var(--color-bg-pill2);
-    --pill-weight: 700;
+  &.blue {
+    background-color: var(--blue3);
+  }
+
+  &.orange {
+    background-color: var(--orange3);
+  }
+
+  &.green {
+    background-color: var(--green3);
+  }
+
+  &.pink {
+    background-color: var(--pink3);
   }
 }

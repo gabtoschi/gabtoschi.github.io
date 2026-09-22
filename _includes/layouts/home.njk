@@ -3,72 +3,65 @@ layout: layouts/base.njk
 header: home
 ---
 
-<section class="home-hero">
-  <div>
-    <h5>{{ 'home.hero.eyebrow' | t }}</h5>
-    <h1>{{ 'home.hero.title' | t }}</h1>
-    <p class="hero-subtitle">{{ 'home.hero.subtitle' | t }}</p>
-    <p class="hero-text">{{ 'home.hero.text' | t }}</p>
-
-    <br/>
-
-    <div class="hero-actions">
-      <a class="btn primary" href="{{ '/cases' | keepLang }}">{{ 'home.hero.btn.cases' | t }}</a>
-      <a class="btn secondary" href="{{ '/about' | keepLang }}">{{ 'home.hero.btn.contact' | t }}</a>
-    </div>
+<section class="section-hi">
+  <div class="hi-left">
+    <h1>{{ 'home.hi.title' | t }}</h1>
+    <span>{{ 'home.hi.text1' | t }}<b>{{ 'home.hi.text2' | t }}</b>{{ 'home.hi.text3' | t }}</span>
+    <span><a class="btn primary large" href='/contact'>{{ 'home.hi.button' | t }}</a></span>
   </div>
-
-  {% heroVisual '', true %}
-</section>
-
-<section class="about-teaser">
-  <div>
-    <h5>{{ 'home.about.label' | t }}</h5>
-    <h2 class="sans">{{ 'home.about.title' | t }}</h2>
-  </div>
-
-  <div class="about-text">
-    <p>{{ 'home.about.text' | t }}</p>
-    <br/>
-    <a class="link" href="{{ '/about' | keepLang }}">{{ 'home.about.link' | t }}</a>
-  </div>
-</section>
-
-<section class="featured-work">
-  <div class="featured-head">
-    <div>
-      <h5>{{ 'home.featured.label' | t }}</h5>
-      <h2>{{ 'home.featured.title' | t }}</h2>
-    </div>
-    <a class="link" href="{{ '/cases' | keepLang }}">{{ 'home.featured.link' | t }}</a>
-  </div>
-  
-  <div class="featured-grid">
-    {% for case in collections[['cases-', lang ] | join] %}
-      <a class="featured-card" href="{{ case.url }}">
-        <div class="card-visual askflow" style="background-image: url('{{ case.data.thumbnail }}');"></div>
-        
-        <div class="card-content">
-          {% pill case.data.homePill %}
-
-          <h3>{{ case.data.homeTitle }}</h3>
-          <p>{{ case.data.homeDescription }}</p>
-          <ul>
-            {% for item in case.data.homeHighlights %}
-              <li>{{ item }}</li>
-            {% endfor %}
-          </ul>
+  <div class="hi-right">
+    <div class="card-back">
+      {% for item in hiBacks %}
+        <div class="back-item hidden">
+          <span class="back-label">{{ item.label }}</span>
+          <div class="back-img" style="background-image: url('{{ item.img }}')"></div>
         </div>
+      {% endfor %}     
+    </div>
+    <div class="card-front"></div>
+  </div>
+</section>
+
+<section class="section-games">
+  <div class="games-header">
+    <h3>{{ 'home.games.title' | t }}</h3>
+    <span><a class="btn primary small" href='/games'>{{ 'home.games.button' | t }}</a></span>
+  </div>
+
+  <div class="games-list">
+    {% for item in collections[['games-', lang] | join] | reverse | firstNth(6) %}
+      <a href="{{ item.page.url }}" class="game-item">
+        <img alt="{{ item.data.title }}" src="{{ item.data.cover }}" />
       </a>
     {% endfor %}
   </div>
 </section>
 
-<section class="contact-teaser">
-  <div>
-    <h5>{{ 'home.contact.label' | t }}</h5>
-    <h4>{{ 'home.contact.title' | t }}</h4>
+<section class="section-prototypes">
+  <div class="proto-left">
+    <h1>{{ 'home.prototypes.title' | t }}</h1>
+    <span><a class="btn primary large" href='/prototypes'>{{ 'home.prototypes.button' | t }}</a></span>
   </div>
 
-  <a class="btn primary" href="{{ '/about' | keepLang }}">{{ 'home.contact.link' | t }}</a>
+  <div class="proto-right"></div>
 </section>
+
+<section class="section-blog">
+  <div class="blog-header">
+    <h3>{{ 'home.blog.title' | t }}</h3>
+    <span><a class="btn primary small" href='/blog'>{{ 'home.blog.button' | t }}</a></span>
+  </div>
+
+  <div class="post-list">
+    {% for item in collections[['blog-', lang] | join] | reverse | firstNth(10) %}
+      <div class="post-item">
+        <span class="pill-wrapper">
+          <span class="pill {{ item.data.pill }}">{{ item.data.category }}</span>
+        </span>
+        <a href="{{ item.page.url }}">{{ item.data.title }}</a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<script src="/assets/scripts/hi-card.js"></script>

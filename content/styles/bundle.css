@@ -15,23 +15,25 @@
 @import './components/_two-col.css';
 
 @import './pages/_about.css';
-@import './pages/_caseFull.css';
-@import './pages/_cases.css';
+@import './pages/_archive.css';
 @import './pages/_home.css';
+@import './pages/_prototypes.css';
 
 body {
   margin: 0;
   min-height: 100vh;
   font-family: var(--font-base);
-  background: var(--yellow-bg);
+  background: var(--yellow-bg0);
   color: var(--grey4);
   -webkit-font-smoothing: antialiased;
 }
 
 .container {
+  width: 90%;
   max-width: 1240px;
   margin: 0 auto;
   padding: 24px 24px 56px;
+  flex-grow: 1;
 
   @media (max-width: 650px) {
     padding: 16px 16px 40px;
@@ -41,4 +43,5 @@ body {
 #base-wrapper {
   display: flex;
   flex-direction: column;
+  min-height: 100vh;
 }

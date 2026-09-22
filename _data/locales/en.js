@@ -1,10 +1,35 @@
 export default {
   'header.nav.about': 'About',
-  'header.nav.portfolio': 'Portfolio',
+  'header.nav.games': 'Games',
   'header.nav.prototypes': 'Prototypes',
   'header.nav.blog': 'Blog',
   'header.nav.contact': 'Contact',
 
   'footer.text': 'find me elsewhere!',
-  'footer.date': '2026  •  made with love, code & guaraná',
+  'footer.date': '2026  •  made with love by an actual human being',
+
+  'home.hi.title': 'Hi, I\'m Gabriel Toschi!',
+  'home.hi.text1': 'I connect people by ',
+  'home.hi.text2': 'designing tabletop and digital games',
+  'home.hi.text3': ', changing the world one round at a time.',
+  'home.hi.button': 'Let\'s work together!',
+  'home.games.title': 'Recently published games',
+  'home.games.button': 'See all games',
+  'home.prototypes.title': 'I\'ve got prototypes looking for a home!',
+  'home.prototypes.button': 'Publish my next game',
+  'home.blog.title': 'Latest blog posts & stories',
+  'home.blog.button': 'Read all posts',
+
+  'prototypes.button.video': 'Pitch Video',
+  'prototypes.button.play': 'Play Online',
+  'prototypes.button.sheet': 'Sell Sheet',
+  'prototypes.button.rules': 'Rulebook',
+  'prototypes.button.pnp': 'Print & Play',
+
+  'about.header.title': 'Hi, I\'m Gabriel Toschi!',
+  'about.header.subtitle': 'Nice to meet you! Let\'s play a game?',
+  'about.cta.title': 'Let\'s work together?',
+  'about.cta.subtitle': 'Tell me your game design needs',
+  'about.cta.button': 'Contact me now',
+  'about.clipping.title': 'Awards, interviews and talks',
 }

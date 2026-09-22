@@ -1,0 +1,147 @@
+@import '../_variables.css';
+
+.page-prototypes {
+  --card-radius: 16px;
+  --left-width: 60%;
+
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+
+  @media (max-width: 1000px) {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .proto-card {
+    display: flex;
+    justify-content: space-between;
+    gap: 0px;
+
+    @media (max-width: 1000px) {
+      flex-direction: column-reverse;
+      align-items: center;
+      width: 100%;
+    }
+
+    .proto-left {
+      width: var(--left-width);
+      background-color: var(--yellow-bg1);
+      padding: 16px 32px;
+      border-radius: var(--card-radius) 0px 0px var(--card-radius);
+
+      @media (max-width: 1000px) {
+        border-radius: 0 0 var(--card-radius) var(--card-radius);
+        width: auto;
+      }
+
+      h1 {
+        font-family: var(--font-title);
+        font-size: 64px;
+        text-shadow: 4px 4px var(--white);
+      }
+
+      h5 {
+        font-family: var(--font-base);
+        font-size: 20px;
+        font-weight: 700;
+        margin: 0;
+      }
+
+      p {
+        font-size: 16px;
+        min-height: 120px;
+      }
+
+      .proto-buttons {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+        gap: 16px;
+
+        @media (max-width: 1000px) {
+          justify-content: center;
+        }
+
+        a {
+          padding: 10px;
+          background-color: var(--yellow-bg0);
+          border-radius: 32;
+          border: 1px solid var(--white);
+
+          text-decoration: none;
+          color: var(--grey4);
+
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 8px;
+
+          &:hover {
+            border-color: var(--purple2);
+          }
+
+          .icon {
+            font-family: var(--font-icon);
+            font-size: 20px;
+          }
+
+          .label {
+            font-size: 14px;
+            font-weight: 650;
+          }
+        }
+      }
+    }
+
+    .proto-right {
+      width: calc(100% - var(--left-width));
+      background-color: var(--yellow-bg2);
+      border-radius: 0px var(--card-radius) var(--card-radius) 0px;
+
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+
+      @media (max-width: 1000px) {
+        width: stretch;
+        height: 380px;
+        border-radius: var(--card-radius) var(--card-radius) 0 0;
+      }
+
+      .proto-thumb {
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        background-size: cover;
+        background-position: center;
+      }
+
+      .proto-info {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 16px;
+
+        span {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 6px;
+        }
+
+        .icon {
+          font-family: var(--font-icon);
+          font-size: 20px;
+        }
+
+        .label {
+          font-weight: 600;
+        }
+      }
+    }
+  }
+}
