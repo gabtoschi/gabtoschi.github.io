@@ -60,6 +60,6 @@ The fame **Lorelei and the Laser Eyes** got was "the game that you will take not
 
 And I need to be careful not to spoil the surprise (and believe me, they are incredible surprises), but one of the highest moments in the game for me is how **Lorelei and the Laser Eyes present the players with different and remarkable interfaces**, inviting you to explore the same location (and more) in new ways. This not only just stacks one more layer in the already amazing storytelling, but also allows for more puzzle types to be included in a natural form.
 
- render "components/youtube" id:"4cUALKIQm4c"
+ {% yt '4cUALKIQm4c' %}
 
 I don't like to write about Simogo games because they always get me with no words at the end. **Lorelei and the Laser Eyes** is a unique experience that uses the medium and the genre at maximum to tell pieces of a mysterious and interesting story — and asks you to fill in the missing parts. With perfect aesthetics that keeps getting better and fair puzzles that never underestimate the players, I don't think I can recommend enough a stay at this hotel: for those who like to put their minds to work, or at least for the ones that can't sleep without finding the truth.

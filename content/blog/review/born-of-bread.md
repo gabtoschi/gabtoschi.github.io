@@ -39,7 +39,7 @@ There's nothing wrong with creating a new game using a structure that even Ninte
 
 **Born of Bread**, created by the [WildArts](https://www.wildartsgames.com/) team and published by [Dear Villagers](https://dearvillagers.com/), is a Paperverse game, of course. The star, instead of the red plumber, is Loaf, a bread golem that gains life during a riot at his kingdom by creatures from the past. His job is to find friends and save the world recovering pieces of a special gem, that was broken into pieces and long forgotten.
 
- render "components/youtube" id:'qbF1Jmvxdw8'
+{% yt 'qbF1Jmvxdw8' %}
 
 Everything that I listed before is in the game. The visuals are exceptionally gorgeous, with some detailed animations and really cool scenarios — I don't think if this justify the "next-gen" compatibility on Xbox and PlayStation although. The maps are small, but you are invited to explore them using Loaf (or their friends) abilities. And even the action commands are there, to press buttons at the certain times and do more damage. The recipe is there, and it's cooked.
 
@@ -79,4 +79,6 @@ Why I would bother to write that amount of text just to say the game is kinda OK
 
 You want a pretty, funny and easy Paperverse RPG? Born of Bread is ready for you to eat and can be served in any digital store of your preference. But the strong flavor that only well-made and focused mechanics can give isn't in the menu, unfortunately.
 
- render "components/thanks" message:"This article was made using a review copy sent by the development team to CosmoNerd, where I wrote my original review about the game. Thanks for the trust, devs!"
+{% iconText 'favorite' %}
+  This article was made using a review copy sent by the development team to CosmoNerd, where I wrote my original review about the game. Thanks for the trust, devs!
+{% endiconText %}

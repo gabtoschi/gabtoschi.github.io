@@ -46,8 +46,10 @@ It's strange putting this way but... **my big problem with SCHiM is that there's
 
 **The monotony was present even on the scenarios themselves**. The game goes from some really interesting concepts — like trying to understand how the shadows work in the sea at the beach — to the 10th city level in a row. Like, **it felt like half of SCHiM is just jumping into cars' shadows and crossing the roads** of an orange city. Those waves of being surprised and bored were really strange, and not even the story was really being developed in most of those times.
 
- render "components/youtube" id:"4p8ZWSSAhXY"
+ {% yt '4p8ZWSSAhXY' %}
 
 At the end, I just wanted **SCHiM** to be a shorter game. The visuals are truly perfect, the controls are great to learn and going with, and the story, although a little too much abstract, was interesting too. But all of this lives in the shadow of a repetitive set of levels that I couldn't jump off from. There's a lot of good things to experience here (specially if you like relaxing titles), but this is a game that will be best served in small portions during a week instead of a long session.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

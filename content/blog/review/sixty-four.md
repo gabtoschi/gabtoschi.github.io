@@ -37,8 +37,10 @@ I played **Sixty Four** for at least 20 hours, but most of that time all the dev
 
 Not even the narrative that tries to glue all of that together was enough to get me engaged. The mystery behind a white void that spawns black cubes from nowhere is cool — and as far as I know, the plot itself goes to interesting places at the end — but **the pacing is one of the worst I ever seen**. For a ridiculous amount of time, all you can see is chat messages between two people who cannot, for the life of them, describe what is happening. The abstract atmosphere also makes it difficult to understand what to do next in **Sixty Four**, and the game doesn't do a good job to show you the next task.
 
- render "components/youtube" id:"hpnVi2XTB-k"
+ {% yt 'hpnVi2XTB-k' %}
 
 For a genre that always gets a bad reputation of being too simple to be that addictive, I'm impressed how **Sixty Four** is an idle game that made me less excited the more I played. This package is full of content, way more that a lot of other clicker titles — a mysterious story, some puzzling mechanics, a lot of resources to manage — but, at the end, the experience is so boring that I can only recommend it to those who are really big fans of the genre. Sometimes less is more, but I don't think this little amount of fun is worth the enormous amount of hours this white void asks from you.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

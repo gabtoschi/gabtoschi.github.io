@@ -36,8 +36,10 @@ That said, I don't think you should play **Duck Detective: The Secret Salami** p
 
 **The rest of the cast is also amazing and too damn funny** — as I said, how not to love quirky animals with quirky personalities? The strange geek alligator, the old penguin that hates teens, the cute sheep that probably listened too much true crime podcasts... My favorite is the workaholic cat trying to balance stress and the clients she needs to talk to (too relatable). The scripts and jokes are great, but **the work done by the voice actors was responsible for, at least, 50% of my love for those characters.**
 
- render "components/youtube" id:"FhEL3r_nq2s"
+ {% yt 'FhEL3r_nq2s' %}
 
 After some hours in this office, I just wanted more of that little world and those strange animals. **Duck Detective: The Secret Salami** isn't exactly a masterpiece in gameplay — although it even does its job of offering interesting challenges —, but it shines with their amazing cast of characters and the story by itself. I don't know what the team at Happy Broccoli Games is planning next, but I think that our Duck Detective needs more money and I would love to join him on some more cases.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

@@ -50,8 +50,10 @@ I want to give special praise to **Promenade**'s version of dungeons, that were,
 
 The **hub world by itself, The Great Elevator, is also a big puzzle**, with a lot of cog parts to find and collect. Unfortunately, although you have some great arcade-inspired minigames, you also have the constant need of bringing specific objects from different parts of the map (or even from inside the worlds) to specific points. And you can only carry one of them at a time, so it gets very boring very fast. Fortunately, you don't need to collect 100% of the cogs to finish the game, so you can just do what you think it's fun and go for it.
 
- render "components/youtube" id:"j32IImZEx3g"
+ {% yt 'j32IImZEx3g' %}
 
 You create a 3D world with cool challenges and puzzles and a lot to collect, put me in there and I'll probably love it. But I didn't really expected how much I loved having this experience in 2D when playing **Promenade**. Despite some strange controls and some boring backtracking, Nemo's adventure in the floors of The Great Elevator filled me with joy for days. Every good puzzle that I solved, every new character I met, it just shows how much gaming as a medium has yet to offer if we try new combinations. I would love more 2D collectathons, please!
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

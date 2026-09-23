@@ -60,8 +60,10 @@ If you still need one more step on complexity, **Slash Quest** still has a lot o
 
 Although the prize for finish them were even more customization — including some seasonal event ones, I got a lot of sport gear because of the Olympics —, it's definitely **not cozy as the story levels** and I didn't engaged that much with them (besides the reflective arrow minigame which is really cool). That said, I can see how many people will love this more than the rest of **Slash Quest** content for sure.
 
- render "components/youtube" id:"EuN8UUn7Q_Q"
+ {% yt 'EuN8UUn7Q_Q' %}
 
 Without cutting out (!) too much details, I really enjoyed my time in **Slash Quest**. It's a nice package of mechanics and charisma that isn't always spectacular, but **knows how to utilize its gimmick well enough to create a fun, engaging and really cute adventure**, with a lot of layers that allows players to choose how much they want to go deep in the game without blocking progression. I really happy this snobbish sword is finally free to have quests outside the Apple realm, and if you just want a cozy time with it, I just ask that you hold on tight and take your dizzy medication....
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

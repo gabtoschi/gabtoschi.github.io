@@ -40,6 +40,6 @@ A thing that I wasn't expecting of this whole idea is **how inviting the game's 
 
 I can completely see **the new bigger 3D Mario game following the steps of Bowser's Fury**. Give me five or six "worlds" like this, with different themes and "big problems" to solve and I'll be really happy fan. I love how some games in the franchise (like TTYD or even Odyssey) use different narratives in each of their chapters, and I think this cluster-based way of organizing the collectables would be a great way to pull this off.
 
- render "components/youtube" id:"ppkX8epoD9g"
+ {% yt 'ppkX8epoD9g' %}
 
 **Bowser's Fury as a game by itself is not perfect**. Using the 3D World engine was not the best decision for me, and the classic power-up system was more of a pain to manage. The distribution of this short adventure is also a problem by its price tag, specially if you already played its parent game on the Wii U. But I can't stop praising **Bowser's Fury as a blueprint for Mario titles in the future**. Although it can seems strange in the beginning, this new way to present the game was more inviting, interesting and intriguing even than Odyssey's kingdoms or Galaxy's planets. I can't see the future (and I don't have an uncle that works at Nintendo), but I can only hope that the future of the Italian plumber can learn more with his cats.

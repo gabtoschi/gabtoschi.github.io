@@ -14,9 +14,14 @@
   text-align: center;
   vertical-align: center;
 
+  --icon-size: 32px;
+  --icon-gap: 12px;
+
   &.small {
     padding: 6px 10px;
     font-size: 14px;
+    --icon-size: 16px;
+    --icon-gap: 8px;
   }
 
   &.medium {
@@ -39,11 +44,21 @@
   }
 
   &.secondary {
-    color: var(--grey4);
-    background-color: var(--yellow2);
+    color: var(--purple2);
+    background-color: var(--white);
+    border: 2px solid var(--purple3);
 
     &:hover {
-      background-color: var(--yellow1);
+      background-color: var(--purple-bg);
     }
+  }
+
+  .icon {
+    width: var(--icon-size);
+    height: var(--icon-size);
+    font-size: var(--icon-size);
+
+    font-family: var(--font-icon);
+    margin-right: var(--icon-gap);
   }
 }

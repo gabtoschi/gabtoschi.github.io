@@ -32,8 +32,10 @@ In reality, nothing really works that well. **The "puzzle" is just connecting tw
 
 I imagine that on PC, using a mouse, **Storyblocks: The King** has a better usability, but playing it on the Nintendo Switch was also a nightmare by itself. The control choice is strange — it isn't okay to use Y instead of the Home button to open the menu, you know —, all the grid navigation is cursor-based even on a joystick and you can't even use touch controls on Portable Mode. Play this game is a challenge by itself, and if you want to find other "complete stories", you need to repeat the first levels every time you start a new "run".
 
- render "components/youtube" id:"2sMXrCFCgGU"
+ {% yt '2sMXrCFCgGU' %}
 
 As a fan of low-budget cozy puzzle games, I'm really disappointed. As I said, **Storyblocks: The King** has a great potential conceptually, but **the execution is far away from a pleasant experience**. The stories are generic, the "puzzle" is repetitive and lacks any kind of depth, and the controls make it even hard to get any fun from the package. I know that you shouldn't judge a book by its cover (or by a review from a blog), but you are probably better going after other stories.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

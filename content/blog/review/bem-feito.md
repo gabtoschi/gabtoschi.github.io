@@ -39,8 +39,10 @@ Visually, **Bem Feito** also does its job really well. It's great how the game u
 
 Instead of rewarding a good exploration of the ROM, or smart players that connected the dots, 90% of this part of the game is just... reading? All the passwords you need to access locked information are on the game achievements' names, and **even you can find a secret or two by yourself, I don't think it was satisfactory.** Without this lore dump, the adventures of Reginaldo were truly a mystery with a message, but now, it feels something too artificial. I know that every theory in our heads are better than all the true stories we learn after, but **the riddle was so plain that I wish I hadn't tasted it**.
 
- render "components/youtube" id:"bIJLmvAn46Q"
+ {% yt 'bIJLmvAn46Q' %}
 
 It's strange to say like that, but I wish **Bem Feito** finished early when I was playing it. It understands so well the idea of what is the core of a gaming creepypasta, but fails on complement with a mystery that, to be fair, didn't need to be explicit to pass its message. I hope to not have damaged the experience of the game to you, but I hope to have aligned your expectations so you can enjoy the best parts of this amazing work. And, if you really want to meet Reginaldo and his friends, remember: you become responsible, forever, for what you have tamed.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

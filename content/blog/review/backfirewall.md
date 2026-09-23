@@ -46,6 +46,6 @@ Your main way to **interact with the world is through "cheat codes"**, that, in 
 
 What surprise me the most was **the shit ton of collectables you can get in Backfirewall_**. A LOT, REALLY. The only ones that has something more than an achievement is some user messages (that tells the side story of what's happening with the owner of the phone) and a lot of smaller apps you can help during your journey. Everything else is just there for the sake of collecting. I love finding bits and accumulating them, but when they are really hidden, there's no hints and you cannot go back to previous areas, it just becomes frustrating.
 
- render "components/youtube" id:"7t6a1ujxFcE"
+ {% yt '7t6a1ujxFcE' %}
 
 Balancing the pros and cons, **"watching" Backfirewall_ was worth it**, although playing it wasn't that good. It has some forgettable puzzles, some misses in the story and a frustrating system of pointless collectables. But around that, you have **one of the most interesting worlds created in the premise of "what happens inside a computer"** that I have seen. You have charismatic characters, some good jokes and a more believable (and technically accurate?) concept of a digital society. It's not cooler than Tron's light cycles — *there aren't a lot of things cooler than Tron's light cycles* —, but the OS9's saga to survive was really fun for some hours. Maybe you also (don't) need an update too.

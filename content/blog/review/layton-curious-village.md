@@ -62,6 +62,6 @@ Another adaptation they did in the HD version was related to the Secret Door. Th
 
 Besides that, it's Curious Village in HD and **it's a blast to play it in the phone**. The HD cutscenes (including some original ones) are great and can be seen in landscape mode, writing in the screen using the finger is way worse than using the DS' stylus, and I loved to experience it all over again.
 
- render "components/youtube" id:"yP0Rmm0iM-g"
+ {% yt 'yP0Rmm0iM-g' %}
 
 Even though the series' formula will only reach its potential in the sequels, **Professor Layton and the Curious Village** is still an amazing game. Inside this strange concept, you will encounter lovable characters, a crazy mystery and way more puzzles than you expect to solve. It has it's problems, but I can see myself going back, once more, to St. Mystere in some years just to find, once more, the Golden Apple. I'm really happy to see how great this HD version is, and I hope it helps to having Layton and Luke's adventures to be more accessible than never.

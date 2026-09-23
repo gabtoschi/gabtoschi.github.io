@@ -42,8 +42,10 @@ The real problem of **Harmony's Odyssey** to me isn't that core gameplay, but th
 
 And when I think I found my way through the bizarre UI, I found **minigames in Harmony's Odyssey**. Trusting your classic game knowledge (because all of them are inspired by old magazine puzzles), **the game doesn't have real explanation of how they work**. I know there was a "spot the differences" minigame, but apparently I can't miss a click? And you can get upgrades to help you, but they only works in some specific styles? Once again, I wish I had understood what was happening there.
 
- render "components/youtube" id:"HoZHJrQG8ro"
+ {% yt 'HoZHJrQG8ro' %}
 
 Even if you're not bothered by the confusing interface or frustrating minigames, all you'll get in **Harmony's Odyssey** is still mediocre jigsaw puzzles. The dioramas themselves are cute and colorful, and solving them isn't necessarily bad, but I believe there are best options in the stores if you just want to put some beautiful pieces together. I was expecting some magic in my relaxing time, but I don't think this magical wand is my type.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

@@ -17,7 +17,7 @@ export default {
   'home.games.button': 'See all games',
   'home.prototypes.title': 'I\'ve got prototypes looking for a home!',
   'home.prototypes.button': 'Publish my next game',
-  'home.blog.title': 'Latest blog posts & stories',
+  'home.blog.title': 'Latest blog posts',
   'home.blog.button': 'Read all posts',
 
   'prototypes.button.video': 'Pitch Video',
@@ -32,4 +32,14 @@ export default {
   'about.cta.subtitle': 'Tell me your game design needs',
   'about.cta.button': 'Contact me now',
   'about.clipping.title': 'Awards, interviews and talks',
+
+  'blog.header.title': 'Welcome to my blog',
+  'blog.header.rss': 'RSS Feed',
+  'blog.post.back.blog': 'Back to blog list',
+  'blog.post.back.archive': 'Back to review archive',
+
+  'game.page.bgg': 'Check the game on BoardGameGeek',
+  'game.page.ludo': 'Check the game on Ludopedia',
+  'game.page.diary': 'Read the full design diary',
+  'game.page.back': 'Back to game list',
 }

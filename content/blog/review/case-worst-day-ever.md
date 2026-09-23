@@ -38,8 +38,10 @@ On other games of the genre, you have a hard-to-complete paragraph to fill, and 
 
 **The Case of the Worst Day Ever** has the same elements, but their roles are... reversed? These name lists are the true challenge, but they also feels like a more obscure Logic Grid (or even a clue Sudoku). The amount of cross-references you must have to solve a name, trying to make logic jumps to get a conclusion, is insane when you realize you're trying to discover the name of the dog that poops strange, you know? And then, the "plot paragraph" is mostly an afterthought or just describes the scene - a lot of times, I knew what to fill immediately, but the game decided to obscure the names just because they can.
 
- render "components/youtube" id:"zB6giL7ARH8"
+ {% yt 'zB6giL7ARH8' %}
 
 The atmosphere is nice, and I can see people that wiil like the challenge it proposes, but **The Case of the Worst Day Ever** wasn't for me. The philosophy behind the puzzles didn't sparked great moments and made me, strangely, feel overwhelmed and bored at the same time. I truly believe that good mystery games doesn't need to kill someone to be interesting, but I think there's probably better ways of making me discover the gossip of a bad day.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

@@ -61,8 +61,10 @@ All that said, getting more powerful is more organic than I expected. Instead of
 
 And just as a side note, **each stage also has a bonus level** that gives you more Rubies (yes, it's the same currency as the Zelda CD-i games), and they are just really fun! You have some that are more common like breaking targets or solving a maze, but nothing has prepared me for a **HOTEL MARIO MINIGAME!** Yes, [the only Mario game released for the CD-i](https://www.mariowiki.com/Hotel_Mario) had Mario and Luigi closing doors on "Bowser's hotel chain", and they just made it as a bonus level on Arzette. Who knew Hotel Mario would get fan service one day, right?
 
- render "components/youtube" id:"tMtjAP_4a3c"
+ {% yt 'tMtjAP_4a3c' %}
 
 Fans does what companies don't want to do. ROM hacks, ports, fan games, spiritual successors: doesn't matter if it's a famous oldie or a cult classic, people will remember those stories forever. But **Arzette: The Jewel of Faramore** isn't about remembering what was good, but imagining a future where the bad things never happened. They not only understood what the Zelda CD-i games had to offer, but used it as a foundation to build an original and impressive adventure. If this is what we can get by giving the bad games of the past a second chance, I'm totally on board for more redeeming in the future.
 
- render "components/thanks" lang:lang
+{% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

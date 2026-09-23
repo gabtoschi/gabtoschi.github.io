@@ -36,7 +36,7 @@ I'm trying to talk about **Escape From Mystwood Mansion** without giving much sp
 
 The **hint system is also functional and easy to access**, without penalties during the game or any annoying cooldown to get a new one. I didn't got stuck a lot, so the hints were enough me to progress in the game without being frustrated. **Escape From Mystwood Mansion, though, is really language dependent** (in the puzzles and hints), so, if your English is not very good, you might end up getting way more stuck trying to translate everything. (Or can be a new layer of challenge too!)
 
- render "components/youtube" id:"HWFMGltH33g"
+ {% yt 'HWFMGltH33g' %}
 
 As a video game per se, there aren't remarking features to be talked about. The game looks OK, not incredible, but does the job even on low visual quality. The soundtrack is also just noise to solving the puzzles, so you can go with a podcast if you like. The most intriguing fact for me was **the absence of an inventory to keep items**, like every other game in the genre. It was cool, though, to use the floor as a way to organize the objects, similar to what I would probably do in the real life... but dragging items one of a time through the room was really boring. A container-type item or a multiple selection option would solve this.
 

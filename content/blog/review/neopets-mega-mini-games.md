@@ -49,8 +49,10 @@ It's also important to talk about **what isn't present in this collection**. I w
 
 At the end, you have **a collection made of small Flash minigames made with little care and being sold as a full premium price point for consoles**. I don't think the new generation of players will choose to play a Snake clone instead of any other game, and old fans can be a little happy before finding all that's missing. Not even the argument of making those minigames acessible again works: **a lot of the games chosen for the collection are already available in HTML5 form, for free, right now**, like [Hasee Bounce](https://www.jellyneo.net/?go=hasee_bounce), [Destruct-O-Match](https://www.jellyneo.net/?go=destruct_o_match_3), [Ice Cream Machine](https://www.jellyneo.net/?go=ice_cream_machine) and the original [Turmac Roll](https://www.jellyneo.net/?go=turmac_roll).
 
- render "components/youtube" id:"gn9qztuf73s"
+ {% yt 'gn9qztuf73s' %}
 
 Who's buying this, then? Half of the games aren't impressive, the new content is just a joke, it doesn't work as preservation and online players can already play a lot of them anyways. It's hard to not look into **Mega Mini Games Collection** as an easy cash grab for people that remember **Neopets** from decades ago. Although I think a little bit of care is put into this, the lack of priority and focus makes all things Neopets, including the brand as a whole, still lost in a modern world. I really wish to Neopia to be back as a great place to play and have fun, but we are not there yet.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

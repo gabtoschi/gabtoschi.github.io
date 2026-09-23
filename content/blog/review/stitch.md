@@ -43,8 +43,10 @@ Having actual figures to complete and not just random grids are also a plus for 
 
 Talking about content, you will have a lot of embroidery to finish if you want to complete all the challenges in **stitch.** The base game have **180 Hoops to play**, and a new Weekly Hoop (inspired by current events or holidays) every 7 days help to increase this number. Even though it's a port of a mobile game, there is no ads or microtransaction locks: when you finish the tutorial, almost all the content are automatically available to you to tackle. **You can even recolor your favorites** in Free Stitch mode, if you are more artistic capable than me (it doesn't need much).
 
- render "components/youtube" id:"OfU7pXpWZKs"
+ {% yt 'OfU7pXpWZKs' %}
 
 It easy to see what is the target audience for **stitch.** already completing the first level. Their goal wasn't to create a digital version of Shikaku for experts, but use the amazing rules of this puzzle to make a relaxing and visually appealing game to people that likes to turn off their brain with those types of challenges. As a declared fan of Picross, I can only say that those Hoops became also my favorite, and I just hope to keep sewing for much more nights before bed. (Yes, I'm asking for the sequel, I finish those games fast...)
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

@@ -60,7 +60,7 @@ Those small moments of gameplay change are really cool. Not only to allow more a
 
 Now that I cited "barefoot Kirby", I think this is **the game that made Copy Abilities really fun to me finally**. In concept, the power of getting the ability of the enemies is amazing: you can get different powers every level, find your favorites and sticking to them (until a collectable forces you to use a specific Copy Ability). In practice, you see everything that is available in the first world of the game and keep using them until you finished it.
 
- render "components/youtube" id:"_B-qk4_V2jY"
+ {% yt '_B-qk4_V2jY' %}
 
 **In Forgotten Land, the Copy Abilities can be upgraded** and I've never been so happy in a Kirby game before. To start, the blueprints you need to unlock them sometimes are well hidden in the levels, doubling down as a cool collectable to search for. Then, you need Rare Stones from challenge stages as currency — I never cared for them before, but with the gameplay variety here, they just became little and interesting puzzles.
 

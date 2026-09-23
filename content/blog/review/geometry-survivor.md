@@ -38,8 +38,10 @@ The sad thing about all this is because playing a run of **Geometry Survivor** i
 
 Visually, **I also loved the neon aesthetic and the inspiration in vector games**. It helps a lot to see what's going on because of the black background, but the lack of detail makes hard to differentiate enemy types. I would love to see the game going further in the geometric theme, having different arenas inspired by shapes and other concepts like parallelism. Or even inspired by old vector games, like an Asteroids one? I can only dream.
 
- render "components/youtube" id:"ogtemkrXtqw"
+ {% yt 'ogtemkrXtqw' %}
 
 One of the worst feelings as a player is seeing a game that's good to play, but in a hour you already has seen everything it has to offer. **Geometry Survivor** has all that needs to be a sprout of a great title in the bullet heaven (or roguelite, if you want) genre, but the lack of content and depth makes it really easy to forget about. Of course, you can just love how the gameplay feels like (because it feels really good) and keep replaying the same level until you finish a perfect run, but with so much more complete experiences in the market, it's hard to recommend it.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

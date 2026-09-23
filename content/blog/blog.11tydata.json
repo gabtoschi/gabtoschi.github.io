@@ -1,3 +1,4 @@
 {
-  "tags": ["blog-en"]
+  "tags": ["blog-en"],
+  "layout": "layouts/post.njk"
 }

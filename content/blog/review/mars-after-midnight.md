@@ -42,8 +42,10 @@ The best way to enjoy what **Mars After Midnight** can offer is definitely in sm
 
 Even without a deep story, this game is so charismatic that **looking into the details to appreciating them is the best way to experience Mars After Midnight**. From the alien speech that you learn during the levels, to the dreams that our protagonists have after a night of work and the details at the back of the street... Even on the small screen of Playdate, it was good to help those Martians, however necessary.
 
- render "components/youtube" id:"xRuG9Ooe9hM"
+ {% yt 'xRuG9Ooe9hM' %}
 
 I don't know yet who loved more this game: my inner child who laughs like an idiot at a horn, or the tired adult that liked the breaks in a work day to help some martians. Lucas Pope's ability of transforming a boring job into an interesting game is still amazing, and even if there isn't the same depth of his past games, the light-hearted premise made it an unique experience. If you have a Playdate and a silly game catches your attention, **Mars After Midnight is a must-play**.
 
- render "components/thanks" lang:"playdate"
+ {% iconText 'favorite' %}
+  This review was only possible by the access provided by Panic and the Playdate team to this game, available at the Catalog. Thanks for the trust!
+{% endiconText %}

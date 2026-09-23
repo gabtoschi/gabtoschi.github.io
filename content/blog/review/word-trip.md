@@ -31,8 +31,10 @@ It can appear simple, but **Word Trip's gameplay is more interesting that I was 
 
 **The road trip theme doesn't have a lot of impact in the actual play, but I found it really cool**, actually. Seeing your little car traveling in the infinite map and changing directions when you find a new word is a cute detail — and using the crank after the game ended to review your path is a perfect Playdate moment. I think this would be the perfect opportunity to have a Challenge Mode with "fixed travel itineraries" and to hook me even more to the game, but **Word Trip works even with a more arcade, high score chasing approach.**
 
- render "components/youtube" id:"Qr1_f-Q8Klw" start:"546"
+{% yt 'Qr1_f-Q8Klw', '546' %}
 
 I love small concepts being well executed and **Word Trip** is exactly that. The game is easy to understand but, even after some matches, you can still find a word combination that will need more brain power to solve. Visually, it's cool and cute, and the theme complements the experience with small details. Of course, the game could be way bigger and interesting, but every road trip can be cool with the right mindset. I would even love to see this game outside the Playdate (it would work perfectly in mobile platforms), but for now, you can get a lot of use out of it on the little yellow device.
 
- render "components/thanks" lang:"playdate"
+ {% iconText 'favorite' %}
+  This review was only possible by the access provided by Panic and the Playdate team to this game, available at the Catalog. Thanks for the trust!
+{% endiconText %}

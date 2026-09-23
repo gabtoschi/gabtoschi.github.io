@@ -9,7 +9,7 @@ layout: layouts/base.njk
     <h2 class="letter">{{ letter }}</h2>
     {% for item in list %}
       <ul>
-        <li><a target="_blank" href="{{ item.page.url }}">{{ item.data.title }}</a></li>
+        <li><a href="{{ item.page.url }}">{{ item.data.title }}</a></li>
       </ul>
     {% endfor %}
   {% endfor %}

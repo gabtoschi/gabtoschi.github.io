@@ -56,8 +56,10 @@ Mechanically, **Quilts and Cats of Calico's story mode is full of... puzzles!** 
 
 That said, **you also have full games inside the story mode** (the first one that appeared to me was already in the middle of the story, however). Remember when I said that the game is hard if you want to get big and win? Well, **trying to win against the AI was really hard**. I played every encounter at least twice to get a nice score, specially because they also have special conditions you have to do in addition to get more points. The puzzles are cool, but I don't know how much they prepare you for a full game, so those moments can really be a peak in the game's learning curve.
 
- render "components/youtube" id:"fLXGkOqXuI8"
+ {% yt 'fLXGkOqXuI8' %}
 
 Playing a board game digitally isn't the same thing as the real deal, but a good adaptation can create an unique experience too. **Quilts and Cats of Calico** not only adapts perfectly a tabletop game that is easy to learn (and really hard to master) perfectly, but goes way beyond the basics to make it interesting not only for cat lovers and new players, but also for veterans that want to see those colors and patterns in a new way. Whether visiting Tomkitty or putting your own kittens in the board, you'll probably have a good time here. May the Calico kitties love your quilts!
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

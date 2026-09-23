@@ -42,8 +42,10 @@ The map is way smaller then I expected, but it needed to be because of the tiny 
 
 It can be strange to see a game so complete like this being on early access, but it make sense when you see how much content is available right now on **Mika and the Witch's Mountain**. The main story is complete and you can finish it in a couple hours, even collecting all the extras. But there's so much more I would love to do here, like exploring the ruins! Fortunately, [this and a lot more is already confirmed in the EA roadmap](https://store.steampowered.com/news/app/1819460/view/4253173037914599493), so I can only wait to see what more adventures Mika will have in the future.
 
- render "components/youtube" id:"MyRmqMqVEVI"
+ {% yt 'MyRmqMqVEVI' %}
 
 **Mika and the Witch's Mountain** is a small and cozy adventure that feels eve more magical and relaxing experience than some of other of its type. Mika is lovable, and controlling her through the skies is even more lovable. There's no difficulty on the quests here, and you would want to look somewhere else for this type of challenge, but if you only want to relax, I ordered a magic game for you and I'm just waiting for the delivery girl to show up flying on her broom...
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

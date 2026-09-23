@@ -51,8 +51,10 @@ For example, there's a level where you have a lot of leaves in a tea garden and 
 
 Some of the worst puzzles I encountered in **Tell Me Your Story** reminded me from the organization challenges in [A Little to the Left](https://store.steampowered.com/app/1629520/A_Little_to_the_Left?curator_clanid=44763507), whose goal was finding patterns between objects and organizing them, like similar colors/patterns or matching shapes. Those patterns didn't exist here, the objects were just there, no further information. In a level where I needed to organize some macarons, I tried to organize them by color, because it was the only distinct feature in them. The solution? Making an arbitrary pattern that wasn't shown anywhere.
 
- render "components/youtube" id:"AJG8DywNZI4"
+ {% yt 'AJG8DywNZI4' %}
 
 Again, I don't think that an easy puzzle game is a problem. I love those, specially with cute art like **Tell Me Your Story**. The problem here is these "puzzles" are so bad designed they not only feel unplayable, but also makes you more irritated than relaxed. Really, I got more tired trying to understand the impossible rules of some of those levels than I did for finished other harder titles. **When your puzzle design goes totally opposite than your game's vibes, there's something wrong with it**, and I don't think that good grandma stories are enough to compensate it.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

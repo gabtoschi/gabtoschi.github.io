@@ -75,8 +75,10 @@ But the biggest problem for me, and to everyone that plays it regardless of play
 
 The worst bug for me was during a chase-like boss fight in which I, when trying to attack penguins, dashed instead and fall into the abyss. BUT THEN the game respawned Penny **OUTSIDE THE PLATFORM** multiple times, with no time to react. Yes, I lost all my lives, and the game just restart the fight from the beginning. No matter your skill level with the controls, frustration will get to you somehow.
 
- render "components/youtube" id:"-0NBFkCQamU"
+ {% yt '-0NBFkCQamU' %}
 
 If you are a 3D platformer specialist, or loves to understand and master complex action systems, or just has fun trying to rack up a big combo, you will be able to get over the bugs and have a great time in **Penny's Big Breakaway**. Not only the title was made for playing this way, but you also will enjoy the great visuals and amazing soundtrack it has to offer. But, if you was looking to a more chill experience, with a more balanced learning curve, you still can have fun, but not without a sprinkled and constant frustration. There are more inviting platformers in the market for you and this one doesn't seem to spin out to a broader audience.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

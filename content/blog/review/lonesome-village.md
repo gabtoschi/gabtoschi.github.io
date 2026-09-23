@@ -38,8 +38,10 @@ The "life simulation" half of **Lonesome Village**, though, feels like a hyper s
 
 A general impression that I had through my time with the game was **a lack of polish** in a lot of the small interactions with the world and how they feel a little off sometimes. There's no bugs that stops your progress, but the strange interfaces and some character interactions can be little bits of frustrating that will accumulate after some hours. However, knowing the team's most recent work, you can see how much they've managed to improve since **Lonesome Village**.
 
- render "components/youtube" id:"h-gC-JdWS88"
+ {% yt 'h-gC-JdWS88' %}
 
 If you want to do everything, you won't probably be amazing in anything but all you do will be probably fine. **Lonesome Village** suffers of this lack of mechanical focus and ends up with several bits that didn't match the quality of the others. I would love to play more puzzles like those in tower [(like you literally can)](https://ogrepixel.com/a-tiny-sticker-tale/), but I don't think the life simulation is enough to sustain a playthrough alone. Fortunately, this gameplay combination, together with cute visuals and story, creates a package that is fun to experience, even with its flaws.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

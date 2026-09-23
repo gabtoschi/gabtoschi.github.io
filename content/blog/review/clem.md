@@ -42,8 +42,10 @@ BUT if you go to **CLeM** without expecting this "puzzlevania" thing to work, it
 
 There isn't a proper hint system, but your notebook gets automatically completed with puzzle (and plot) information when you get in contact with objects, being more as a "fast guide" for data you already have. Not that you would need a lot of hints anyway, **most of the puzzles have well communicated rules and interesting (but not frustrating) solutions**.
 
- render "components/youtube" id:"x1MKndMRjWE"
+ {% yt 'x1MKndMRjWE' %}
 
 It's so interesting to see a team missed their initial goal but creating an incredible experience anyways. For me, a "puzzlevania" is still a good idea that I wanted to see well executed. Even so, **CLeM** was a really good puzzle game, with enigmas inspired by a lot of different genres. From the one-off inventory combining to the ciphers and patterns, and even coming to the tool aspect of the magical toys: **CLeM could have a linear progression, but thinky fun is sprinkled all through it**. And the big mystery of all, "what's happening here?", hit me so hard that I needed to finish it in one night. If you are also curious, you may wanna see what's inside the pages of this intriguing notebook.
 
- render "components/thanks" message:"The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!"
+{% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

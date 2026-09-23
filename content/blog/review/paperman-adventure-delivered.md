@@ -38,8 +38,10 @@ From all the inspiration they could get from the old classics, they chose one of
 
 With smaller and more linear stages like those present in Paperman, this shouldn't be that big of a problem, but playing the game is a challenge by itself. The software never exactly crashed, but the **bad performance started to bother me in the first few minutes of gameplay**. All the actions felt delayed, the characters didn't seem to respond well to the analog movement and the camera loved to clip through the level's geometry. I don't know if this something only on the Nintendo Switch version (that I played), but it didn't helped to improve the experience.
 
- render "components/youtube" id:"EDHp1mXYzsc"
+ {% yt 'EDHp1mXYzsc' %}
 
 If **Paperman: Adventure Delivered** was at least half as good than the character design of its heroes, I would have had a good experience with it. I truly believe that no team wants to make a disappointing experience on purpose, but, as a player, **it's hard to recommend it**. Even the small qualities aren't enough to compensate the bland scenarios, the constant backtracking when changing characters and the poor and frustrating performance. Maybe this package can be better in the future, but, for now, I'm returning it to sender.
 
- render "components/thanks" message:"The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!"
+{% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

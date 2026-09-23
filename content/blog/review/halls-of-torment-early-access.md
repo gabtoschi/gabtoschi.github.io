@@ -34,8 +34,10 @@ The most defining aspect of **Halls of Torment** for me is **a greater focus on 
 
 But, at the same time, **when controlling the character themselves, this was the hardest bullet heaven I ever played**. In Vampire Survivors, it was important to keep moving and learn some crowd control techniques to win later levels, but here on **Halls of Torment**, if you stop moving, **you will die**. Enemies not only can catch up to you easily, but a lot of them have special techniques to damage you even from afar. All the bosses have ranged attacks that you must avoid at all costs, to the point where dealing damage ends up not even being the priority. **It can be a bullet heaven on paper, but you will feel itself in a bullet hell easily** *(pun intended)*.
 
- render "components/youtube" id:"GCVIaeK504g"
+ {% yt 'GCVIaeK504g' %}
 
 To my personal taste, this was not really my preferred concept in the genre, but it's because I mostly play bullet heaven games to disassociate from my real life problems and relax while I see pretty lights flashing. **If you always felt that those games could be too boring, Halls of Torment probably is what you looking for.** With more focus on how you perform a run than the build you choose to create — including options for manual aim and attacking — I think the game lies down on the other side of the genre's spectrum and I love its existence because of that.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

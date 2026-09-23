@@ -33,4 +33,14 @@ export default {
   'about.cta.subtitle': 'Me conta o que você precisa',
   'about.cta.button': 'Entre em contato',
   'about.clipping.title': 'Prêmios, entrevistas e palestras',
+
+  'blog.header.title': 'Aqui eu escrevo coisas',
+  'blog.header.rss': 'Feed RSS',
+  'blog.post.back': 'Voltar à lista de posts',
+  'blog.post.back.archive': 'Voltar ao arquivo de reviews',
+
+  'game.page.bgg': 'Veja o jogo no BoardGameGeek',
+  'game.page.ludo': 'Veja o jogo na Ludopedia',
+  'game.page.diary': 'Leia o diário de design completo',
+  'game.page.back': 'Voltar à lista de jogos',
 }

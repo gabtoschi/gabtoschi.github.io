@@ -44,8 +44,10 @@ This approach made **the experience of playing Pine Hearts really repetitive** a
 
 Even if the game isn't complex at all, I need to finish praising the team at Hyper Luminal for the **huge focus on accessibility in Pine Hearts**. Besides the more common features, like control remapping and simplified actions, **I really liked the "color blocking mode"**, where all the interactive objects in the map are painted in specific shades and the background goes on black and white to help with contrast. Accessibility is something really important for games and players, and I'm happy to see more of it even on smaller titles like this.
 
- render "components/youtube" id:"mwsjlQAGc9c"
+ {% yt 'mwsjlQAGc9c' %}
 
 Playing **Pine Hearts** is like eating a tasteless cookie with an impressive and amazing filling inside. I really liked how they developed Tyke's story about loss in such a brilliant and sincere way, and even using the video game medium as a way to support the storytelling. But the boring mechanics that surrounded it made me play on automatic just waiting for the next flashback. It's hard to recommend the whole thing just because of the little good inside, but maybe you can enjoy your journey through this park as well as I enjoyed my destination at the mountain's peak.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

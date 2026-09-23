@@ -42,8 +42,10 @@ My problem here is **how bland the game feels**, from the visuals to the gamepla
 
 To be fair, not even as obstacles sometimes. **The gameplay on House of Golf 2 is simple but works**, with easy to learn controls and a good camera, but the course design was not my cup of tea. **There's a lot of ways to get "Out of Bounds" and making the ball restart**, specially when it happens because the ball slips through obstacles. As I said before, the game forces you into this state of mastery: if you don't play well, you cannot have a way to learn with your mistakes than just replaying the same boring course ever and ever again.
 
- render "components/youtube" id:"0FGwqblKLGk"
+ {% yt '0FGwqblKLGk' %}
 
 At its best, **House of Golf 2** is a working piece of game software that you can use to play decent 3D mini golf in pretty but uninspired environments. At its worst, the game doesn't do a good job of take advantage of the potential of your theme to attract attention, provide ways for different types of players to enjoy your content, or even have levels that don't just look like a bunch of objects thrown on the floor. It's like an OK pizza, if you are in the mood for it.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

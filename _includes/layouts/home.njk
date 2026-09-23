@@ -16,7 +16,7 @@ header: home
           <span class="back-label">{{ item.label }}</span>
           <div class="back-img" style="background-image: url('{{ item.img }}')"></div>
         </div>
-      {% endfor %}     
+      {% endfor %}
     </div>
     <div class="card-front"></div>
   </div>
@@ -28,13 +28,8 @@ header: home
     <span><a class="btn primary small" href='/games'>{{ 'home.games.button' | t }}</a></span>
   </div>
 
-  <div class="games-list">
-    {% for item in collections[['games-', lang] | join] | reverse | firstNth(6) %}
-      <a href="{{ item.page.url }}" class="game-item">
-        <img alt="{{ item.data.title }}" src="{{ item.data.cover }}" />
-      </a>
-    {% endfor %}
-  </div>
+  {% gamesList collections[['games-', lang] | join] | reverse | firstNth(6) %}
+
 </section>
 
 <section class="section-prototypes">
@@ -53,7 +48,7 @@ header: home
   </div>
 
   <div class="post-list">
-    {% for item in collections[['blog-', lang] | join] | reverse | firstNth(10) %}
+    {% for item in collections[['blog-', lang] | join] | reverse | firstNth(8) %}
       <div class="post-item">
         <span class="pill-wrapper">
           <span class="pill {{ item.data.pill }}">{{ item.data.category }}</span>

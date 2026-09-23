@@ -53,8 +53,10 @@ Although the game is broken in areas, they are maps that needed to be traversed 
 
 Another great problem with the game is **how big the puzzles are and how that takes away the feeling of the Eureka Moments even more**. As an example, there's a point in the game that you need to put pipes in the wall (saying more than that is too much spoilers). You need to do this SIX times in a big map. Every one of them includes a new rule, or asks the player to have a new perspective on the puzzle's mechanic? No. It's mostly the same, but you need to do it again and again. **I already got it, I already solved it, why can't I progress? Why make me just repeat myself SO MANY TIMES?**
 
- render "components/youtube" id:"zdFuHdNp3kE"
+ {% yt 'zdFuHdNp3kE' %}
 
 **This monotonous and repetitive structure steals all the momentum** that I had solving the actual puzzle and just makes playing **Puzzles for Clef** a boring experience. Even if I knew that an enigma can really be a blast to solve, I also know that I'll pass triple the time just walking, and then had to make the puzzle four other times to advance. I wanted so much to enjoy more of the incredible atmosphere, or just imagining myself in a cozy and fun treasure hunt... but if my brother made me walk in circles that much, I would have given up a long time ago.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

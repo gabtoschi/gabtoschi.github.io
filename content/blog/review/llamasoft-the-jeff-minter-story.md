@@ -57,8 +57,10 @@ In some of the Llamasoft's biggest successes, you can also see **how a concept e
 
 It's sad though that **the gaming library stops in 1994**, with the amazing [**Tempest 2000**](https://en.wikipedia.org/wiki/Tempest_2000) for the Atari Jaguar, truly one of Minter's masterpieces. Maybe for licensing reasons, emulation problems or just design impossibilities — a lot of Llamasoft recent work are virtual reality games — but I would love to see how Jeff would understand the modern scene of game design and adapt his own style on it.
 
- render "components/youtube" id:"4uIW8Qd-7rE"
+ {% yt '4uIW8Qd-7rE' %}
 
 Building a different type of narrative than the previous chapter of the Gold Master Series, **Llamasoft: The Jeff Minter Story** shows how wide and amazing gaming history can be. Learning more about Jeff Minter's work wasn't just inspiring for me as a designer, but just presented to me cool concepts and mechanics that were lost forgotten to a big part of the gaming community nowadays. If you like shoot'em'ups, or just want to know more about a crazy British dude that makes games about llamas, the exhibition is already open and you don't want to miss it.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

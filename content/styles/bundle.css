@@ -6,16 +6,21 @@
 @import './components/_card-row.css';
 @import './components/_carousel.css';
 @import './components/_footer.css';
+@import './components/_games-list.css';
 @import './components/_header.css';
 @import './components/_hero-visual.css';
+@import './components/_icon-text.css';
 @import './components/_infinite-carousel.css';
 @import './components/_link-row.css';
 @import './components/_metrics-grid.css';
 @import './components/_pill.css';
 @import './components/_two-col.css';
+@import './components/_youtube.css';
 
 @import './pages/_about.css';
 @import './pages/_archive.css';
+@import './pages/_blog.css';
+@import './pages/_games.css';
 @import './pages/_home.css';
 @import './pages/_prototypes.css';
 

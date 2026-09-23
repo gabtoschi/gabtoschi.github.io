@@ -37,9 +37,11 @@ My goal in those types of games (including the already mentioned 2048) is to get
 
 I was really impressed by Cosmic Collapse not only by the final result, but also how it was made. The game was **created on [PICO-8](https://www.lexaloffle.com/pico-8.php)**, a fantasy console made for small pixel-art games (that you may know as the engine where the [original Celeste prototype](https://maddymakesgamesinc.itch.io/celesteclassic) was made). Even with all the limitations from the system, Peitz not only made **a better to play Suika-like, but also gorgeous pixel art to look at**. The only thing missing is a list of evolutions to know what planets are created from merging, but nothing that you won't learn after some plays.
 
- render "components/youtube" id:"-f_9AAidOl4"
+ {% yt '-f_9AAidOl4' %}
 
 If you have seen people talking about the watermelon game and you want to jump in, I can only ask you to jump even further until you reach outer space. **Cosmic Collapse isn't just a really well-made Suika-like, but also an addictive, forgiving, beautiful and fun little arcade game.** I'm waiting forever for a mobile version of this, because when that happens, I won't be able to stop playing. Sometimes, a simple thing made with love and care is enough to make me happy, and I can't stop talking about them — so, I know that I'll keep talking about those planets for months to come.
 
- render "components/thanks" message:"The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!"
+{% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}
 

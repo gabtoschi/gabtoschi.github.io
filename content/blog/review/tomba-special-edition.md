@@ -31,6 +31,8 @@ description: "Tomba! was an adventure ahead of its time in 1997 and still feels 
 thumbnail: "/assets/reviews/tomba-special-edition/thumbnail.jpg"
 ---
 
- render "components/youtube" id:"YfYtEggYPI0"
+ {% yt 'YfYtEggYPI0' %}
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

@@ -53,8 +53,10 @@ Since the announcement, this was the feature that got my immediate attention and
 
 At the same time, **most of the powers could only be used on specific targets** or are too situtational to be used freely on battles. Like, it's great to break rocks now, but it's strange I can only break one specific type of rock, you know? Those situations aren't too much different from Zelda items, for example, what makes me a little disappointed. Seven years ago, when I saw it for the first time, I think it was cooler, but nowadays it can feel a little bit underbaked - specially with other games on the market doing the "combinatorics of elements" so well like the indie game [Rhell](https://store.steampowered.com/app/3247030/Rhell_Warped_Worlds__Troubled_Times/) or even Nintendo's own [Echoes of Wisdom](https://www.nintendo.com/pt-br/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/).
 
- render "components/youtube" id:"5-lyYpVh1Cs"
+ {% yt '5-lyYpVh1Cs' %}
 
 If you want to look into it just as a Zelda love letter, it's a really good one. But **Elementallis** must also be praised for what it does on their own terms. With an interesting narrative point-of-view, beautiful visuals and a well-implemented element system to help you traverse the world, this team knows what makes a great 2D top-down adventure game. It may not have been as impressive as I expected seven years ago, but **it's definitely as much fun as I imagined**.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

@@ -37,8 +37,10 @@ I can be a reviewer, but first, I'm also a player, so I need to talk about somet
 
 **I didn't felt more powerful in Froguelike, not even after 10 or 15 runs.** I didn't have a lot of options to test and find synergies, the upgrades are really simple and didn't changed a lot and the gold ratio by run is way more scarce than what I was expecting. I know there's more content in the game (the achievement list always remember me of that), but I, sincerely, couldn't find energy inside me to keep playing those repetitive levels to try to find them.
 
- render "components/youtube" id:"yO4b0_G9weE"
+ {% yt 'yO4b0_G9weE' %}
 
 When you buy in an early access game, you invest in a promise with potential. **To me, Froguelike has a lot of potential!** The frog theme is welcome in a group of similar fantasy games, and the chapter structure can be really interesting, specially if they start to use it to tell different stories depending on what you choose. **But, for now, I can only recommend it if you are a fan of the genre (of a frog fan in general).** I hope to get back to this lake in the future and being hyped to eat bugs again.
 
- render "components/thanks" message:"The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!"
+{% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

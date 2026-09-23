@@ -1,4 +1,7 @@
 {
   "override:tags": ["archive-en"],
-  "layout": "layouts/base-article.njk"
+  "layout": "layouts/post.njk",
+  "category": "Archived Game Review",
+  "pill": "blue",
+  "backToArchive": true
 }

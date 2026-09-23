@@ -32,8 +32,10 @@ The trick on the whole "scrolling" situation is that, although the newspaper loo
 
 The themes in each section of the newspaper are also **metaphors about game development** in general, like search for funding and motivation. **The Scrolling Enigma** succeeds on being exactly what its subtitle suggests: an allegoric game development diary, showing some dilemmas that the Lugludum team (and all of us devs, actually) encountered when creating games. There isn't a lot of depth to those subjects, but it's a nice way to round up thematically so many different puzzles.
 
- render "components/youtube" id:"1I9mO4pYBPI" start:"311"
+{% yt 'qbF1Jmvxdw8', '311' %}
 
 **The Scrolling Enigma** is far from a perfect game, but it's too interesting to let it pass by. Some of the puzzles are really clever, the scrolling mechanic can be a perfect structure for future titles, and the experience doesn't drag itself more than it should. Depending on the amount of hints you got, you can finish the game in 40-50 minutes — the game doesn't save progress, so I recommend finding a free hour to dive in at once. My feeling at the end was that I wanted more, so I think we have the start of something special in this experimental success.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

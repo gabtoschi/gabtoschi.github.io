@@ -31,8 +31,10 @@ Like I said in the beginning, **it's so good and fluid to play YOYOZO**. Even if
 
 BUT you are not me, right? (Maybe you are, hi, me!) **Maybe you love getting even bigger high scores**, proving your own mastery of controls and physics. In this case, **YOYOZO** is perfect to you. As shown in the [game's manual PDF](https://www.gingerbeardman.com/playdate/yoyozo/yoyozo-manual.pdf), your points are determined by three key factors — how long the elastic is stretched, how fast you are catching the stars and what's your current combo — and some secret elements, if you want to go deep one more layer in the "advanced technique lasagna" ready to be tasted.
 
- render "components/youtube" id:"0IHiucLVPQ0"
+ {% yt '0IHiucLVPQ0' %}
 
 Portables can give deep and long experiences, of course, but they are perfect for small bursts of fun. From all that's available now on the Playdate, I truly think **YOYOZO** is one of the best of its kind. You can start a match for the first time and get the concept in literal seconds, and you can also play for 10 hours and discover so many techniques that it becomes another game completely. I may not be the biggest fan of pure arcade games, but I really can see the space yo-yo becoming one of the permanent residents of my yellow little brick.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

@@ -38,9 +38,11 @@ A good example would be the workbench tasks, that appears a lot during the early
 
 At the top of this mediocre experience, **the controls on the Nintendo Switch port** (the version that I played) **were really bad**. I lost the count of how many times I was just flicking the analog stick to try to align the pointer to a small screw that I needed to interact with. The touch screen only worked in the workbench, and it was passable, but the rest of the game was only in the buttons.
 
- render "components/youtube" id:"7xR7ryt1HIs"
+ {% yt '7xR7ryt1HIs' %}
 
 If you are really into the work an electrician does, I think you also will be disappointed with **Electrician Simulator**. When you transform a thing into a video game experience that is more boring and soulless than the actual thing that people does as a job, there's something wrong with that. Technically, the game does nothing wrong, and you can buy and play through the end (with some strange controls in the process), but I don't know exactly why you would do that. You will have more fun going to a junkyard and just disassembling real devices for fun, trust me.
 
- render "components/thanks" message:"The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!"
+{% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}
 

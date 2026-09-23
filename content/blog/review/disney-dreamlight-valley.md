@@ -29,6 +29,6 @@ thumbnail: "/assets/reviews/disney-dreamlight-valley/thumbnail.jpg"
 
 aaa
 
- render "components/youtube" id:"hsgOSQbgO1Q"
+ {% yt 'hsgOSQbgO1Q' %}
 
 aaa

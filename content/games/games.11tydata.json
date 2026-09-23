@@ -1,3 +1,5 @@
 {
-  "tags": ["games-en"]
+  "tags": ["games-en"],
+  "header": "games",
+  "layout": "layouts/game.njk"
 }

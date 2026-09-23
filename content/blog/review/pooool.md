@@ -32,8 +32,10 @@ Playing it felt way more engaging, because **each new action could result in mor
 
 That said, I think POOOOL has **a lot of room to improve too**. I found some strange bugs concerning screen sizes (that I think are already being addressed by the dev) and the game lacks a lot of accessibility features, like remappable controls and colorblind support. I would also love more challenges to overcome than just getting higher scores every time. All those things don't got in the way of my experience, but they could be a problem for other people.
 
- render "components/youtube" id:"FJzcFu5clwg"
+ {% yt 'FJzcFu5clwg' %}
 
 Among all Suika-like games available today (and, to be fair, even counting the original 2048 and its clones), **POOOOL** is probably my favorite. The idea of merging objects by colliding them is still addicting as you may expect, but the freedom you have flinging the balls through the table makes every moment engaging. All I need now is a mobile version so I can play when I'm on the bathroom and my life will be completed.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

@@ -30,8 +30,10 @@ Because of the simpler approach, **Cozy Space Survivors' mechanics doesn't have 
 
 It's funny because, even though the game didn't give me that feeling of power scaling, I really enjoyed my time on **Cozy Space Survivors**, mainly because it didn't try to create that feeling in the first place. The idea here was just create a small and quirky sci-fi map that I can navigate and relax for a hour, and **it delivered very well**. Of course, I would have loved more synergies and secrets to find, but the snappy controls and the cute art style were enough for me. I like when genres are twisted to give different experiences, even if the final product ends up distancing from its inspirations.
 
- render "components/youtube" id:"0WskX_VnYFQ"
+ {% yt '0WskX_VnYFQ' %}
 
 **Cozy Space Survivors** isn't the next step of the genre, but it definitely can be **your first step into the world of bullet heavens**. Players that already know all the evolutions on Vampire Survivors can look into this game and speak badly about its shallow mechanics, but their idea of creating a autoshooter that can also be cozy and wholesome worked very well. If you always wanted to try a game like this and was intimidated to do, or just want to relax for a hour or two, you will have a good time here.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

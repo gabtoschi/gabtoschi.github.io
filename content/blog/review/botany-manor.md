@@ -43,6 +43,6 @@ Along with all the clues and puzzles, you will also find documents that will **h
 
 The only aspect I really think that **can be improved is the hint and clue interface**. You don't have an inventory in **Botany Manor**: you need to write down somewhere to remember specific numbers or you will be walking in circles multiple times to remember everything. But, in the pages of Ms. Greene's herbarium, you can see what clues you have found and match them to a specific plant, if you want. The only utility of this is knowing which information matters for each plant (because the game confirms when you put the correct set of clues), but they are so easy to connect normally that I just ignored the feature completely. Seeing Arabella having actual notes in the book as a pseudo-inventory would be way better.
 
- render "components/youtube" id:"dheQRlcvD-I"
+ {% yt 'dheQRlcvD-I' %}
 
 There's nothing new or innovative about Arabella's quest to fill her herbarium, but **Botany Manor** is a impressively pleasant experience. Accessible to all types of players, even if you never did an escape room before, its puzzles are interesting to solve and the plants are also cool to see grow. Although there are always something to improve in any game (and here, we could have had a better interface, per example), I just loved my trip to the manor and I'm excited to see more adventures made by this team. Oh, if taking care of my plants here at home was as easy as solving a puzzle...

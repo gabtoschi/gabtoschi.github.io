@@ -62,8 +62,10 @@ The inventory also works a bit differently of what I was expecting. Instead of b
 
 At the end, I'm still impressed that **I didn't miss the horror aspect of the game** when opting to the Exploration Mode. After beating the story, I've watched some gameplay videos of the "original experience", and I didn't think that I missed a lot (for my personal taste). If you like shooting monsters and scarce resources, you definitely should go for the Survival Horror Mode, but **Crow Country is an amazing puzzle adventure game even without it**.
 
- render "components/youtube" id:"RN_1xSqGFLY"
+ {% yt 'RN_1xSqGFLY' %}
 
 Playing **Crow Country** was liberating for me, because it was essentially my proper first "horror" game, but it was also an irrefutable argument of how good game design can help a game to find a new audience. Yes, the Exploration Mode can miss some of the shooting fun, but the intriguing mystery, the cool characters and the interesting puzzles were enough to not only create a good experience, but stick me to the screen for some nights. Maybe those changes aren't enough for you to get less scared, but it was enough to me, and I'm glad I tried.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

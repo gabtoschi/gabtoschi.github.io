@@ -40,8 +40,10 @@ Although the concept feels too primitive (heh), the way the game use it as **a f
 
 I loved how visually **The Lullaby of Life** goes full on abstract instead of trying to be scientific and inspired by chemistry. Specially when looking into the start of the universe from the lens of a singing particle, **I want to see a world that blooms different colors, shapes and eyes**. If the universe is infinite (at least on potential), representing it as a strange and different place is the best way to go for me.
 
- render "components/youtube" id:"6KKSA3wfPq8"
+ {% yt '6KKSA3wfPq8' %}
 
 Except for a small part at the middle of the game (when it becomes an action sequence for no reason), **The Lullaby of Life creates a relaxing and interesting experience** from a concept that could easily be boring or repetitive. Of course, the overall complexity of the puzzles aren't that big — puzzle experts will definitely find the game too easy —, but the devs found a good balance between a challenge that is relaxing without getting frustrating or monotonous. This probably isn't how life came to be, but following the sound waves of those abstract mazes was a cool experience.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

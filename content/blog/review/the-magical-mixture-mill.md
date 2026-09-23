@@ -40,8 +40,10 @@ Yes, **The Magical Mixture Mill** have a lot of fun... if you have the time and 
 
 I understand that the shop concept is the glue between the story and all the other mechanics, but just **locking ALL steps of progress behind it totally took me away from the game**. Even if I tried to just "use the time" to get resources, besides being an even more repetitive task, I just started to hoard wood, stone and ingredients at the point of discarding them. This "artificial" barrier was definitely a strange design choice and became the big challenge to overcome when trying to have fun in **The Magical Mixture Mill**.
 
- render "components/youtube" id:"BHueJimMHTQ"
+ {% yt 'BHueJimMHTQ' %}
 
 One decision can change completely an experience and I think **The Magical Mixture Mill** is a good example of this. Collecting things in the woods is OK at best, but the whole idea of experimenting with the ingredients and creating your own alchemy machine chain is so fun and well-made. It's a shame that the pacing (with the gold unlocks), instead of creating a fun goal to achieve, just made the repetitive parts of the game even more tiring than they should be. If you are willing to go through this loop of monotony to find when this title really shines, I think I have a job for you in that old lady's potion shop...
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

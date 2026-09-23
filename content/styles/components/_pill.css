@@ -10,7 +10,7 @@
   font-family: var(--text-base);
   color: var(--white);
   font-weight: 700;
-  font-size: 14;
+  font-size: 12px;
 
   &.blue {
     background-color: var(--blue3);

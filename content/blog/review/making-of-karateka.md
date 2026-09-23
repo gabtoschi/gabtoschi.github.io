@@ -53,7 +53,7 @@ I need to also talk a little about the "extra" new games in the collection, made
 
 And then we have **Deathbounce: Rebounded**. After playing so much prototypes that were never finished, it's so cool to see a finished version of Deathbounce (the lost game Jordan made before Karateka), and playing it was so cool that became my favorite playable bit. Every idea that Mechner had at the time to convince the publisher was mixed in this version to became pure arcade fun. I would play a "sequel" to Deathbounce with a more refined concept, no doubt.
 
- render "components/youtube" id:"IrS2pipZaH0"
+ {% yt 'IrS2pipZaH0' %}
 
 Not every game has a cool story behind it, or would have the audience to justify this amount of work, but I'm so happy that Digital Eclipse finally found **[the definitive way to create gaming documentaries](https://www.youtube.com/watch?v=4uF6ehiXw4I)**. Context, storytelling, people and interactivity are not only the key features that makes **The Making of Karateka** so interesting, but they are probably the most important parts of the process of understanding video game history.
 

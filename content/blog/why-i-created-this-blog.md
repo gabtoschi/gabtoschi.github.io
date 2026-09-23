@@ -13,7 +13,7 @@ pill: pink
 
 subtitle: "What I want from the internet? Can the web be healthy for me?"
 description: "The internet nowadays is a mix of short videos, SEO algorithms and AI-generated social media. But what I want from the internet? Can the web be healthy for me?"
-thumbnail: "/img/posts/why-i-created-this-blog/thumbnail.jpg"
+thumbnail: "/assets/posts/why-i-created-this-blog/thumbnail.jpg"
 ---
 
 If you are reading this, I finished a project that lasted a few months in my hands: I finally have a **new, made-from-scratch blog / portfolio** for all gaming and writing things that I love to do as a hobby. Yes, it's simple, there is no ads (and never will be), but I made it as my little space in the web and I'm really happy with it.
@@ -32,13 +32,13 @@ I was born in August 1998 in a countryside city in Brazil. According to scientis
 
 People always get sad when I said that I never had cable TV or a video game console during my childhood, but **I was really privileged to have access to computers and internet since I was born**. Yes, it was a old computer with Windows 98 and a dial-up connection to be used only in weekends, but this is my oldest memory that I can remember. Me, as a toddler, sitting in a high chair, looking at my dad using the PC.
 
-![Windows 98](/img/posts/why-i-created-this-blog/win98.jpg)
+![Windows 98](/assets/posts/why-i-created-this-blog/win98.jpg)
 
 In a way or another, **I grew up with the Web**. When I was a little child, I got my first e-mail address, learned how to create account on sites for children. Every weekend, when I logged the web, the first thing I was obligated to do was download the Norton Antivirus update for my dad. I loved to browse freeware download portals, because I would love new games and applications to experiment during the week. It was also my first time experimenting with web page design: I used GeoCities, I just tried Microsoft FrontPage non-stop like it was MS Paint.
 
 Imagine a time that everything on the web was static websites and the only thing that a viewer could change was a visitor counter, a world where your Favorites browser folder was a treasure to be saved for generations. A time when [a famous Brazilian TV host could try a musical career and his flagship song could be having virtual friends](https://www.youtube.com/watch?v=wcGuYtUkaIw). If I was older, I would probably would been a IRC user, but the only thing burned in my mind is [my dad's ICQ notification sound](https://www.youtube.com/watch?v=6iCPIUGnHQ8).
 
-![(some old sites that I had during the years, from top to bottom, left to right: (1) my first GeoCities website that I did with my dad circa 2004; (2) my most serious attempt to create a humor blog in 2011; (3) the rebranding I did for the same site on 2012; (4) a portfolio link aggregator that I did in 2016 when tried to be a freelance writer)](/img/posts/why-i-created-this-blog/oldblogs.jpg)
+![(some old sites that I had during the years, from top to bottom, left to right: (1) my first GeoCities website that I did with my dad circa 2004; (2) my most serious attempt to create a humor blog in 2011; (3) the rebranding I did for the same site on 2012; (4) a portfolio link aggregator that I did in 2016 when tried to be a freelance writer)](/assets/posts/why-i-created-this-blog/oldblogs.jpg)
 
 *(some old sites that I had during the years, from top to bottom, left to right: (1) my first GeoCities website that I did with my dad circa 2004; (2) my most serious attempt to create a humor blog in 2011; (3) the rebranding I did for the same site on 2012, drawing by [Mitsujii](https://www.mitsujii.com/); (4) a portfolio link aggregator that I did in 2016 when I tried to be a freelance writer)*
 
@@ -46,7 +46,7 @@ And then, the internet started to change, and me too. As I started to enter my t
 
 Well, and then, **everything happened!?** Facebook starts taking over everything, YouTube gets a lot of traction and makes video sharing a true reality, Twitter just explodes and became the new sensation. During this process for us in Brazil, Orkut was really famous yet, and there's a lot of humor blogs, just creating first-generation memes and reposting cool videos from other humor blogs. I tried a lot to be part of this, maybe with a dozen different blogs and some YouTube channels. No, you cannot watch my teenager vlogs or I'll need to kill you.
 
-![Orkut](/img/posts/why-i-created-this-blog/orkut.jpg)
+![Orkut](/assets/posts/why-i-created-this-blog/orkut.jpg)
 
 Looking back, I really lived in the internet all of this time. If it was healthy, I can't say, but I definitely did. Most of my hobbies at the time was doing something in the computer, probably on the web. My favorite game as a child was Club Penguin! It's strange that children nowadays just are born with a smartphone in the hands — and I had a similar, but so different infancy. That's why finding my way on the internet is not just doing a hobby or creating an account: **the Web is a integral part of my history, and my online persona is an important part of me.**
 
@@ -64,7 +64,7 @@ In a matter of years, **that little child that sees the internet as an infinite 
 
 And then, I think I never understood what I want from the internet anymore. Besides like, being a "common" (but chronically online) user. For a person that created stupid projects in a monthly basis, it's a little sad. I know that, well, I was an adult now, with a job, responsibilities and mental fatigue, but something was missing. **My internet persona was missing.**
 
-![one of my old board game prototypes that I failed to develop fully](/img/posts/why-i-created-this-blog/essentia.jpg)
+![one of my old board game prototypes that I failed to develop fully](/assets/posts/why-i-created-this-blog/essentia.jpg)
 
 *(one of my old board game prototypes that I failed to develop fully)*
 
@@ -102,4 +102,6 @@ If you just read something and want to comment, talk! Are you a content creator 
 
 **No pressure, just vibes.** It feels like a new part of me is alive again, and I'm just so excited to have fun with this strange place again. Wish me luck!
 
-render "components/thanks" icon:"icons/photo" message:"Thanks to Super Snapper (on Unsplash) for the cover photo. "
+{% iconText 'photo_camera' %}
+  Thanks to Super Snapper (on Unsplash) for the cover photo.
+{% endiconText %}

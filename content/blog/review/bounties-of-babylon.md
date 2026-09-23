@@ -34,8 +34,10 @@ And then you have an unexpected participation from the [Roll and Move mechanic](
 
 If those strange design choices weren't enough, **Bounties of Babylon's visual presentation** isn't really on the side of good readability. The game looks fine with its low-poly graphics, to be fair, but **it's so hard to visualize what's happening in the game** sometimes. For example, the only way to know if a tile will produce goods at the end of a turn is if some of the objects (like coconuts) are blinking white. With an interface like this, my turns doubled on time so I could read the board and the game situation.
 
- render "components/youtube" id:"Q-3QJCdEYkA"
+ {% yt 'Q-3QJCdEYkA' %}
 
 I truly believe that the digital media can be an amazing tool for game designers to bring tabletop gaming to another level — not only as a "second option", but also as a medium to reach the (until) impossible. **Bounties of Babylon**, although, with its odd design choices, outdated mechanics and bad presentation, cannot be used as an example for good use of this medium. At best, it felt like a half-baked puzzle that was frustrating to play and hard to recommend, even for fans of Carcassonne, Catan or strategy games.
 
- render "components/thanks" lang:lang
+ {% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

@@ -36,9 +36,11 @@ The game isn't just a visual novel though. **The Cauldron Kids** intercalates th
 
 I need to also point out the **huge amount of accessibility toggles** to a fairly small game made by a small team. You can rebind keys or deactivate some visual artifacts that can be uncomfortable, for example. You can also make the already easy minigames even easier, a probably good idea to allow small kids to experience the story without getting too frustrated. It only shows that putting accessibility first isn't just a question of money or resources, but first a matter of principles and priority.
 
- render "components/youtube" id:"eRSArmoDGig"
+ {% yt 'eRSArmoDGig' %}
 
 Short, cute, silly, sincere: I have so much adjectives to define **The Cauldron Kids: The Summoning of Mr. Vermicelli**. There's nothing groundbreaking here, but Pet Golem Games were really happy in their decisions and created a little story about kids and magic that warmed my heart. If you are also looking for something radically different than your typical AAA game... well, Mom's only get home at night, and whoever gets the hat is the leader! Now it's time to start our master plan...
 
- render "components/thanks" message:"The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!"
+{% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}
 

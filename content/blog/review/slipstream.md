@@ -43,8 +43,10 @@ Besides that though, you can only drift to pass hard curves and get **more speed
 
 BUT TALKING ABOUT THAT, **SLIPSTREAM IS A GORGEOUS GAME**. I'm so glad that my Switch was docked when I started the game for the first time, because the visual work of this title is genuinely beautiful. **All the colors and pixels just popped from the TV**, and for the first races, I was just losing positions to just appreciate those graphics. Instead of limiting itself with the capacities of a Mega Drive, for example, it just had gone beyond the past and put it on the screen what every 90s child really imagined the games were at the time. The VHS effect on the rewind was a really nice touch.
 
- render "components/youtube" id:"dq01extmTtg"
+ {% yt 'dq01extmTtg' %}
 
 I truly believe that new games that uses nostalgia as a starting point mustn't just gave me more of the past. If I want to play those games again, I will just play them again, you know? **Slipstream** have some flaws, but does an amazing job of bringing the same vibe and feeling in a new and original game. Mechanically it isn't that great, but visually it just transforms memories into pixels in a screen so beautifully. For the 2020s, it can be a little repetitive, but there's no doubt that in an alternative reality of the 1990s (and in the heart of those that lived it), **Slipstream is already a classic.**
 
- render "components/thanks" message:"The team behind this game sent me a copy of the game so I could play it and write my review. Thanks for the trust!"
+{% iconText 'favorite' %}
+  The team behind this game sent me a press key so I could play it and write my review. Thanks for the trust!
+{% endiconText %}

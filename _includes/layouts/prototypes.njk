@@ -36,7 +36,7 @@ info:
           {% for button in buttons %}
             {% if item.data[button.id] %}
               <a target="_blank" href="{{ item.data[button.id] }}">
-                <span class="icon">{{ button.icon }}</span> 
+                <span class="icon">{{ button.icon }}</span>
                 <span class="label">{{ ['prototypes.button.', button.id] | join | t }}</span>
               </a>
             {% endif %}
@@ -49,7 +49,7 @@ info:
         <div class="proto-info">
           {% for line in info %}
             <span>
-              <span class="icon">{{ line.icon }}</span> 
+              <span class="icon">{{ line.icon }}</span>
               <span class="label">{{ item.data[line.id] }}</span>
             </span>
           {% endfor %}
