@@ -1,0 +1,7 @@
+{
+  "override:tags": ["archive-pt"],
+  "layout": "layouts/post.njk",
+  "category": "Review Arquivada",
+  "pill": "blue",
+  "backToArchive": true
+}

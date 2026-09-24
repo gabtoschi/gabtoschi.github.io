@@ -1,11 +1,12 @@
 ---
 layout: layouts/base-article.njk
 eleventyExcludeFromCollections: true
+translate: /pt/jogos/ludografia
 ---
 
 # Gabriel Toschi's ludography
 
-This is a complete list of all my game projects, digital or analog.
+This is a complete list of **all my game projects**, digital or analog.
 
 ## 2026
 - [Prisma](/games/prisma) (EducaMeeple)

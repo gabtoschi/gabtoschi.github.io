@@ -7,7 +7,7 @@ eleventyExcludeFromCollections: true
 <section class="section-bloglist">
   <div class="blog-header">
     <h1>{{ 'blog.header.title' | t }}</h1>
-    <a class="btn secondary small" href='/feed.xml'>
+    <a class="btn secondary small" href='{{ 'url.rss' | t }}'>
       <span class="icon rss-icon">rss_feed</span>
       <span class="rss-text">{{ 'blog.header.rss' | t }}</span>
     </a>
@@ -74,7 +74,7 @@ eleventyExcludeFromCollections: true
       </a>
     {% endif %}
 
-    {% if (pagination.pageNumber + 1) < pagination.hrefs.length - 1 %}
+    {% if (pagination.pageNumber + 1) < pagination.hrefs.length - 2 %}
       <span class="item disabled">...</span>
     {% endif %}
 

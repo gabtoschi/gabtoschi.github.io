@@ -12,17 +12,8 @@ import l10nFilter from './_includes/filters/l10n-filter.js';
 import sectionFilter from './_includes/filters/section-filter.js';
 import switchLangFilter from './_includes/filters/switch-lang-filter.js';
 
-import cardRowShortcode from './_includes/shortcodes/card-row-shortcode.js';
-import carouselShortcode from './_includes/shortcodes/carousel-shortcode.js';
 import gamesListShortcode from './_includes/shortcodes/games-list-shortcode.js';
-import heroVisualShortcode from './_includes/shortcodes/hero-visual-shortcode.js';
 import iconTextShortcode from './_includes/shortcodes/icon-text-shortcode.js';
-import infiniteCarouselShortcode from './_includes/shortcodes/infinite-carousel-shortcode.js';
-import linkRowShortcode from './_includes/shortcodes/link-row-shortcode.js';
-import metricsGridShortcode from './_includes/shortcodes/metrics-grid-shortcode.js';
-import pillShortcode from './_includes/shortcodes/pill-shortcode.js';
-import twoColShortcode from './_includes/shortcodes/two-col-shortcode.js';
-import wrapShortcode from './_includes/shortcodes/wrap-shortcode.js';
 import youtubeShortcode from './_includes/shortcodes/youtube-shortcode.js';
 
 export default async function(eleventyConfig) {
@@ -35,18 +26,37 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(lightningCSS);
 	eleventyConfig.addPlugin(I18nPlugin, { defaultLanguage: 'en', errorMode: 'never' });
 	eleventyConfig.addPlugin(RenderPlugin);
+
 	eleventyConfig.addPlugin(feedPlugin, {
 		type: 'atom',
-		outputPath: '/blog/feed.xml',
+		outputPath: '/feed.xml',
 		collection: {
 			name: 'blog-en',
 			limit: 10,
 		},
 		metadata: {
 			language: 'en',
-			title: metadata.title,
+			title: `${metadata.title} (EN)`,
 			subtitle: metadata.description,
 			base: 'https://gabtoschi.com/blog',
+			author: {
+				name: metadata.title,
+				email: metadata.email,
+			}
+		}
+	});
+	eleventyConfig.addPlugin(feedPlugin, {
+		type: 'atom',
+		outputPath: '/pt/feed.xml',
+		collection: {
+			name: 'blog-pt',
+			limit: 10,
+		},
+		metadata: {
+			language: 'pt',
+			title: `${metadata.title} (PT)`,
+			subtitle: metadata.description,
+			base: 'https://gabtoschi.com/pt/blog',
 			author: {
 				name: metadata.title,
 				email: metadata.email,
@@ -63,24 +73,8 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addFilter('section', sectionFilter);
 	eleventyConfig.addFilter('switchLang', switchLangFilter);
 
-	eleventyConfig.addShortcode('heroVisual', heroVisualShortcode);
-	eleventyConfig.addShortcode('metricsGrid', metricsGridShortcode);
-	eleventyConfig.addShortcode('pill', pillShortcode);
-	eleventyConfig.addShortcode('carousel', carouselShortcode);
-	eleventyConfig.addShortcode('linkRow', linkRowShortcode);
-	eleventyConfig.addShortcode('infiniteCarousel', infiniteCarouselShortcode);
 	eleventyConfig.addShortcode('yt', youtubeShortcode);
 	eleventyConfig.addShortcode('gamesList', gamesListShortcode);
-
-	eleventyConfig.addPairedAsyncShortcode('twoCol', async function(content) {
-		return twoColShortcode(this, eleventyConfig, content);
-	});
-	eleventyConfig.addPairedAsyncShortcode('wrap', async function(content) {
-		return wrapShortcode(this, eleventyConfig, content);
-	});
-	eleventyConfig.addPairedAsyncShortcode('cardRow', async function(content, cols) {
-		return cardRowShortcode(this, eleventyConfig, content, cols);
-	});
 	eleventyConfig.addPairedAsyncShortcode('iconText', async function(content, icon) {
 		return iconTextShortcode(this, eleventyConfig, content, icon);
 	});

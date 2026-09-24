@@ -4,6 +4,7 @@
   --font-icon: 'Material Symbols Outlined';
 
   --white: #ffffff;
+  --shadow: 0 28px 60px rgba(23, 23, 23, 0.12);
 
   --grey-bg0: #e2edf6;
   --grey-bg1: #c3dae8;
@@ -52,32 +53,4 @@
   --pink2: #ff4878;
   --pink3: #cc3a5f;
   --pink4: #992b48;
-
-
-
-  --font-brand: "Croissant One", serif;
-
-
-  --color-text: #171717;
-  --color-bg: #f5f4f1;
-  --color-bg-translucent: rgba(255, 255, 255, 0.7);
-  --color-bg-pill: rgba(236, 192, 236, 0.301);
-  --color-bg-pill2: rgba(124, 110, 255, 0.12);
-  --color-muted: #5f5b56;
-  --color-border: rgba(23, 23, 23, 0.1);
-  --color-border2: rgba(23, 23, 23, 0.2);
-  --color-border3: rgba(255, 255, 255, 0.8);
-  --color-border4: rgba(42, 31, 65, 0.14);
-  --color-accent1: #e782a9;
-  --color-accent2: #b42e5b;
-  --color-accent3: #e6a121;
-  --color-surface: #fffdf9;
-  --color-surface2: #f2efe8;
-  --color-surface3: rgba(255, 255, 255, 0.82);
-  --color-muted-extra: #9c9994;
-  --color-available: #62bd19;
-
-  --shadow: 0 20px 40px rgba(23, 23, 23, 0.08);
-  --shadow-extra: 0 28px 60px rgba(23, 23, 23, 0.12);
-  --shadow-focus: 0 28px 60px rgba(23,23,23,0.18);
 }

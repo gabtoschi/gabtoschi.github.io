@@ -1,15 +1,9 @@
-export default function(url) {
-  const normalizedUrl = url.replace('/pt', '');
+import LOCALE_EN from '../../_data/locales/en.js';
+import LOCALE_PT from '../../_data/locales/pt.js';
 
-  if (this.page.lang === 'pt') {
-    // go to english
-    return normalizedUrl;
-  }
+export default function(translate) {
+  if (translate) return translate;
 
-  if (this.page.lang === 'en') {
-    // go to português
-    return `/pt${normalizedUrl}`;
-  }
-
-  return url;
+  if (this.page.lang == 'en') return LOCALE_PT['url.home'];
+  if (this.page.lang == 'pt') return LOCALE_EN['url.home'];
 }

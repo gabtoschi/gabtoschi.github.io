@@ -1,4 +1,14 @@
 export default {
+  'url.home': '/',
+  'url.about': '/about',
+  'url.games': '/games',
+  'url.ludography': '/games/ludography/',
+  'url.prototypes': '/prototypes',
+  'url.blog': '/blog',
+  'url.archive': '/blog/review',
+  'url.rss': '/feed.xml',
+  'url.contact': '/contact',
+
   'header.nav.about': 'About',
   'header.nav.games': 'Games',
   'header.nav.prototypes': 'Prototypes',
@@ -25,6 +35,9 @@ export default {
   'prototypes.button.sheet': 'Sell Sheet',
   'prototypes.button.rules': 'Rulebook',
   'prototypes.button.pnp': 'Print & Play',
+  'prototypes.cta.title': 'Got you interested?',
+  'prototypes.cta.subtitle': 'Let\'s make those games a reality!',
+  'prototypes.cta.button': 'Get in touch',
 
   'about.header.title': 'Hi, I\'m Gabriel Toschi!',
   'about.header.subtitle': 'Nice to meet you! Let\'s play a game?',
@@ -42,4 +55,9 @@ export default {
   'game.page.ludo': 'Check the game on Ludopedia',
   'game.page.diary': 'Read the full design diary',
   'game.page.back': 'Back to game list',
+
+  'contact.email': 'E-mail',
+  'contact.linkedin': 'LinkedIn',
+  'contact.instagram': 'Instagram',
+  'contact.bluesky': 'Bluesky',
 }

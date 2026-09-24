@@ -1,4 +1,14 @@
 export default {
+  'url.home': '/pt',
+  'url.about': '/pt/sobre',
+  'url.games': '/pt/jogos',
+  'url.ludography': '/pt/jogos/ludografia',
+  'url.prototypes': '/pt/prototipos',
+  'url.blog': '/pt/blog',
+  'url.archive': '/pt/blog/review',
+  'url.rss': '/pt/feed.xml',
+  'url.contact': '/pt/contato',
+
   'header.nav.about': 'Sobre',
   'header.nav.games': 'Jogos',
   'header.nav.prototypes': 'Protótipos',
@@ -24,8 +34,11 @@ export default {
   'prototypes.button.video': 'Video de Pitch',
   'prototypes.button.play': 'Jogue Online',
   'prototypes.button.sheet': 'Sell Sheet',
-  'prototypes.button.rules': 'Manual de Regras',
+  'prototypes.button.rules': 'Manual',
   'prototypes.button.pnp': 'Print & Play',
+  'prototypes.cta.title': 'Te chamaram a atenção?',
+  'prototypes.cta.subtitle': 'Vamos tornar estes jogos realidade!',
+  'prototypes.cta.button': 'Entre em contato',
 
   'about.header.title': 'Oi, sou o Gabriel Toschi!',
   'about.header.subtitle': 'Prazer em te conhecer! Bora jogar alguma coisa?',
@@ -34,13 +47,18 @@ export default {
   'about.cta.button': 'Entre em contato',
   'about.clipping.title': 'Prêmios, entrevistas e palestras',
 
-  'blog.header.title': 'Aqui eu escrevo coisas',
+  'blog.header.title': 'Boas-vindas ao meu blog',
   'blog.header.rss': 'Feed RSS',
-  'blog.post.back': 'Voltar à lista de posts',
+  'blog.post.back.blog': 'Voltar à lista de posts',
   'blog.post.back.archive': 'Voltar ao arquivo de reviews',
 
   'game.page.bgg': 'Veja o jogo no BoardGameGeek',
   'game.page.ludo': 'Veja o jogo na Ludopedia',
   'game.page.diary': 'Leia o diário de design completo',
   'game.page.back': 'Voltar à lista de jogos',
+
+  'contact.email': 'E-mail',
+  'contact.linkedin': 'LinkedIn',
+  'contact.instagram': 'Instagram',
+  'contact.bluesky': 'Bluesky',
 }

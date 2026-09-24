@@ -1,5 +1,6 @@
 ---
 layout: layouts/about.njk
+translate: /pt/sobre
 
 clipping:
   - title: 2024 Cardboard Edison Award - Snowy Peaks as 1st Runner-Up
@@ -41,7 +42,7 @@ From the FrontPage 2003 websites I created as a kid to the RPG Maker games that 
 
 But it was during college (and specially during game jams) that I finally understood the **power of game design**. On those events, I not only created my first puzzles for digital games, but also my first ever board games! Years later, the pandemic hit and the childhood dream started to flourish again.
 
-Now, I'm proud to be working professionally with game design for 5+ years, creating games for publishers around the world, for new universes or existing IPs. My focus are **accessible, easy-to-grasp games**, including family, party, children and micro games. I see challenges like small boxes and theme restrictions more as opportunities to innovate than limitations. **No game is for everyone, but everyone can find their favorite game!**
+Today, I'm proud to be working professionally with game design for 5+ years, creating games for publishers around the world, for new universes or existing IPs. My focus are **accessible, easy-to-grasp games**, including family, party, children and micro games. I see challenges like small boxes and theme restrictions more as opportunities to innovate than limitations. **No game is for everyone, but everyone can find their favorite game!**
 
 <!--section:beforeArchive-->
 

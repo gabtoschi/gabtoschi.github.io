@@ -12,8 +12,8 @@ subtitle: Sometimes, I just want a personal and sincere little adventure
 description: When the world seems to be falling apart in front of you, what you expect in a game story can change. Sometimes, I just want a personal and sincere little adventure to warm my heart.
 thumbnail: "/assets/posts/different-stories-in-games/thumbnail.jpg"
 
-category: Game Design
-pill: orange
+category: Curious Gaming
+pill: blue
 ---
 
 Without falling into too many generalisms, it can be said that many stories told in video games always have as their main figure a hero character. They are about to live an adventure to **solve a problem that puts a lot at risk**, such as the death of someone important or saving the world of a great catastrophe. Trials, challenges, losses and discoveries are part not only of game plots, but of many, many incredible stories in media, which have spanned generations and are still told to this day.

@@ -1,5 +1,6 @@
 ---
 layout: layouts/games.njk
+translate: /pt/jogos
 ---
 
 # All published games

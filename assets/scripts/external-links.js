@@ -1,6 +1,9 @@
-const article = document.querySelector('article');
-const anchors = article?.querySelectorAll('a');
+const wrappers = ['article', '.proto-content'];
 
-anchors.forEach((anchor) => {
-  if (anchor.href.includes('http')) anchor.target = '_blank';
-})
+wrappers.forEach((wrapper) => {
+  document.querySelectorAll(wrapper)?.forEach((el) => {
+    el?.querySelectorAll('a').forEach((anchor) => {
+      anchor.target = '_blank';
+    });
+  });
+});

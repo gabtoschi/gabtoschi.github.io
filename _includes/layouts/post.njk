@@ -18,9 +18,9 @@ header: blog
 
 <div class="post-footer">
   {% if backToArchive %}
-    <a class="btn secondary large" href="/blog/review">{{ 'blog.post.back.archive' | t }}</a>
+    <a class="btn secondary large" href="{{ 'url.archive' | t }}">{{ 'blog.post.back.archive' | t }}</a>
   {% else %}
-    <a class="btn secondary large" href="/blog">{{ 'blog.post.back.blog' | t }}</a>
+    <a class="btn secondary large" href="{{ 'url.blog' | t }}">{{ 'blog.post.back.blog' | t }}</a>
   {% endif %}
 </div>
 

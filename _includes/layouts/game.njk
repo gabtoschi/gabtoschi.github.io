@@ -69,16 +69,17 @@ infoFormat:
 
   {% if video %}{% yt video %}{% endif %}
 
-  <div class="game-process">
+  <article class="game-process">
     {{ content | section('process') | safe }}
+  </article>
 
-      <div class="game-buttons">
-        {% if diary %}
-          <a class="btn primary large" href="{{ diary }}">{{ 'game.page.diary' | t }}</a>
-        {% endif %}
+  <div class="game-buttons">
+    {% if diary %}
+      <a class="btn primary large" href="{{ diary }}">{{ 'game.page.diary' | t }}</a>
+    {% endif %}
 
-        <a class="btn secondary large" href="/games">{{ 'game.page.back' | t }}</a>
-      </div>
-
+    <a class="btn secondary large" href="{{ 'url.games' | t }}">{{ 'game.page.back' | t }}</a>
   </div>
 </section>
+
+<script src="/assets/scripts/external-links.js"></script>

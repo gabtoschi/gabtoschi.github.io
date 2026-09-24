@@ -1,17 +1,18 @@
 ---
+date: 1000-01-01
 title: Cactarium
-subtitle: Move, plant and decorate to build your own 3D cacti garden!
-players: 1-4 players
-time: 45 min
+subtitle: Move, plant and decorate to build your own 3D cacti garden
+players: 2-4 players
+time: 40 min
 type: family game
 
 thumbnail: /assets/prototypes/cactarium/cactarium-thumb.jpeg
-video: https://www.youtube.com/watch?v=BpznbKRfeGs
-play: https://screentop.gg/@gabtoschi/synesthesia
-sheet: /assets/prototypes/synesthesia/synesthesia-sellsheet.pdf
-pnp: /assets/prototypes/synesthesia/synesthesia-pnp.pdf
-rules: /assets/prototypes/synesthesia/synesthesia-rulebook.pdf
+video: https://www.youtube.com/watch?v=RDNU_iwGQ8U
+play: https://screentop.gg/@manganacarta/cactarium
+sheet: /assets/prototypes/cactarium/cactarium-sellsheet.png
+rules: /assets/prototypes/cactarium/cactarium-rulebook.pdf
+pnp: /assets/prototypes/cactarium/cactarium-pnp.pdf
 
 ---
 
-You are invited to **create your own cozy and beautiful garden** using 3D cacti pieces that can stack to form big cacti or expand as an array of colors. Move your gardener and choose special actions each turn to plant new cacti, blossom flowers and place decorations around. Co-designed with Danilo Valente.
+Walk your gardener around the plot and **stack cacti three types high**. You cannot cross unflowered cacti, so grow flowers on the ones standing in your way. Decorate with statues, stacked stones and benches to score more points. *Co-designed with [Danilo Valente](https://manganacarta.com/).*

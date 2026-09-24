@@ -2,3 +2,24 @@
 layout: layouts/base.njk
 header: contact
 ---
+
+<section class="section-contact">
+  {{ content | section('header') | safe }}
+
+  <div class="contact-list">
+    <div class="contact-image"></div>
+
+    <div class="contact-links">
+      {% for id, link in contact %}
+        <a class="btn secondary large" target="_blank" href="{{ link }}">
+          <img class="icon" src="/assets/icons/contact/{{ id }}.svg" />
+          <span>{{ ['contact.', id] | join | t }}</span>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <article class="contact-faq">
+    {{ content | section('faq') | safe }}
+  </article>
+</section>

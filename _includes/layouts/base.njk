@@ -52,7 +52,7 @@ allLang:
                 {% if lang == l %}
                   <span class="link-lang active" aria-label="{{ l }}">{{ l }}</span>
                 {% else %}
-                  <a href="{{ page.url | switchLang }}" class="link-lang" aria-label="{{ l }}">
+                  <a href="{{ translate | switchLang }}" class="link-lang" aria-label="{{ l }}">
                     {{ l }}
                   </a>
                 {% endif %}

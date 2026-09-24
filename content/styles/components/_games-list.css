@@ -7,13 +7,14 @@
   flex-wrap: wrap;
   margin-top: 20px;
   row-gap: 30px;
+  column-gap: 18px;
 
   @media (max-width: 680px) {
     justify-content: space-around;
   }
 
   .game-item {
-    width: var(--item-size);
+    width: auto;
     height: var(--item-size);
 
     display: flex;
@@ -23,6 +24,7 @@
     &:hover {
       img {
         scale: 1.1;
+        box-shadow: var(--shadow);
       }
     }
 

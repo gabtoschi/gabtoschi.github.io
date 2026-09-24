@@ -1,6 +1,7 @@
 ---
 layout: layouts/archive.njk
 eleventyExcludeFromCollections: true
+translate: /pt/blog/review
 ---
 
 # Game Review Archive (2023-2026)
