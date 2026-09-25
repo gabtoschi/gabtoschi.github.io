@@ -6,7 +6,7 @@ players: 3-8 players
 time: 20 min
 type: party game
 
-thumbnail: /assets/prototypes/synesthesia/synesthesia-thumb.png
+thumbnail: /assets/prototypes/synesthesia/synesthesia-thumb.jpg
 video: https://www.youtube.com/watch?v=BpznbKRfeGs
 sheet: /assets/prototypes/synesthesia/synesthesia-sellsheet.png
 pnp: /assets/prototypes/synesthesia/synesthesia-pnp.pdf

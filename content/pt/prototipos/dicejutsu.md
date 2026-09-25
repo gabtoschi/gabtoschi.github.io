@@ -2,9 +2,9 @@
 date: 1000-01-03
 title: Dice-Jutsu
 subtitle: Domine a arte milenar de lutar jogando dados
-players: 2-4 players
+players: 2-4 pessoas
 time: 30 min
-type: dexterity game
+type: jogo de destreza
 
 thumbnail: /assets/prototypes/dicejutsu/dicejutsu-thumb.png
 video: https://www.youtube.com/watch?v=MnsxClmkj-4

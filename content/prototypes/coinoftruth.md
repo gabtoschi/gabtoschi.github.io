@@ -6,7 +6,7 @@ players: 3-6 players
 time: 5min/player
 type: party game
 
-thumbnail: /assets/prototypes/coinoftruth/coinoftruth-thumb.jpeg
+thumbnail: /assets/prototypes/coinoftruth/coinoftruth-thumb.jpg
 rules: /assets/prototypes/coinoftruth/coinoftruth-rulebook.pdf
 pnp: /assets/prototypes/coinoftruth/coinoftruth-pnp.pdf
 

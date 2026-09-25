@@ -6,7 +6,7 @@ players: 2-6 players
 time: 10 min
 type: children party game
 
-thumbnail: /assets/prototypes/fruitsmash/fruitsmash-thumb.png
+thumbnail: /assets/prototypes/fruitsmash/fruitsmash-thumb.jpg
 rules: /assets/prototypes/fruitsmash/fruitsmash-rulebook.pdf
 pnp: /assets/prototypes/fruitsmash/fruitsmash-pnp.pdf
 

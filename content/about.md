@@ -1,6 +1,7 @@
 ---
 layout: layouts/about.njk
 translate: /pt/sobre
+title: About Me
 
 clipping:
   - title: 2024 Cardboard Edison Award - Snowy Peaks as 1st Runner-Up

@@ -1,6 +1,7 @@
 ---
 layout: layouts/about.njk
 translate: /about
+title: Sobre mim
 
 clipping:
   - title: 2024 Cardboard Edison Award - Snowy Peaks (Top 2)

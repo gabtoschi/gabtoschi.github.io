@@ -6,7 +6,7 @@ players: 2-6 pessoas
 time: 10 min
 type: jogo festivo / infantil
 
-thumbnail: /assets/prototypes/fruitsmash/fruitsmash-thumb.png
+thumbnail: /assets/prototypes/fruitsmash/fruitsmash-thumb.jpg
 rules: /assets/prototypes/fruitsmash/fruitsmash-rulebook.pdf
 pnp: /assets/prototypes/fruitsmash/fruitsmash-pnp.pdf
 

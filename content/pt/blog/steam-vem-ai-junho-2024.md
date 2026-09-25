@@ -13,7 +13,7 @@ category: Eventos de Jogos
 pill: blue
 
 subtitle: "Tantos jogos em só duas semanas, e esses chamaram minha atenção"
-description: "Tantos jogos em só duas semanas, e esses chamaram minha atenção! Including demos from Steam Next Fest and all other summer showcases."
+description: "Tantos jogos em só duas semanas, e esses chamaram minha atenção! Inclui demos do Steam Vem Aí e outros showcases."
 thumbnail: "/assets/posts/steam-next-fest-june-2024/thumbnail-pt.jpg"
 ---
 

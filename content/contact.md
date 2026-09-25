@@ -1,6 +1,7 @@
 ---
 layout: layouts/contact.njk
 translate: /pt/contato
+title: Contact Me
 ---
 
 <!--section:header-->

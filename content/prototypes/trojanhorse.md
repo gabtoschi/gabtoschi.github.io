@@ -6,7 +6,7 @@ players: 2-4 players
 time: 25min
 type: light card game
 
-thumbnail: /assets/prototypes/trojanhorse/trojanhorse-thumb.png
+thumbnail: /assets/prototypes/trojanhorse/trojanhorse-thumb.jpg
 video: https://www.youtube.com/watch?v=BpznbKRfeGs
 play: https://screentop.gg/@gabtoschi/trojanhorse
 sheet: /assets/prototypes/trojanhorse/trojanhorse-sellsheet.pdf

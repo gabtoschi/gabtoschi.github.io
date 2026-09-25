@@ -1,5 +1,0 @@
-{
-  "tags": ["games-pt"],
-  "header": "games",
-  "layout": "layouts/game.njk"
-}

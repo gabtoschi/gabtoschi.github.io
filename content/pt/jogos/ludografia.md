@@ -2,6 +2,7 @@
 layout: layouts/base-article.njk
 eleventyExcludeFromCollections: true
 translate: /games/ludography
+title: Ludografia
 ---
 
 # Ludografia de Gabriel Toschi

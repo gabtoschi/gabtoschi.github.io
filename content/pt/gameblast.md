@@ -1,5 +1,6 @@
 ---
 layout: layouts/base-article.njk
+title: GameBlast
 ---
 
 ![GameBlast](/assets/site/gameblast.png)

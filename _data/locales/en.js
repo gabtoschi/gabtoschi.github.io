@@ -60,4 +60,6 @@ export default {
   'contact.linkedin': 'LinkedIn',
   'contact.instagram': 'Instagram',
   'contact.bluesky': 'Bluesky',
+
+  'computed.description.game': (title) => `Learn more about my game ${title}!`,
 }

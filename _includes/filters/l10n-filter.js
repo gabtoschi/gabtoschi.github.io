@@ -1,8 +1,5 @@
-import pt from '../../_data/locales/pt.js';
-import en from '../../_data/locales/en.js';
+import { getLocale } from '../utils/l10n.util.js';
 
 export default function(key) {
-  if (this.page.lang === 'en') return en[key] || key;
-  if (this.page.lang === 'pt') return pt[key] || key;
-  return key;
+  return getLocale(this.page.lang)[key] || key;
 }

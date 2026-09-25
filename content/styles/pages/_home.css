@@ -157,7 +157,11 @@
     }
 
     border-radius: 24px;
-    background-color: var(--purple-bg);
+    background-size: cover;
+    background-position: center;
+
+    transition-property: background-image;
+    transition-duration: 0.5s;
   }
 }
 

@@ -11,6 +11,11 @@ hiBacks:
     img: /assets/site/hi-back-rodizio.svg
   - label: Muvuca
     img: /assets/site/hi-back-muvuca.svg
+
+protoImages:
+  - /assets/prototypes/synesthesia/synesthesia-thumb.jpg
+  - /assets/prototypes/coinoftruth/coinoftruth-thumb.jpg
+  - /assets/prototypes/fruitsmash/fruitsmash-thumb.jpg
 ---
 
 <section class="section-hi">
@@ -69,4 +74,9 @@ hiBacks:
   </div>
 </section>
 
+{% for item in protoImages %}
+  <img class="image-loader prototypes" src="{{ item }}" />
+{% endfor %}
+
 <script src="/assets/scripts/hi-card.js"></script>
+<script src="/assets/scripts/proto-home.js"></script>

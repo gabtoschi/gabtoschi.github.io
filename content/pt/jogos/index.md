@@ -1,6 +1,7 @@
 ---
 layout: layouts/games.njk
 translate: /games
+title: Jogos
 ---
 
 # Meus jogos publicados
