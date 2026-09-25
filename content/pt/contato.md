@@ -15,7 +15,7 @@ Talvez eu já saiba até o que você vai perguntar!
 <br /><br />
 
 ### Posso te contratar como programador/desenvolvedor web front-end?
-Bom, é meu trabalho há mais de 10 anos, né! Já trabalho 40 horas por semana programando e tenho muitos jogos para criar, mas se você tiver um projeto interessante, por que não? **HTML + CSS + JavaScript** são minhas especialidades, tenho experiência com praticamente **todos os frameworks** do mercado (React, Vue, Angular, Eleventy) e aprender coisas novas não é problema. Entre em contato!
+Bom, é meu trabalho há mais de 10 anos, né! Já trabalho 40 horas por semana programando e tenho muitos jogos para criar, mas se você tiver um projeto interessante, por que não? **HTML + CSS + JavaScript** são minhas especialidades, tenho experiência com praticamente **todos os frameworks** do mercado (React, Vue, Angular, Eleventy, etc) e aprender coisas novas não é problema. Entre em contato!
 
 ### Você também trabalha com jogos digitais?
 Comecei minha jornada em game design com jogos digitais e me formei em Ciência da Computação por causa disso, então, **adoraria voltar a trabalhar com jogos digitais** algum dia em projetos interessantes. Provavelmente, se o jogo for mais parecido com um jogo de tabuleiro, acho que você confiará mais em mim e eu me sentirei mais à vontade desde o início, mas também brilho com **puzzles no geral**.
