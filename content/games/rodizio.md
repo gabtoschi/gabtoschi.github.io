@@ -15,6 +15,7 @@ bgg: https://bgg.cc/boardgame/470157/rodizio
 ludo: https://ludopedia.com.br/jogo/rodizio
 video: HPKqpVXSWJI
 
+thumbnail: /assets/games/rodizio/rodizio-image2.jpg
 images:
   - /assets/games/rodizio/rodizio-image1.jpg
   - /assets/games/rodizio/rodizio-image2.jpg

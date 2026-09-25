@@ -15,6 +15,7 @@ bgg: https://bgg.cc/boardgame/457915/brigadeiro
 ludo: https://ludopedia.com.br/jogo/brigadeiro
 video: _CJ5DxDdlG0
 
+thumbnail: /assets/games/brigadeiro/brigadeiro-image1.jpg
 images:
   - /assets/games/brigadeiro/brigadeiro-image1.jpg
   - /assets/games/brigadeiro/brigadeiro-image2.jpg

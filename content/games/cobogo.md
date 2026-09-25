@@ -15,6 +15,7 @@ bgg: https://boardgamegeek.com/boardgame/436634/cobogo
 ludo: https://ludopedia.com.br/jogo/cobogo
 video: Bzo6Ddp9xIo
 
+thumbnail: /assets/games/cobogo/cobogo-image2.jpg
 images:
   - /assets/games/cobogo/cobogo-image1.jpg
   - /assets/games/cobogo/cobogo-image2.jpg

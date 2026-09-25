@@ -14,6 +14,7 @@ info:
 bgg: https://boardgamegeek.com/boardgame/474281/prisma
 ludo: https://ludopedia.com.br/jogo/prisma
 
+thumbnail: /assets/games/prisma/prisma-image2.jpg
 images:
   - /assets/games/prisma/prisma-image1.jpg
   - /assets/games/prisma/prisma-image2.jpg

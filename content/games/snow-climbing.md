@@ -14,6 +14,7 @@ info:
 bgg: https://boardgamegeek.com/boardgame/440505/snow-climbing
 ludo: https://ludopedia.com.br/jogo/snow-climbing
 
+thumbnail: /assets/games/snowc/snowc-image1.jpg
 images:
   - /assets/games/snowc/snowc-image1.jpg
   - /assets/games/snowc/snowc-image2.jpg

@@ -15,6 +15,7 @@ bgg: https://boardgamegeek.com/boardgame/448080/os-jetsons
 ludo: https://ludopedia.com.br/jogo/the-jetsons
 video: cVBb4eSNf4A
 
+thumbnail: /assets/games/jetsons/jetsons-image2.jpg
 images:
   - /assets/games/jetsons/jetsons-image1.jpg
   - /assets/games/jetsons/jetsons-image2.jpg

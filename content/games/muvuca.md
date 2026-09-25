@@ -15,6 +15,7 @@ bgg: https://boardgamegeek.com/boardgame/458066/muvuca
 ludo: https://ludopedia.com.br/jogo/muvuca
 video: opP0CkKd17c
 
+thumbnail: /assets/games/muvuca/muvuca-image2.jpg
 images:
   - /assets/games/muvuca/muvuca-image1.jpg
   - /assets/games/muvuca/muvuca-image2.jpg
