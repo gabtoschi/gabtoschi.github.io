@@ -7,15 +7,18 @@ tags:
 title: Como subir seu jogo para a plataforma itch.io
 date: 2021-10-25
 
+category: Publicação de Jogos
+pill: orange
+
 subtitle: Um passo a passo pra te ajudar (ou te salvar numa game jam)
 description: O itch.io é hoje uma das maiores lojas de jogos independentes da internet e todos podem colocar seu jogo lá, tanto para venda, quanto para download gratuito. Esse é um passo-a-passo pra colocar seu jogo lá!
 
-thumbnail: "/img/posts/colocar-jogo-itch-io/thumbnail.jpg"
+thumbnail: "/assets/posts/colocar-jogo-itch-io/thumbnail.jpg"
 ---
 
 Nunca foi tão fácil fazer um jogo hoje em dia, seja ele digital ou analógico. Tanto o público começou a aceitar jogos feitos por times menores (ou por uma pessoa só), quanto as ferramentas de que você precisa para colocar seu jogo no ar também aumentaram bastante. O [**itch.io**](https://itch.io/) é uma das plataformas mais democráticas e abertas para disponibilizar seu jogo na internet (e em meio de vários outros jogos famosos!).
 
-![Página inicial do itch.io](/img/posts/colocar-jogo-itch-io/home.png)
+![Página inicial do itch.io](/assets/posts/colocar-jogo-itch-io/home.png)
 
 Vamos supor que você já tenha seu jogo feito, ou pelo menos uma versão de demonstração, e você quer jogar ele pro mundo e ver o que as pessoas falam. **Este é um passo-a-passo de como subir um projeto no itch.io.** Lembrando que, independente se você fez um jogo digital ou analógico (tabuleiro/cartas/RPG de mesa), todo o procedimento é o mesmo. Inclusive, se você faz qualquer outra coisa digital (quadrinhos, fontes, músicas, recursos gráficos), você também pode usar esse tutorial para colocá-lo na loja.
 
@@ -38,7 +41,7 @@ Se o seu jogo roda diretamente numa página do navegador, você pode subir uma v
 # Passo 1: criando um projeto
 Clique no menu superior direito (onde deve estar o seu nome de usuário), abra o menu suspenso e escolha a opção [**Upload new project**](https://itch.io/game/new). Esta é a tela principal de criação de projeto, onde poderemos subir novos arquivos, alterar dados importantes do projeto e publicá-lo. Se você quiser editar posteriormente o seu jogo, a tela será bem parecida com esta aqui.
 
-![Create a new project](/img/posts/colocar-jogo-itch-io/createnew.png)
+![Create a new project](/assets/posts/colocar-jogo-itch-io/createnew.png)
 
 1. No campo **Title**, coloque o nome do seu jogo.
 2. No campo **Project URL**, você pode escolher como será a URL da página do seu jogo. Ele sempre será no formato *[seu-nome-de-usuario].itch.io/[project-url-escolhida]*. Escolha um nome pequeno, sem acentos ou espaços.
@@ -71,7 +74,7 @@ Clique em **Save & view page** para salvar um rascunho do seu jogo e ver como a 
 # Passo 2: mudar o tema visual da página do projeto
 O básico você já fez e seu jogo já pode ir pro ar! É só voltar a página de edição clicando em **Edit game** e colocar a visibilidade como público. Porém, ainda podemos fazer algumas alterações interessantes na parte visual da página que não podiam ser configuradas antes. Clique no botão **Edit theme** para abrir um menu lateral de tema visual.
 
-![Edit theme](/img/posts/colocar-jogo-itch-io/edittheme.png)
+![Edit theme](/assets/posts/colocar-jogo-itch-io/edittheme.png)
 
 1. Na seção **Color**, você pode escolher cores para certas coisas na página, como o plano de fundo (*BG*), o fundo da seção de conteúdo (*BG 2*), a cor do texto (*Text*) e a cor dos links, títulos e botões (*Link*). Ao clicar no botão *More options...*, também abrem opções para definir cores específicas para títulos (*Headers*) e botões (*Buttons*) e a transparência do fundo da seção de conteúdo (*BG2 Alpha*).
 2. Na seção **Text**, você pode escolher qual a fonte será usada para todo o texto da página no campo *Font* e o seu tamanho em *Size*. Existem algumas fontes padrão, mas você pode escolher qualquer fonte do repositório do [Google Fonts](https://fonts.google.com/) ao clicar na opção *Select Google Font...*. A opção *More options...* permite que você escolha uma fonte específica para os títulos do texto.
@@ -86,7 +89,7 @@ Agora sim a sua página não tem só as informações e arquivos do seu jogo, ma
 # Passo Extra: submeter seu jogo a uma game jam
 Se você encontrou esse tutorial para poder submeter seu jogo em uma game jam/maratona de criação de jogos que está sendo hospedada no itch.io, siga estas instruções.
 
-![Submit game to jam](/img/posts/colocar-jogo-itch-io/gamejam.png)
+![Submit game to jam](/assets/posts/colocar-jogo-itch-io/gamejam.png)
 
 1. Crie seu projeto como os passos anteriores descreveram e deixe-o público.
 2. Vá até a página da jam no itch.io.

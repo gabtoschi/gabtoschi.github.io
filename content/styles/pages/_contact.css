@@ -1,0 +1,47 @@
+@import '../_variables.css';
+
+.section-contact {
+  .contact-list {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+    @media (max-width: 1000px) {
+      flex-direction: column;
+    }
+  }
+
+  .contact-image {
+    width: 40%;
+    height: 300px;
+
+    @media (max-width: 1000px) {
+      width: 100%;
+      height: 300px;
+    }
+
+    border-radius: 24px;
+    background-image: url('/assets/site/about-me.png');
+    background-size: cover;
+    background-position: center;
+  }
+
+  .contact-links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: stretch;
+
+    @media (max-width: 1000px) {
+      width: stretch;
+      flex-direction: row;
+      flex-wrap: wrap;
+      row-gap: 20px;
+    }
+  }
+
+  .contact-faq {
+    margin-top: 80px;
+  }
+}

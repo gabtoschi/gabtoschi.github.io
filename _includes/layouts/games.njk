@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+eleventyExcludeFromCollections: true
+---
+
+<section class="section-gamelist">
+  <article>
+    {{ content | safe }}
+  </article>
+
+  {% gamesList collections[['games-', lang] | join] | reverse %}
+</section>

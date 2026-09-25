@@ -8,9 +8,12 @@ title: Nem toda história de jogo precisa ser sobre “salvar o mundo”
 date: 2021-11-30
 translate: /blog/different-stories-in-games
 
+category: Jogos Maneiros
+pill: blue
+
 subtitle: Às vezes, só quero uma pequena aventura pessoal e sincera para aquecer meu coração
 description: Quando o mundo parece estar desmoronando na sua frente, o que você espera da história de um jogo pode mudar. Às vezes, só quero uma pequena aventura pessoal e sincera para aquecer meu coração.
-thumbnail: "/img/posts/different-stories-in-games/thumbnail.jpg"
+thumbnail: "/assets/posts/different-stories-in-games/thumbnail.jpg"
 ---
 
 Sem cair em muitos generalismos, dá pra dizer que muitas histórias contadas em videogame sempre tem como figura principal um personagem herói, prestes a viver uma aventura para **resolver um problema que coloca muita coisa em risco**, como a morte de alguém importante ou salvar o mundo de uma grande catástrofe. Provações, desafios, perdas e descobertas fazem parte não só das tramas de jogos, mas de muitas e muitas tramas incríveis, que ultrapassaram gerações e ainda são contadas até hoje.
@@ -27,7 +30,7 @@ O jogo que me inspirou a escrever esse texto foi **[Unpacking](https://www.unpac
 
 O puzzle em si era realmente divertido, tentar encaixar tudo em seus devidos lugares era bem interessante. Pelo menos até a parte em que ele me fazia decidir se um pano aleatório era uma toalha de rosto, um pano de prato ou uma fronha de travesseiro. Mas, enfim, jogar Unpacking foi uma experiência prazerosa por si só.
 
-![Unpacking](/img/posts/different-stories-in-games/unpacking.jpg)
+![Unpacking](/assets/posts/different-stories-in-games/unpacking.jpg)
 
 Eu só não esperava o quanto eu ficaria **investido completamente** na história do jogo. Na real, eu nem esperava que o jogo realmente tivesse uma história! Podia jurar que seria só uma série de salas, com você tentando encaixar tudo no lugar sem sobrar nada.
 
@@ -41,7 +44,7 @@ Enquanto eu pensava em outros jogos que eu poderia usar como exemplos nesse text
 
 Eu acho que tive poucas experiências mais felizes com videogame e jogar esse jogo foi uma delas. A proposta, como você pode esperar a esse ponto, é bem simples: você ajuda a pássara Claire a **explorar um parque provincial** e conseguir subir uma montanha para conseguir sinal pro celular dela.
 
-![A Short Hike](/img/posts/different-stories-in-games/ashorthike.jpg)
+![A Short Hike](/assets/posts/different-stories-in-games/ashorthike.jpg)
 
 Antes de falar da história, eu necessito elogiar o quão gostoso é jogar esse jogo. O movimento, o voo, a exploração, a progressão, as sidequests, o estilo de arte, os diálogos, tudo nesse jogo parece ter sido feito com tanto carinho com o **único objetivo de tirar um sorriso do meu rosto**. Jogar A Short Hike é muito bom e continuaria sendo um jogo maravilhoso de jogar mesmo sem ser aconchegante como ele é. Mas ele faz isso e ainda consegue aquecer o meu coração.
 
@@ -55,7 +58,7 @@ Outro jogo que me marcou nesses últimos meses foi **[Assemble with Care](https:
 
 Esse jogo me encantou de algumas maneiras diferentes. A primeira delas foi como consertar coisas no jogo era divertido e simples: os puzzles não tinham uma dificuldade muito alta, mas sempre traziam novos elementos e eram bem interessantes. De alguma maneira, era como se **eu pudesse fazer as mesmas coisas que o meu pai** **fazia** quando eu era criança; eu me senti com as mesmas habilidades que ele, nem que seja por alguns minutos em um videogame.
 
-![Assemble with Care](/img/posts/different-stories-in-games/assemble.jpg)
+![Assemble with Care](/assets/posts/different-stories-in-games/assemble.jpg)
 
 Mas ao mesmo tempo, a forma como esse jogo apresenta o seu mundinho também é algo que me chamou muito a atenção: todo objeto que valha a pena ser consertado é importante pra alguém. Conforme você vai conhecendo as pessoas da cidade e consertando seus objetos, você vai entendendo os problemas dessas pessoas e o que aqueles objetos representam. Eu sempre fui fascinado pelas histórias que os objetos podem ter e como eles podem representar a vida de alguém (ou de um grupo). Poder, de alguma maneira, **dar uma nova vida a estes objetos e começar um novo capítulo para essas pessoas** foi algo muito especial.
 
@@ -67,7 +70,7 @@ Uma parte de mim queria que esse jogo nunca tivesse fim, que eu pudesse ir pra u
 
 OK, eu sei que vai parecer meio fora de tom falar desse jogo, mas eu acho que é um bom contra exemplo pra mostrar que esses jogos dos quais agora sou fã não precisam ser só sobre histórias bonitas e íntimas. Até porque eu definitivamente não salvei o mundo em **[Untitled Goose Game](https://goose.game/)**, desenvolvido pela [House House](https://househou.se/) e publicado pela [Panic](https://panic.com/). Se você já viu um GIF de **um ganso buscando ser a própria encarnação do caos**, você sabe de que jogo eu tô falando.
 
-![Untitled Goose Game](/img/posts/different-stories-in-games/goose.jpg)
+![Untitled Goose Game](/assets/posts/different-stories-in-games/goose.jpg)
 
 Eu gosto demais de pensar sobre a reunião em que a ideia desse jogo foi discutida: “**e se você pudesse ser o ganso mais escroto da face do planeta?**”. E, de verdade, não é que isso é estupidamente divertido!? Por mais que os controles sejam um pouco estranhos e as missões possam ser frustrantes em algum momento, eu joguei esse negócio em co-op com mozão e **foi muito, muito engraçado**. Era bem interessante como a gente casualmente revezava qual ganso ia fazer a tarefa do jogo e qual ia apenas grasnar para todos os humanos para assustá-los.
 

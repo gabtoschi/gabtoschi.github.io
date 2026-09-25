@@ -1,0 +1,82 @@
+---
+layout: layouts/base.njk
+header: home
+
+hiBacks:
+  - label: Cobogó
+    img: /assets/site/hi-back-cobogo.svg
+  - label: Brigadeiro
+    img: /assets/site/hi-back-brigadeiro.svg
+  - label: Rodízio
+    img: /assets/site/hi-back-rodizio.svg
+  - label: Muvuca
+    img: /assets/site/hi-back-muvuca.svg
+
+protoImages:
+  - /assets/prototypes/synesthesia/synesthesia-thumb.jpg
+  - /assets/prototypes/coinoftruth/coinoftruth-thumb.jpg
+  - /assets/prototypes/fruitsmash/fruitsmash-thumb.jpg
+---
+
+<section class="section-hi">
+  <div class="hi-left">
+    <h1>{{ 'home.hi.title' | t }}</h1>
+    <span>{{ 'home.hi.text1' | t }}<b>{{ 'home.hi.text2' | t }}</b>{{ 'home.hi.text3' | t }}</span>
+    <span><a class="btn primary large" href="{{ 'url.contact' | t }}">{{ 'home.hi.button' | t }}</a></span>
+  </div>
+  <div class="hi-right">
+    <div class="card-back">
+      {% for item in hiBacks %}
+        <div class="back-item hidden">
+          <span class="back-label">{{ item.label }}</span>
+          <div class="back-img" style="background-image: url('{{ item.img }}')"></div>
+        </div>
+      {% endfor %}
+    </div>
+    <div class="card-front"></div>
+  </div>
+</section>
+
+<section class="section-games">
+  <div class="games-header">
+    <h3>{{ 'home.games.title' | t }}</h3>
+    <span><a class="btn primary small" href='{{ 'url.games' | t }}'>{{ 'home.games.button' | t }}</a></span>
+  </div>
+
+  {% gamesList collections[['games-', lang] | join] | reverse | firstNth(6) %}
+
+</section>
+
+<section class="section-prototypes">
+  <div class="proto-left">
+    <h1>{{ 'home.prototypes.title' | t }}</h1>
+    <span><a class="btn primary large" href='{{ 'url.prototypes' | t }}'>{{ 'home.prototypes.button' | t }}</a></span>
+  </div>
+
+  <div class="proto-right"></div>
+</section>
+
+<section class="section-blog">
+  <div class="blog-header">
+    <h3>{{ 'home.blog.title' | t }}</h3>
+    <span><a class="btn primary small" href='{{ 'url.blog' | t }}'>{{ 'home.blog.button' | t }}</a></span>
+  </div>
+
+  <div class="post-list">
+    {% for item in collections[['blog-', lang] | join] | reverse | firstNth(8) %}
+      <div class="post-item">
+        <span class="pill-wrapper">
+          <span class="pill {{ item.data.pill }}">{{ item.data.category }}</span>
+        </span>
+        <a href="{{ item.page.url }}">{{ item.data.title }}</a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+{% for item in protoImages %}
+  <img class="image-loader prototypes" src="{{ item }}" />
+{% endfor %}
+
+<script src="/assets/scripts/hi-card.js"></script>
+<script src="/assets/scripts/proto-home.js"></script>

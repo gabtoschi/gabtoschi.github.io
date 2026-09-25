@@ -1,0 +1,30 @@
+@import '../_variables.css';
+
+.pill {
+  display: inline;
+  padding: 6px 16px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  text-align: center;
+
+  font-family: var(--text-base);
+  color: var(--white);
+  font-weight: 700;
+  font-size: 12px;
+
+  &.blue {
+    background-color: var(--blue3);
+  }
+
+  &.orange {
+    background-color: var(--orange3);
+  }
+
+  &.green {
+    background-color: var(--green3);
+  }
+
+  &.pink {
+    background-color: var(--pink3);
+  }
+}

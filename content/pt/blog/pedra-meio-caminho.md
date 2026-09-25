@@ -7,13 +7,18 @@ tags:
 title: Uma pedra no meio do caminho
 date: 2014-03-28
 
+category: Devaneios
+pill: pink
+
 subtitle: Um texto sobre pedras, rochas e cascalhos.
 description: Um texto sobre pedras, rochas e cascalhos.
 
-thumbnail: "/img/posts/pedra-meio-caminho/thumbnail.jpg"
+thumbnail: "/assets/posts/pedra-meio-caminho/thumbnail.jpg"
 ---
 
-{% render "components/thanks" icon:"icons/time" message:"Eu escrevi esse texto em 2014, no auge do meu Ensino Médio. Eu tenho um carinho especial por ele (e alguns outros), e como eu parei de atualizar o lugar onde estavam, trouxe-os pra cá." %}
+{% iconText 'hourglass_bottom' %}
+  Eu escrevi esse texto em 2014, no auge do meu Ensino Médio. Eu tenho um carinho especial por ele (e alguns outros), e como eu parei de atualizar o lugar onde estavam, trouxe-os pra cá.
+{% endiconText %}
 
 Tinha uma pedra no meio do caminho. No meio do caminho tinha uma pedra.
 

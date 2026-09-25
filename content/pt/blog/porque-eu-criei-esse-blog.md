@@ -8,10 +8,13 @@ title: Por que criar um blog me ajudou a encontrar uma identidade digital
 date: 2023-12-15
 translate: /blog/why-i-created-this-blog
 
+category: Diário Pessoal
+pill: pink
+
 subtitle: O que EU quero da internet? Dá pra viver uma vida saudável na web?
 description: A internet hoje em dia é uma mistura de vídeos curtos, algoritmos de SEO e IAs que roubam arte. Mas o que EU quero da internet? Dá pra ser saudável na web?
 
-thumbnail: "/img/posts/why-i-created-this-blog/thumbnail.jpg"
+thumbnail: "/assets/posts/why-i-created-this-blog/thumbnail.jpg"
 ---
 
 Se você está lendo isso, terminei um projeto que durou alguns meses em minhas mãos: finalmente **tenho um novo blog / portfólio** feito do zero para os jogos, projetos e textos que adoro fazer como hobby. Sim, é simples, não tem anúncios (e nunca terá), mas fiz dele meu espacinho na web e estou muito feliz com isso.
@@ -30,13 +33,13 @@ Nasci em agosto de 1998 em uma cidade do extremo interior de São Paulo. De acor
 
 As pessoas sempre ficam tristes quando eu digo que nunca tive TV a cabo ou videogame na minha infância, mas **tive o privilégio de ter acesso a computadores e internet desde que nasci**. Sim, era um computador antigo com Windows 98 e internet discada que só dava para usar nos finais de semana, mas esta é a minha memória mais antiga que me lembro. Eu, ainda criança, sentado em uma cadeira alta, olhando para meu pai usando o PC.
 
-![Windows 98](/img/posts/why-i-created-this-blog/win98.jpg)
+![Windows 98](/assets/posts/why-i-created-this-blog/win98.jpg)
 
 De uma forma ou de outra, **eu cresci com a Web**. Quando eu era criança, ganhei meu primeiro endereço de e-mail, aprendi a criar conta em sites infantis. Todo fim de semana, quando eu conectava, a primeira coisa que era obrigado a fazer era baixar a atualização do Norton Antivirus pro meu pai. Adorava navegar em [sites pra baixar software](https://web.archive.org/web/20010222115305/http://www.baixaki.com.br/indexn.asp), porque eu queria experimentar novos jogos e aplicativos durante a semana. Foi também a primeira vez que tentei fazer design de páginas web: usei o GeoCities e o Microsoft FrontPage sem parar como se fosse o MS Paint.
 
 Imagine uma época em que tudo na web eram sites estáticos e a única coisa que um usuário poderia mudar era um contador de visitas, um mundo onde a pasta Favoritos do navegador era um tesouro a ser repassado por gerações. Uma época em que [o Celso Portiolli poderia tentar uma carreira musical e sua principal música poderia ser sobre amizades virtuais](https://www.youtube.com/watch?v=wcGuYtUkaIw). Se eu fosse mais velho, provavelmente teria sido um usuário de IRC, mas a única coisa gravada em minha mente é o [som de notificação do ICQ do meu pai](https://www.youtube.com/watch?v=6iCPIUGnHQ8).
 
-![(alguns sites antigos que eu tive durante os anos, de cima pra baixo, esquerda pra direita: (1) meu primeiro site no GeoCities, que fiz com meu pai em 2004; (2) minha mais séria tentativa em fazer um blog de humor em 2011; (3) o "rebranding" que eu fiz nesse mesmo site em 2012, com desenho de Mitsujii; (4) um agregador de links que eu chamei de portfólio em 2016 quando tentei ser um redator freelancer)](/img/posts/why-i-created-this-blog/oldblogs.jpg)
+![(alguns sites antigos que eu tive durante os anos, de cima pra baixo, esquerda pra direita: (1) meu primeiro site no GeoCities, que fiz com meu pai em 2004; (2) minha mais séria tentativa em fazer um blog de humor em 2011; (3) o "rebranding" que eu fiz nesse mesmo site em 2012, com desenho de Mitsujii; (4) um agregador de links que eu chamei de portfólio em 2016 quando tentei ser um redator freelancer)](/assets/posts/why-i-created-this-blog/oldblogs.jpg)
 
 *(alguns sites antigos que eu tive durante os anos, de cima pra baixo, esquerda pra direita: (1) meu primeiro site no GeoCities, que fiz com meu pai em 2004; (2) minha mais séria tentativa em fazer um blog de humor em 2011; (3) o "rebranding" que eu fiz nesse mesmo site em 2012, com desenho de [Mitsujii](https://www.mitsujii.com/); (4) um agregador de links que eu chamei de portfólio em 2016 quando tentei ser um redator freelancer)*
 
@@ -44,7 +47,7 @@ O tempo passou, a internet começou a mudar e eu também. Quando comecei a entra
 
 Bem, e então, **tudo aconteceu!?** O Facebook começa a dominar tudo, o YouTube ganha muita força e torna o compartilhamento de vídeos uma verdadeira realidade, o Twitter simplesmente explode e se torna a nova sensação. Durante esse processo, o Orkut ainda era muito famoso, e pipocavam os muitos blogs de humor, apenas criando memes de primeira geração e repostando vídeos legais de outros blogs de humor. Tentei muito fazer parte disso, talvez com uma dezena de blogs diferentes e alguns canais no YouTube. Não, você não pode assistir meus vlogs de adolescentes ou vou ter que te matar.
 
-![Orkut](/img/posts/why-i-created-this-blog/orkut.jpg)
+![Orkut](/assets/posts/why-i-created-this-blog/orkut.jpg)
 
 Olhando para trás, eu realmente vivi na internet todo esse tempo. Se foi saudável eu não sei, mas definitivamente vivi. A maioria dos meus hobbies na época era fazer algo no computador, provavelmente na web. Meu jogo favorito quando criança era Club Penguin, sabe? É estranho que as crianças de hoje em dia simplesmente nasçam com um smartphone nas mãos — e eu tive uma infância parecida, mas tão diferente. É por isso que encontrar o meu caminho na Internet não é apenas fazer um hobby ou criar uma nova conta em mais um app: **a Web é parte integrante da minha história e a minha persona online é uma parte importante de mim.**
 
@@ -62,7 +65,7 @@ Em questão de anos, **aquela criança que via a internet como um playground inf
 
 E aí, acho que nunca mais entendi o que queria da internet. Além de gostar de ser um usuário “comum” (mas cronicamente online), claro. Para uma pessoa que criava projetos estúpidos mensalmente, era um pouco triste me ver assim. Eu sei que, bom, agora eu era adulto, com emprego, responsabilidades e cansaço mental, mas faltava alguma coisa. **Faltava uma persona de internet que fizesse sentido de novo.**
 
-![um dos meus muitos protótipos de jogo de tabuleiro que nunca consegui levar pra frente](/img/posts/why-i-created-this-blog/essentia.jpg)
+![um dos meus muitos protótipos de jogo de tabuleiro que nunca consegui levar pra frente](/assets/posts/why-i-created-this-blog/essentia.jpg)
 
 *(um dos meus muitos protótipos de jogo de tabuleiro que nunca consegui levar pra frente)*
 
@@ -100,4 +103,6 @@ Se você acabou de ler algo e quer comentar, fale! Você é um criador de conte�
 
 **Sem pressão, só vibes.** Parece que uma nova parte de mim está viva novamente, e estou muito animado para me divertir com este lugar estranho novamente. Me deseje sorte!
 
-{% render "components/thanks" icon:"icons/photo" message:"Obrigado a Super Snapper (no Unsplash) pela foto de capa." %}
+{% iconText 'photo_camera' %}
+  Obrigado a Super Snapper (no Unsplash) pela foto de capa.
+{% endiconText %}

@@ -1,20 +1,29 @@
 {
   "name": "gabtoschi.github.io",
   "version": "1.0.0",
-  "description": "Gabriel Toschi's personal site and blog",
+  "description": "Gabriel Toschi's website.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve",
+    "build-ghpages": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabtoschi/gabtoschi.github.io.git"
   },
   "keywords": [],
-  "author": "gabtoschi",
+  "author": "Gabriel Toschi",
   "license": "ISC",
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "sass": "^1.69.5"
+  "bugs": {
+    "url": "https://github.com/gabtoschi/gabtoschi.github.io/issues"
   },
+  "homepage": "https://github.com/gabtoschi/gabtoschi.github.io#readme",
+  "type": "module",
   "dependencies": {
-    "bootstrap": "^5.3.2"
+    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy-plugin-rss": "^3.0.0",
+    "@11tyrocks/eleventy-plugin-lightningcss": "^1.6.0",
+    "eleventy-plugin-gen-favicons": "^1.1.3"
   }
 }

@@ -1,0 +1,85 @@
+---
+layout: layouts/base.njk
+
+infoFormat:
+  - id: year
+    icon: calendar_today
+  - id: author
+    icon: settings
+  - id: artist
+    icon: palette
+  - id: publisher
+    icon: factory
+  - id: players
+    icon: person
+  - id: time
+    icon: timelapse
+---
+
+<section class="section-game">
+  <div class="game-header">
+    <div class="game-left">
+      <img alt="{{ title }}" src="{{ cover }}" />
+    </div>
+    <div class="game-right">
+      <div>
+        <h1>{{ title }}</h1>
+
+        <div class="game-info">
+          {% for line in infoFormat %}
+            {% if info[line.id] %}
+              <span>
+                <span class="icon">{{ line.icon }}</span>
+                <span class="label">{{ info[line.id] }}</span>
+              </span>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+
+      {{ content | section('intro') | safe }}
+    </div>
+  </div>
+
+  <div class="game-text">
+    {{ content | section('desc') | safe }}
+  </div>
+
+  <div class="game-buttons">
+    {% if bgg %}
+      <a class="btn secondary large" target="_blank" href="{{ bgg }}">
+        <img class="icon" src="/assets/icons/games/games-bgg.svg" />
+        {{ 'game.page.bgg' | t }}
+      </a>
+    {% endif %}
+
+    {% if ludo %}
+      <a class="btn secondary large" target="_blank" href="{{ ludo }}">
+        <img class="icon" src="/assets/icons/games/games-ludo.svg" />
+        {{ 'game.page.ludo' | t }}
+      </a>
+    {% endif %}
+  </div>
+
+  <div class="game-images">
+    {% for image in images %}
+      <img alt="{{ title }}" src="{{ image }}" />
+    {% endfor %}
+  </div>
+
+  {% if video %}{% yt video %}{% endif %}
+
+  <article class="game-process">
+    {{ content | section('process') | safe }}
+  </article>
+
+  <div class="game-buttons">
+    {% if diary %}
+      <a class="btn primary large" href="{{ diary }}">{{ 'game.page.diary' | t }}</a>
+    {% endif %}
+
+    <a class="btn secondary large" href="{{ 'url.games' | t }}">{{ 'game.page.back' | t }}</a>
+  </div>
+</section>
+
+<script src="/assets/scripts/external-links.js"></script>

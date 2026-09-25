@@ -1,0 +1,34 @@
+@import '../_variables.css';
+
+.icon-text {
+  --radius: 20px;
+  display: flex;
+  padding: 12px 0px;
+
+  * {
+    padding: 20px;
+  }
+
+  .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: var(--font-icon);
+    background-color: var(--yellow-bg2);
+    font-size: 30px;
+    border-radius: var(--radius) 0px 0px var(--radius);
+  }
+
+  :last-child {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    margin: 0;
+    background-color: var(--yellow-bg1);
+    width: stretch;
+    border-radius: 0px var(--radius) var(--radius) 0px;
+    font-weight: 600;
+  }
+}

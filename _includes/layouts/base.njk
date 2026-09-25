@@ -1,0 +1,115 @@
+---
+allLang:
+  - en
+  - pt
+---
+
+<!DOCTYPE html>
+
+<html lang="{{ lang }}" dir="{{ dir }}">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TH1PNWMT83"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'G-TH1PNWMT83');
+    </script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="me" href="https://peoplemaking.games/@gabtoschi">
+    <title>{{ title }}{{ ' | ' if title }}{{ metadata.title }}</title>
+    <meta
+      name="description"
+      content="{{ metadata.description }}"
+    />
+    {% favicons 'assets/site/favicon.svg', appleIconBgColor='#622F8F', appleIconPadding=1 %}
+
+    <meta property="og:title" content="{{ title }}{{ ' | ' if title }}{{ metadata.title }}">
+    <meta property="og:type" content="article" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image" content="{{ metadata.baseUrl }}{{ thumbnail | d(metadata.thumbnail, true) }}">
+    <meta property="og:image:secure_url" content="{{ metadata.baseUrl }}{{ thumbnail | d(metadata.thumbnail, true) }}">
+    <meta property="og:url" content="{{ metadata.baseUrl }}{{ page.url }}">
+    <meta property="og:description" content="{{ description | d(metadata.description, true) }}">
+    <meta property="og:site_name" content="Gabriel Toschi">
+
+    <link rel="stylesheet" href="/styles/bundle.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:FILL@1" rel="stylesheet" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Croissant+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  </head>
+
+  <body>
+    <div id="base-wrapper">
+      <div class="container">
+        <header class="site-header">
+          <div class="header-perm">
+            <a href="{{ '/' }}"><img class='header-logo' alt="{{ metadata.title }}" src="/assets/site/header-logo.png" /></a>
+            <label class="header-hamburger-label" for='header-hamburger'>menu</label>
+          </div>
+
+          <input id="header-hamburger" type="checkbox" />
+          <nav class="site-nav" aria-label="Primary navigation">
+            {% for item in navigation %}
+              <a href="{{ item.url[lang] }}" class="link-nav {{ "active" if header == item.id }}">
+                <img src="{{ item.icon }}" />
+                <span>{{ ['header.nav.', item.id] | join | t }}</span>
+              </a>
+            {% endfor %}
+
+            <div class="lang-switcher" aria-label="Language switcher">
+              {% for l in allLang %}
+                {% if lang == l %}
+                  <span class="link-lang active" aria-label="{{ l }}">{{ l }}</span>
+                {% else %}
+                  <a href="{{ translate | switchLang }}" class="link-lang" aria-label="{{ l }}">
+                    {{ l }}
+                  </a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </nav>
+        </header>
+
+        <main>
+          {{ content | safe }}
+        </main>
+      </div>
+
+      <footer class="site-footer">
+        <div class="footer-left">
+          <img alt="{{ metadata.title }}" src="/assets/site/footer-logo.svg" />
+          <h5>{{ 'footer.text' | t }}</h5>
+          <span class="footer-date desktop">{{ 'footer.date' | t }}</span>
+        </div>
+
+        <div class="footer-right">
+          {% for item in footer %}
+          <a target="_blank" href="{{ item.link }}" class="footer-link">
+            <img src="/assets/icons/social/{{ item.label }}.svg" />
+            <span>{{ item.label }}</span>
+          </a>
+          {% endfor %}
+        </div>
+
+        <span class="footer-date mobile">{{ 'footer.date' | t }}</span>
+      </footer>
+    </div>
+  </body>
+</html>

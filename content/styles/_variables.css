@@ -1,0 +1,56 @@
+:root {
+  --font-title: 'Poetsen One', sans-serif;
+  --font-base: 'Nunito', sans-serif;
+  --font-icon: 'Material Symbols Outlined';
+
+  --white: #ffffff;
+  --shadow: 0 28px 60px rgba(23, 23, 23, 0.12);
+
+  --grey-bg0: #e2edf6;
+  --grey-bg1: #c3dae8;
+  --grey0: #6d8ea1;
+  --grey1: #3c6980;
+  --grey2: #0c4360;
+  --grey3: #09364d;
+  --grey4: #07283b;
+
+  --purple-bg: #e8e1f1;
+  --purple0: #9f7fc8;
+  --purple1: #8760BA;
+  --purple2: #622F8F;
+  --purple3: #4E2573;
+  --purple4: #2F114F;
+
+  --yellow-bg0: #FFFCF5;
+  --yellow-bg1: #f8f1e1;
+  --yellow-bg2: #f5ead4;
+  --yellow0: #ffdb8b;
+  --yellow1: #FFD26E;
+  --yellow2: #FFC800;
+  --yellow3: #D29500;
+  --yellow4: #895B00;
+
+  --blue0: #99d9f2;
+  --blue1: #34bbff;
+  --blue2: #00A9FF;
+  --blue3: #0188cc;
+  --blue4: #006599;
+
+  --green0: #bae69b;
+  --green1: #a2de7a;
+  --green2: #8bd657;
+  --green3: #6fab47;
+  --green4: #548035;
+
+  --orange0: #febf7c;
+  --orange1: #ffaa50;
+  --orange2: #ff9525;
+  --orange3: #e68620;
+  --orange4: #cc771d;
+
+  --pink0: #ff91ae;
+  --pink1: #ff6d92;
+  --pink2: #ff4878;
+  --pink3: #cc3a5f;
+  --pink4: #992b48;
+}

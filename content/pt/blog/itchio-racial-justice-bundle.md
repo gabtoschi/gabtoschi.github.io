@@ -10,14 +10,17 @@ date: 2020-06-09
 subtitle: "1000+ jogos por $5: talvez você precise de uma ajuda pra achar as coisas"
 description: 1000+ jogos por $5 pra arrecadar dinheiro para apoiar pessoas afetadas pelos recentes casos de preconceito, violência e abuso de poder contra pessoas negras.
 
-thumbnail: "/img/posts/itchio-racial-justice-bundle/thumbnail.jpg"
+category: Eventos de Jogos
+pill: blue
+
+thumbnail: "/assets/posts/itchio-racial-justice-bundle/thumbnail.jpg"
 ---
 
 O [itch.io](https://itch.io) lançou, nos últimos dias, um bundle chamado [**Bundle for Racial Justice and Equality**](https://itch.io/b/520/bundle-for-racial-justice-and-equality) de forma a arrecadar fundos para apoiar iniciativas que apoiam pessoas negras, que estão sofrendo ataques físicos e morais nos últimos dias em todo o mundo. São mais de 1000 trabalhos entre jogos, assets, livros e soundtracks por apenas 5 dólares, aproximadamente 27 reais (o preço original dos itens combinados já ultrapassa 7 MIL DÓLARES).
 
 *ATUALIZADO (15/06/2020): acabei de repassar pelo bundle e colocar novos conteúdos que foram adicionados desde a criação do texto. Se você já olhou a lista antes e quer ver os novos, eu deixei eles separados na lista ao fim de cada seção.*
 
-![Bundle Cover](/img/posts/itchio-racial-justice-bundle/bundle.png)
+![Bundle Cover](/assets/posts/itchio-racial-justice-bundle/bundle.png)
 
 De forma a incentivar você a também apoiar a iniciativa, eu decidi passar um pente fino pelo bundle, procurando conteúdos que possam ser interessantes pra você e que possam te convencer a adquirir o bundle (ou descobrir novas coisas se já tiver comprado). Se você tiver alguma sugestão, [entre em contato pelo Twitter](https://twitter.com/gabtoschi).
 

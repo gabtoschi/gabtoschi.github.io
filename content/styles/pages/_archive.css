@@ -1,0 +1,30 @@
+@import '../_variables.css';
+
+.archive-list {
+  column-count: 2;
+  margin-top: 40px;
+
+  @media (max-width: 650px) {
+    column-count: 1;
+  }
+
+  .letter {
+    font-family: var(--font-title);
+    color: var(--purple3);
+  }
+
+  ul {
+    color: var(--purple3);
+  }
+
+  a {
+    text-decoration: none;
+    color: var(--purple3);
+    font-size: 20px;
+
+    &:hover {
+      text-decoration: underline;
+      font-weight: 800;
+    }
+  }
+}

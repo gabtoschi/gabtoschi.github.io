@@ -1,0 +1,64 @@
+@import '../_variables.css';
+
+.btn {
+  font: inherit;
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+
+  border-radius: 8px;
+  font-weight: 700;
+  font-family: var(--font-base);
+  text-align: center;
+  vertical-align: center;
+
+  --icon-size: 32px;
+  --icon-gap: 12px;
+
+  &.small {
+    padding: 6px 10px;
+    font-size: 14px;
+    --icon-size: 16px;
+    --icon-gap: 8px;
+  }
+
+  &.medium {
+    padding: 12px;
+    font-size: 16px;
+  }
+
+  &.large {
+    padding: 14px;
+    font-size: 20px;
+  }
+
+  &.primary {
+    color: var(--white);
+    background-color: var(--purple2);
+
+    &:hover {
+      background-color: var(--purple4);
+    }
+  }
+
+  &.secondary {
+    color: var(--purple2);
+    background-color: var(--white);
+    border: 2px solid var(--purple3);
+
+    &:hover {
+      background-color: var(--purple-bg);
+    }
+  }
+
+  .icon {
+    width: var(--icon-size);
+    height: var(--icon-size);
+    font-size: var(--icon-size);
+
+    font-family: var(--font-icon);
+    margin-right: var(--icon-gap);
+  }
+}

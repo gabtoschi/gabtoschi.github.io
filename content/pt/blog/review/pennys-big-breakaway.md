@@ -9,7 +9,7 @@ date: 2024-03-01
 translate: /blog/review/pennys-big-breakaway
 
 score: 6
-cover: "/img/reviews/pennys-big-breakaway/cover.jpg"
+cover: "/assets/reviews/pennys-big-breakaway/cover.jpg"
 played: jogado no Windows PC (Steam)
 links:
   - ["Steam", "https://store.steampowered.com/app/1955230/Pennys_Big_Breakaway?curator_clanid=44763507"]
@@ -20,7 +20,7 @@ song: ['Balearic Birds', 'https://www.youtube.com/watch?v=oRW77Z6YbTs']
 
 subtitle: "Um platformer 3D pra amantes do gênero que não roda bem com um público maior"
 description: "Mesmo com suas cores e ritmos, Penny estrela um jogo de plataforma 3D para amantes do gênero que não roda bem para outros tipos de jogadores."
-thumbnail: "/img/reviews/pennys-big-breakaway/thumbnail.jpg"
+thumbnail: "/assets/reviews/pennys-big-breakaway/thumbnail.jpg"
 ---
 
 **A expectativa pode realmente mudar a forma como você experimenta qualquer coisa**, incluindo jogos. Às vezes, é por causa de fatores externos — quem não teve um filme que um amigo elogiou por MESES e quando você assistiu, era só OK? O filme provavelmente era bom, mas você esperava ainda mais. Só que às vezes, as expectativas vêm de como um produto é apresentado a você no material oficial de propaganda.
@@ -33,7 +33,7 @@ Apresentava sequências animadas e uma música incrível, além de alguns dos pe
 
 OK, não exatamente errado, o jogo **realmente tem lindas sequências animadas**: elas ajudam a contar uma história não-tão-boa, mas também são um meio para mostrar um ótimo design de personagens! Penny é tão expressiva que quero ter um boneco dela na minha sala. Depois de cometer um erro na frente do Imperador Eddie, ela se torna uma fugitiva que precisa fugir de um monte de pinguins estupidamente fofos até que finalmente consiga sua grande chance de alcançar seu estrelato. Seu único companheiro é Yo-Yo, um ioiô (!) parecido com um cachorro que é usado como o seu principal modo de se mover e agarrar coisas (e também foi quem comeu as calças de Eddie, então a culpa é meio que dele).
 
-![Penny's Big Breakaway](/img/reviews/pennys-big-breakaway/yoyo.jpg)
+![Penny's Big Breakaway](/assets/reviews/pennys-big-breakaway/yoyo.jpg)
 
 O jogo também é muito colorido como nos trailers (às vezes até demais). É ótimo ter esses cenários brilhando na tela, mas **achei difícil diferenciar alguns dos mundos** do jogo. A maioria é apenas o mesmo piso com uma tonalidade diferente e um ou dois novos elementos de gameplay. Dito isto, **Penny's Big Breakaway** sabe como ser um jogo visualmente lindo, não importa quando você olha para ele.
 
@@ -47,7 +47,7 @@ Joguei muitos platformers 3D na minha vida e a maioria deles se concentra muito 
 
 A grande vantagem desses verbos simples é que eles são provavelmente os únicos que você precisa usar para terminar a história principal, mas também, ao mesmo tempo, são ingredientes para interações ainda mais complexas e avançadas. Você pode pular em uma escada degrau por degrau e chegar ao topo, ou pode dar um salto triplo, jogar o chapéu, pular nele e depois mergulhar. **Essa flexibilidade não só pode ajudar a separar objetivos e desafios através dos níveis de domínio, mas também permite que os jogadores controlem a complexidade de suas ações.**
 
-![Penny's Big Breakaway](/img/reviews/pennys-big-breakaway/water.jpg)
+![Penny's Big Breakaway](/assets/reviews/pennys-big-breakaway/water.jpg)
 
 Claro, Mario é o rei dos jogos de plataforma e não é tão justo comparar-se com ele, mas muitos jogos seguem a mesma ideia: verbos simples que são a fonte de uma árvore complexa de ações e possibilidades. **Penny's Big Breakaway, porém, vai na direção oposta.** Já no tutorial, o nível zero do jogo, você é apresentado a **muitas ações complexas**, com pequenos detalhes que podem mudar completamente o resultado do movimento de Penny.
 
@@ -55,7 +55,7 @@ Por exemplo, você tem um botão para pular, e se você pressioná-lo novamente,
 
 Eu precisava pensar em todas essas variáveis **só para atravessar um buraco grande**. Não é tão difícil de fazer, mas parece muito mais complexo do que deveria ser! Outro exemplo é quando você pressiona o botão de gatilho para "montar" no ioiô e ficar mais rápido... somente se você já tiver impulso suficiente para começar o movimento. Você pode segurar o botão pra "carregar", mas ele só funciona se você estiver completamente imóvel. **Senão você monta no ioiô e para de se mover**, é até um pouco engraçado.
 
-![Penny's Big Breakaway](/img/reviews/pennys-big-breakaway/combo.jpg)
+![Penny's Big Breakaway](/assets/reviews/pennys-big-breakaway/combo.jpg)
 
 Como essas ações são **mapeadas para o controle** também é muito estranho. O botão do ioiô, quando pressionado no chão, é um ataque semelhante a um chicote. Mas se você pressioná-lo duas vezes, Penny dá um "dash" tão rápido que é difícil mudar de direção. Então, quando um enxame de pinguins vem em sua direção e você tenta atacá-los várias vezes, você sempre ativará o dash e provavelmente vai cair no precipício. Em todos os níveis, você precisa levar tudo isso (e muito mais) em consideração, independentemente de quanto deseja investir para dominá-lo.
 
@@ -69,14 +69,16 @@ OK, digamos que você seja o público perfeito para este jogo, **Penny's Big Bre
 
 Existem **alguns power-ups que podem ser encontrados durante os níveis que alteram as habilidades de Yo-Yo**, como uma pimenta que permite andar rapidamente ou um martelo que pode ser usado para quebrar paredes de pedra. Eles são OK na maioria das vezes, mas alguns deles são de uso único E tem um limite de tempo para serem ativados... então você precisa correr para usar uma coisa que só pode ser usada uma vez, e eu não entendi ainda o porquê.
 
-![Penny's Big Breakaway](/img/reviews/pennys-big-breakaway/ride.jpg)
+![Penny's Big Breakaway](/assets/reviews/pennys-big-breakaway/ride.jpg)
 
 Mas o maior problema para mim e para todos que vão jogar, independentemente do tipo de jogador, foram os bugs. Eu sei (e espero) que a maioria deles será corrigida em breve em alguma atualização, mas **é bizarro o quanto o Penny's Big Breakaway está bugado agora**. Além dos travamentos completos, às vezes a geometria do nível era apenas uma mera sugestão para Penny, que era capaz de passar por paredes e cair no abismo muitas vezes. Ficar preso em qualquer objeto e ser forçado a reiniciar a partir do último checkpoint era menos comum, mas aconteceu vezes o suficiente para eu precisar comentar sobre.
 
 O pior bug para mim foi durante uma luta de chefe que eu, ao tentar atacar pinguins, corri e caí no abismo. MAS ENTÃO o jogo trouxe Penny de volta **FORA DA PLATAFORMA** várias vezes, sem tempo para reagir. Sim, perdi todas as minhas vidas, e o jogo apenas reiniciou a luta desde o início. Não importa seu nível de habilidade com os controles, a frustração vai chegar em você de algum jeito.
 
-{% render "components/youtube" id:"-0NBFkCQamU" %}
+ {% yt '-0NBFkCQamU' %}
 
 Se você é um especialista em plataformas 3D, ou adora entender e dominar sistemas de ação complexos, ou apenas se diverte tentando montar um grande combo, você será capaz de superar os bugs e se divertir em **Penny's Big Breakaway**. Não só o título foi feito para jogar desta forma, mas você também poderá desfrutar dos ótimos visuais e da incrível trilha sonora que ele tem a oferecer. Mas, se você buscava uma experiência mais tranquila, com uma curva de aprendizado mais equilibrada, ainda pode se divertir, mas não sem uma frustração constante e borrifada. Existem jogos mais convidativos no mercado para você e este não parece que foi criado pra rodar bem (!) com públicos mais variados.
 
-{% render "components/thanks" lang:lang %}
+{% iconText 'favorite' %}
+  O time de desenvolvimento me enviou uma cópia do jogo para que eu pudesse conhecê-lo e escrever esse texto. Obrigado pela confiança!
+{% endiconText %}

@@ -1,0 +1,94 @@
+---
+layout: layouts/base.njk
+header: blog
+eleventyExcludeFromCollections: true
+---
+
+<section class="section-bloglist">
+  <div class="blog-header">
+    <h1>{{ 'blog.header.title' | t }}</h1>
+    <a class="btn secondary small" href='{{ 'url.rss' | t }}'>
+      <span class="icon rss-icon">rss_feed</span>
+      <span class="rss-text">{{ 'blog.header.rss' | t }}</span>
+    </a>
+  </div>
+
+  <div class="blog-list">
+    {% for item in pagination.items %}
+    <div class="blog-item">
+      <div class="blog-thumb" style="background-image: url('{{ item.data.thumbnail }}')"></div>
+      <div class="blog-data">
+        <span class="date">{{ item.data.date | dateFormat }}</span>
+        <a href="{{ item.page.url }}"><h4>{{ item.data.title }}</h4></a>
+        <span class="pill {{ item.data.pill }}">{{ item.data.category }}</span>
+      </div>
+
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section-pagination">
+  <nav class="pagination">
+    {% if pagination.href.previous %}
+      <a class="item icon" href="{{ pagination.href.previous }}">arrow_back</a>
+    {% else %}
+      <span class="item icon disabled">arrow_back</span>
+    {% endif %}
+
+    <a
+      href="{{ pagination.href.first }}"
+      class="item {{ "active" if page.url == pagination.href.first }}"
+    >
+      1
+    </a>
+
+    {% if (pagination.pageNumber - 1) > 1 %}
+      <span class="item disabled">...</span>
+    {% endif %}
+
+    {% if (pagination.pageNumber - 1) > 0 and (pagination.pageNumber - 1) < pagination.hrefs.length - 1 %}
+      <a
+        href="{{ pagination.hrefs[pagination.pageNumber - 1] }}"
+        class="item"
+      >
+        {{ pagination.pageNumber }}
+      </a>
+    {% endif %}
+
+    {% if pagination.pageNumber > 0 and pagination.pageNumber < pagination.hrefs.length - 1 %}
+      <a
+        href="{{ pagination.hrefs[pagination.pageNumber] }}"
+        class="item active"
+      >
+        {{ pagination.pageNumber + 1 }}
+      </a>
+    {% endif %}
+
+    {% if (pagination.pageNumber + 1) > 0 and (pagination.pageNumber + 1) < pagination.hrefs.length - 1 %}
+      <a
+        href="{{ pagination.hrefs[pagination.pageNumber + 1] }}"
+        class="item"
+      >
+        {{ pagination.pageNumber + 2 }}
+      </a>
+    {% endif %}
+
+    {% if (pagination.pageNumber + 1) < pagination.hrefs.length - 2 %}
+      <span class="item disabled">...</span>
+    {% endif %}
+
+    <a
+      href="{{ pagination.href.last }}"
+      class="item {{ "active" if page.url == pagination.href.last }}"
+    >
+      {{ pagination.hrefs.length }}
+    </a>
+
+    {% if pagination.href.next %}
+      <a class="item icon" href="{{ pagination.href.next }}">arrow_forward</a>
+    {% else %}
+      <span class="item icon disabled">arrow_forward</span>
+    {% endif %}
+  </nav>
+</section>

@@ -7,13 +7,18 @@ tags:
 title: Medido em graus Celsius
 date: 2013-07-25
 
+category: Devaneios
+pill: pink
+
 subtitle: Já ouviu falar em "termômetro biológico"? Eu já, e foi em um sonho.
 description: Já ouviu falar em "termômetro biológico"? Eu já, e foi em um sonho.
 
-thumbnail: "/img/posts/medido-graus-celsius/thumbnail.jpg"
+thumbnail: "/assets/posts/medido-graus-celsius/thumbnail.jpg"
 ---
 
-{% render "components/thanks" icon:"icons/time" message:"Eu escrevi esse texto em 2013, no auge do meu Ensino Médio. Eu tenho um carinho especial por ele (e alguns outros), e como eu parei de atualizar o lugar onde estavam, trouxe-os pra cá." %}
+{% iconText 'hourglass_bottom' %}
+  Eu escrevi esse texto em 2013, no auge do meu Ensino Médio. Eu tenho um carinho especial por ele (e alguns outros), e como eu parei de atualizar o lugar onde estavam, trouxe-os pra cá.
+{% endiconText %}
 
 São poucos os sonhos que tenho e consigo me lembrar depois, principalmente se faz tempo que isso aconteceu. Mas esse ficou na minha cabeça como um grande WTF. Na verdade, eu ainda não entendi como eu consegui sonhar nisso.
 

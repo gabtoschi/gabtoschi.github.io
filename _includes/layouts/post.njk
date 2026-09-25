@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+header: blog
+---
+
+<article>
+  <section class="post-header">
+    <div class="thumbnail" style="background-image: url('{{ thumbnail }}')"></div>
+    <h1>{{ title }}</h1>
+    <div class="meta">
+      <span class="pill {{ pill }}">{{ category }}</span>
+      <span class="date">{{ date | dateFormat }}</span>
+    </div>
+  </section>
+
+  {{ content | safe }}
+</article>
+
+<div class="post-footer">
+  {% if backToArchive %}
+    <a class="btn secondary large" href="{{ 'url.archive' | t }}">{{ 'blog.post.back.archive' | t }}</a>
+  {% else %}
+    <a class="btn secondary large" href="{{ 'url.blog' | t }}">{{ 'blog.post.back.blog' | t }}</a>
+  {% endif %}
+</div>
+
+<script src="/assets/scripts/external-links.js"></script>

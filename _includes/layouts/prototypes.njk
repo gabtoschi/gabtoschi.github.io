@@ -1,0 +1,72 @@
+---
+layout: layouts/base.njk
+header: prototypes
+
+buttons:
+  - id: video
+    icon: play_circle
+  - id: play
+    icon: casino
+  - id: sheet
+    icon: draft
+  - id: rules
+    icon: book_2
+  - id: pnp
+    icon: print
+
+info:
+  - id: players
+    icon: person
+  - id: time
+    icon: timelapse
+  - id: type
+    icon: chess_queen
+---
+<section class="page-prototypes">
+  {% for item in collections[['prototypes-', lang] | join] %}
+    <div class="proto-card">
+      <div class="proto-left">
+        <div class="proto-content">
+          <h1>{{ item.data.title }}</h1>
+          <h5>{{ item.data.subtitle }}</h5>
+          {{ item.content | safe }}
+        </div>
+
+        <div class="proto-buttons">
+          {% for button in buttons %}
+            {% if item.data[button.id] %}
+              <a target="_blank" href="{{ item.data[button.id] }}">
+                <span class="icon">{{ button.icon }}</span>
+                <span class="label">{{ ['prototypes.button.', button.id] | join | t }}</span>
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="proto-right">
+        <div class="proto-thumb" style="background-image: url({{ item.data.thumbnail }})"></div>
+        <div class="proto-info">
+          {% for line in info %}
+            <span>
+              <span class="icon">{{ line.icon }}</span>
+              <span class="label">{{ item.data[line.id] }}</span>
+            </span>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+  <section class="proto-cta">
+    <div class="cta-left">
+      <h1>{{ 'prototypes.cta.title' | t }}</h1>
+      <h4>{{ 'prototypes.cta.subtitle' | t }}</h4>
+    </div>
+    <div class="cta-right">
+      <a href="{{ 'url.contact' | t }}" class="btn primary large">{{ 'prototypes.cta.button' | t }}</a>
+    </div>
+  </section>
+</section>
+
+<script src="/assets/scripts/external-links.js"></script>

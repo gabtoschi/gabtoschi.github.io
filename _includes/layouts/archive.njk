@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+---
+
+{{ content | safe }}
+
+<section class="archive-list">
+  {% for letter, list in collections[['archive-', lang] | join] | alphaIndex %}
+    <h2 class="letter">{{ letter }}</h2>
+    {% for item in list %}
+      <ul>
+        <li><a href="{{ item.page.url }}">{{ item.data.title }}</a></li>
+      </ul>
+    {% endfor %}
+  {% endfor %}
+</section>
