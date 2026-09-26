@@ -35,8 +35,7 @@
 
     @media (max-width: 1000px) {
       width: stretch;
-      flex-direction: row;
-      flex-wrap: wrap;
+      align-items: center;
       row-gap: 20px;
     }
   }

@@ -6,6 +6,12 @@
     align-items: center;
     gap: 30px;
     margin-bottom: 50px;
+
+    @media (max-width: 1000px) {
+      flex-direction: column;
+      gap: 20px;
+      text-align: center;
+    }
   }
 
   .blog-list {

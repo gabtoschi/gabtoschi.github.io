@@ -45,6 +45,10 @@
         font-family: var(--font-title);
         font-size: 64px;
         text-shadow: 4px 4px var(--white);
+
+        @media (max-width: 1000px) {
+          font-size: 36px;
+        }
       }
 
       p {
