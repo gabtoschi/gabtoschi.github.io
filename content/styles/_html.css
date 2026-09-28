@@ -64,6 +64,13 @@ article {
     display: flex;
     justify-content: center;
 
+    margin-top: 32px;
+    margin-bottom: 32px;
+
+    &:has(+ blockquote) {
+      margin-bottom: 12px;
+    }
+
     img {
       width: 80%;
 
@@ -76,6 +83,17 @@ article {
   h1 {
     @media (max-width: 650px) {
       font-size: 40px;
+    }
+  }
+
+  blockquote {
+    margin: 32px 40px;
+    margin-top: 0px;
+
+    p, a {
+      font-style: italic;
+      text-align: center;
+      font-size: 16px !important;
     }
   }
 }
